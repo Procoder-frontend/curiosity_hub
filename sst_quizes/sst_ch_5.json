@@ -1,0 +1,500 @@
+{
+  "chapter_5_pool": [
+    {
+      "id": 1,
+      "question": "Who described the adoption of Universal Adult Franchise as 'an abundant faith in the common man and in the ultimate success of democratic rule'?",
+      "options": [
+        "A) Dr. B.R. Ambedkar",
+        "B) Alladi Krishnaswami Ayyar",
+        "C) Jawaharlal Nehru",
+        "D) Rajendra Prasad"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "During which month and year did the Constituent Assembly discuss the implementation of Universal Adult Franchise in detail?",
+      "options": [
+        "A) August 1947",
+        "B) November 1949",
+        "C) January 1950",
+        "D) December 1946"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "question": "What does Universal Adult Franchise mean?",
+      "options": [
+        "A) Only educated citizens can vote",
+        "B) Every adult citizen has the right to vote without discrimination",
+        "C) Only taxpayers can vote",
+        "D) Only government employees can vote"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 4,
+      "question": "Before Independence, voting rights under British rule mainly depended upon:",
+      "options": [
+        "A) Literacy and property ownership",
+        "B) Religion",
+        "C) Gender alone",
+        "D) Military service"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 5,
+      "question": "According to the chapter, discrimination in voting rights was based on all of the following EXCEPT:",
+      "options": [
+        "A) Education",
+        "B) Wealth",
+        "C) Property",
+        "D) Blood group"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 6,
+      "question": "Which principle reflects the democratic idea that every citizen's vote has equal value?",
+      "options": [
+        "A) Universal Adult Franchise",
+        "B) Judicial Review",
+        "C) Federalism",
+        "D) Separation of Powers"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 7,
+      "question": "Universal Adult Franchise in India demonstrates faith in:",
+      "options": [
+        "A) Only educated citizens",
+        "B) The wisdom of the common people",
+        "C) Political parties alone",
+        "D) Wealthy landowners"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 8,
+      "question": "According to the chapter, Universal Adult Franchise is considered the foundation of:",
+      "options": [
+        "A) Monarchy",
+        "B) Democracy",
+        "C) Colonial rule",
+        "D) Military government"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "question": "The class election activity in the chapter is mainly intended to help students understand:",
+      "options": [
+        "A) Court proceedings",
+        "B) The election process",
+        "C) Tax collection",
+        "D) Budget preparation"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "In the class election activity, what is prepared before voting begins?",
+      "options": [
+        "A) A voter list",
+        "B) A budget",
+        "C) A timetable",
+        "D) A report card"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 11,
+      "question": "What is the first step for a voter at the polling station according to the chapter?",
+      "options": [
+        "A) Press the EVM button",
+        "B) Get the finger marked with ink",
+        "C) Verification of name and identity",
+        "D) Collect the VVPAT slip"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 12,
+      "question": "Which principle is demonstrated when students vote secretly during the classroom election?",
+      "options": [
+        "A) Secret Ballot",
+        "B) Coalition Government",
+        "C) Judicial Review",
+        "D) Public Voting"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 13,
+      "question": "The classroom election activity mainly encourages students to become:",
+      "options": [
+        "A) Responsible democratic citizens",
+        "B) Business leaders",
+        "C) Scientists",
+        "D) Judges"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 14,
+      "question": "Which constitutional body conducts elections to Parliament and State Legislatures?",
+      "options": [
+        "A) Supreme Court",
+        "B) Election Commission of India",
+        "C) NITI Aayog",
+        "D) Ministry of Home Affairs"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 15,
+      "question": "Which quality of the Election Commission helps ensure free and fair elections?",
+      "options": [
+        "A) Political control",
+        "B) Independence",
+        "C) Military supervision",
+        "D) Private funding"
+      ],
+      "answer": "B"
+    },
+    
+    {
+    "id": 16,
+    "question": "Which technological device is used in India to record votes electronically during elections?",
+    "options": [
+      "A) Optical Scanner",
+      "B) Electronic Voting Machine (EVM)",
+      "C) Digital Ballot Box",
+      "D) Smart Voting Tablet"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "question": "What is the full form of VVPAT?",
+    "options": [
+      "A) Verified Voting Process and Tracking",
+      "B) Voter Verifiable Paper Audit Trail",
+      "C) Voter Validation Polling Access Terminal",
+      "D) Voting Verification Public Audit Tool"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "question": "What is the purpose of the VVPAT system?",
+    "options": [
+      "A) To increase the speed of counting votes",
+      "B) To allow voters to verify that their vote has been recorded correctly",
+      "C) To replace the Election Commission",
+      "D) To identify the voter after voting"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "question": "How often are General Elections to the Lok Sabha normally held?",
+    "options": [
+      "A) Every 3 years",
+      "B) Every 4 years",
+      "C) Every 5 years",
+      "D) Every 6 years"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 20,
+    "question": "Approximately how many elected constituencies are there for the Lok Sabha according to the chapter?",
+    "options": [
+      "A) 250",
+      "B) 412",
+      "C) 543",
+      "D) 552"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 21,
+    "question": "Why are parliamentary constituencies created?",
+    "options": [
+      "A) To divide states according to area",
+      "B) To ensure each elected representative serves nearly equal numbers of people",
+      "C) To increase the number of political parties",
+      "D) To simplify tax collection"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 22,
+    "question": "What is the main purpose of the Secret Ballot system?",
+    "options": [
+      "A) To hide the election date",
+      "B) To keep the voter's choice confidential",
+      "C) To prevent vote counting",
+      "D) To reduce the number of polling stations"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "question": "What does NOTA stand for?",
+    "options": [
+      "A) No Official Ticket Available",
+      "B) None of the Above",
+      "C) National Option to Approve",
+      "D) No Other Trusted Alternative"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 24,
+    "question": "What does selecting NOTA indicate?",
+    "options": [
+      "A) Support for all candidates",
+      "B) Rejection of all contesting candidates",
+      "C) Cancellation of the election",
+      "D) Voting for an independent candidate"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 25,
+    "question": "What is the main purpose of reserving some Lok Sabha seats for Scheduled Castes and Scheduled Tribes?",
+    "options": [
+      "A) To reduce the number of constituencies",
+      "B) To ensure representation of historically disadvantaged communities",
+      "C) To increase political parties",
+      "D) To encourage urban development"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 26,
+    "question": "According to the chapter, what challenge is commonly observed in many metropolitan cities during elections?",
+    "options": [
+      "A) Excessive polling stations",
+      "B) Urban apathy",
+      "C) Lack of political parties",
+      "D) Delay in vote counting"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 27,
+    "question": "The Election Commission encourages citizens to overcome urban apathy mainly by:",
+    "options": [
+      "A) Increasing taxes",
+      "B) Motivating greater voter participation",
+      "C) Reducing polling stations",
+      "D) Limiting election campaigns"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 28,
+    "question": "According to the chapter, what was one significant feature of the 2024 Lok Sabha elections?",
+    "options": [
+      "A) Elections were conducted entirely online",
+      "B) Women voters participated in very large numbers",
+      "C) Paper ballots replaced EVMs",
+      "D) Only two political parties contested"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 29,
+    "question": "What is the Model Code of Conduct?",
+    "options": [
+      "A) A law passed by Parliament",
+      "B) A set of guidelines for political parties and candidates during elections",
+      "C) Rules for Supreme Court judges",
+      "D) A financial policy of the Election Commission"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 30,
+    "question": "The main objective of the Model Code of Conduct is to ensure:",
+    "options": [
+      "A) Higher election expenses",
+      "B) Free and fair elections",
+      "C) Longer election campaigns",
+      "D) Fewer political parties"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 31,
+    "question": "According to the Model Code of Conduct, political parties and candidates should avoid:",
+    "options": [
+      "A) Respecting opponents",
+      "B) Appealing to caste or religious feelings to secure votes",
+      "C) Explaining their election manifesto",
+      "D) Holding public meetings with permission"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 32,
+    "question": "The Model Code of Conduct comes into force from the date:",
+    "options": [
+      "A) Election results are declared",
+      "B) The election schedule is announced",
+      "C) The new government takes office",
+      "D) Polling is completed"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 33,
+    "question": "Which of the following is expected from political parties under the Model Code of Conduct?",
+    "options": [
+      "A) Criticise opponents only on policies and programmes",
+      "B) Use places of worship for election campaigns",
+      "C) Offer gifts to voters",
+      "D) Spread false information about opponents"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 34,
+    "question": "The members of the Lok Sabha are:",
+    "options": [
+      "A) Directly elected by the people",
+      "B) Nominated by the President",
+      "C) Elected by State Legislative Assemblies",
+      "D) Appointed by the Prime Minister"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 35,
+    "question": "How are the elected members of the Rajya Sabha chosen?",
+    "options": [
+      "A) By direct voting of all citizens",
+      "B) By elected members of the State Legislative Assemblies",
+      "C) By the President",
+      "D) By the Prime Minister"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 36,
+    "question": "Why is the Rajya Sabha called a permanent House?",
+    "options": [
+      "A) Its members are elected for life",
+      "B) It is never dissolved completely",
+      "C) It has more members than the Lok Sabha",
+      "D) It meets throughout the year"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 37,
+    "question": "What fraction of the members of the Rajya Sabha retire after every two years?",
+    "options": [
+      "A) One-half",
+      "B) One-third",
+      "C) One-fourth",
+      "D) Two-thirds"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 38,
+    "question": "What is the term of office of an elected member of the Rajya Sabha?",
+    "options": [
+      "A) Four years",
+      "B) Five years",
+      "C) Six years",
+      "D) Seven years"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 39,
+    "question": "How many members are nominated to the Rajya Sabha by the President?",
+    "options": [
+      "A) 10",
+      "B) 12",
+      "C) 15",
+      "D) 20"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 40,
+    "question": "The President nominates members to the Rajya Sabha for their contribution in fields such as:",
+    "options": [
+      "A) Science, literature, art and social service",
+      "B) Agriculture and trade only",
+      "C) Sports only",
+      "D) Defence services only"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 41,
+    "question": "Which voting system is used for the election of the President of India according to the chapter?",
+    "options": [
+      "A) First-Past-the-Post System",
+      "B) Single Transferable Vote System",
+      "C) Open Ballot System",
+      "D) Voice Vote"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 42,
+    "question": "Who elects the Vice President of India according to the chapter?",
+    "options": [
+      "A) Members of both Houses of Parliament",
+      "B) Members of all State Legislative Assemblies",
+      "C) Only the Lok Sabha",
+      "D) Only the Rajya Sabha"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 43,
+    "question": "According to the chapter, home voting has been introduced mainly for:",
+    "options": [
+      "A) Government employees",
+      "B) Senior citizens and Persons with Disabilities",
+      "C) Students living in hostels",
+      "D) Members of political parties"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 44,
+    "question": "According to the chapter, the Election Commission makes special efforts to ensure that:",
+    "options": [
+      "A) Every political party wins some seats",
+      "B) Every eligible voter gets an opportunity to vote, even in remote areas",
+      "C) Voting takes place only in cities",
+      "D) Elections are completed in a single day"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 45,
+    "question": "According to the chapter, why are free and fair elections essential in a democracy?",
+    "options": [
+      "A) They allow citizens to choose their representatives peacefully",
+      "B) They increase the number of political parties",
+      "C) They reduce the powers of Parliament",
+      "D) They eliminate the need for state governments"
+    ],
+    "answer": "A"
+  }
+  ]
+}

@@ -1,0 +1,499 @@
+{
+  "chapter_12_pool": [
+    {
+      "id": 1,
+      "question": "What is an 'elephant corridor'?",
+      "options": [
+        "A) A man-made tunnel specifically for elephants",
+        "B) A path or strip of land that allows elephants to move between different forest habitats",
+        "C) A large enclosure in a zoo for housing elephants",
+        "D) A type of fencing used by farmers to keep elephants away"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "Why do elephants sometimes enter human-inhabited areas like farms and villages?",
+      "options": [
+        "A) They enjoy interacting with humans",
+        "B) Because they prefer human-grown crops over wild vegetation",
+        "C) Due to the loss of their natural habitat and food sources",
+        "D) They are seeking shelter from the cold"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "question": "What is one consequence of cutting down trees for roads and buildings near forests?",
+      "options": [
+        "A) It increases the rainfall in the area",
+        "B) It leads to the drying and shrinking of forest habitats",
+        "C) It creates more food for elephants",
+        "D) It makes the forests more lush and dense"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 4,
+      "question": "What kind of relationships does a tree have with other components of a forest ecosystem?",
+      "options": [
+        "A) It has interdependent relationships with water, sunlight, soil, and animals",
+        "B) It only interacts with other trees",
+        "C) It is completely independent and does not rely on anything",
+        "D) It only interacts with humans"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 5,
+      "question": "If two kinds of birds compete for the same fruit in a forest, what might happen to their 'way of living' over a very long time?",
+      "options": [
+        "A) They will eventually start eating the same amount of food",
+        "B) One species will instantly become extinct",
+        "C) They may evolve or change their feeding habits/niche to reduce competition",
+        "D) They will stop needing food to survive"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is an example of a sustainable farming practice?",
+      "options": [
+        "A) Using large amounts of chemical pesticides",
+        "B) Adopting eco-friendly techniques like organic composting",
+        "C) Promoting monoculture (growing only one crop)",
+        "D) Clearing more forest land every year"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "question": "How do changes in rainfall and temperature primarily affect forest ecosystems?",
+      "options": [
+        "A) They make the forest grow faster",
+        "B) They have no impact on the forest ecosystem",
+        "C) They affect vegetation growth, which in turn affects animal habitats",
+        "D) They cause trees to become stronger"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "question": "What role does the 'Harmony' in nature refer to in the context of this chapter?",
+      "options": [
+        "A) The balance and interdependence of all living and non-living components",
+        "B) Nature remains unchanged by any outside influence",
+        "C) That humans should be completely separated from nature",
+        "D) That only animals contribute to nature's harmony"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 9,
+      "question": "What is a major challenge caused by elephants wandering into farms?",
+      "options": [
+        "A) They improve the quality of the soil for farmers",
+        "B) They cause crop damage and threaten the safety of people",
+        "C) They help the farmers harvest their crops faster",
+        "D) They bring medicinal plants to the farms"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "Why is it important to understand farming practices in relation to forest conservation?",
+      "options": [
+        "A) Because farming has no effect on forests",
+        "B) To maximize the use of chemical fertilizers",
+        "C) To expand farms into the middle of dense forests",
+        "D) To identify sustainable techniques that do not harm nearby wildlife habitats"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is a primary component of a forest ecosystem?",
+      "options": [
+        "A) Just trees",
+        "B) Only the animals living in the forest",
+        "C) Living organisms and their physical environment",
+        "D) Just the soil and water"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 12,
+      "question": "How do animals contribute to the forest ecosystem?",
+      "options": [
+        "A) By consuming all the vegetation",
+        "B) By participating in cycles like pollination and seed dispersal",
+        "C) By strictly competing with humans",
+        "D) By causing trees to die"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 13,
+      "question": "What is the result of increasing human population near forest edges?",
+      "options": [
+        "A) Increased forest cover",
+        "B) Better living conditions for wild animals",
+        "C) Increased conflict between humans and wildlife",
+        "D) No impact on the ecosystem"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "question": "Why is 'biodiversity' important in a forest?",
+      "options": [
+        "A) It makes the forest look good",
+        "B) It is not important",
+        "C) It ensures the ecosystem is resilient and functional",
+        "D) It only helps humans"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 15,
+      "question": "What is the role of decomposers in a forest?",
+      "options": [
+        "A) To consume living trees",
+        "B) To compete with plants for sunlight",
+        "C) To break down dead matter and return nutrients to the soil",
+        "D) They have no role"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 16,
+      "question": "How does road construction through forests negatively impact animals?",
+      "options": [
+        "A) It fragments their habitat, making movement difficult and dangerous",
+        "B) It provides them with new paths",
+        "C) It improves their access to water",
+        "D) It has no negative impact"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 17,
+      "question": "What is a sustainable approach to managing forests?",
+      "options": [
+        "A) Clearing land for agriculture",
+        "B) Total isolation of forests",
+        "C) Protecting natural habitats while meeting human needs thoughtfully",
+        "D) Using forests only for timber extraction"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 18,
+      "question": "Why do plants depend on animals?",
+      "options": [
+        "A) For sunlight",
+        "B) For water",
+        "C) For seed dispersal and pollination",
+        "D) They don't depend on animals"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 19,
+      "question": "What is an indicator of a healthy forest ecosystem?",
+      "options": [
+        "A) Lack of animals",
+        "B) Diverse range of plant and animal species",
+        "C) Large human settlements inside it",
+        "D) Only one type of tree"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "question": "What is 'interdependence' in nature?",
+      "options": [
+        "A) Animals living alone",
+        "B) Humans being independent of nature",
+        "C) All components of nature depending on each other for survival",
+        "D) Plants growing without soil"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 21,
+      "question": "How does water cycling within a forest work?",
+      "options": [
+        "A) Trees play no role",
+        "B) Water only stays on the ground",
+        "C) Trees absorb water and release it via transpiration, affecting rainfall",
+        "D) The forest dries up all water"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 22,
+      "question": "What could happen if a keystone species (like elephants) is removed from a forest?",
+      "options": [
+        "A) The forest would thrive",
+        "B) The structure and balance of the entire ecosystem could collapse",
+        "C) Other animals would become stronger",
+        "D) It would have no effect"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 23,
+      "question": "Which of these is a human-made threat to forests?",
+      "options": [
+        "A) Natural rainfall",
+        "B) Animal migration",
+        "C) Deforestation for infrastructure",
+        "D) Natural tree growth"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "question": "Why is it necessary to respect animal migration paths?",
+      "options": [
+        "A) It prevents human-wildlife conflict",
+        "B) It allows animals to find food and mating partners",
+        "C) Neither A nor B",
+        "D) Both A and B"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 25,
+      "question": "What is the primary food source for elephants in their natural habitat?",
+      "options": [
+        "A) Meat",
+        "B) Only bananas",
+        "C) Variety of wild plants, grasses, and bark",
+        "D) They don't eat in the wild"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 26,
+      "question": "How can we reduce human-wildlife conflict?",
+      "options": [
+        "A) By destroying all forests",
+        "B) By moving animals to cities",
+        "C) By respecting wildlife habitats and using sustainable farming",
+        "D) By building more roads"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 27,
+      "question": "What is the main purpose of an ecological study?",
+      "options": [
+        "A) To kill animals",
+        "B) To understand the relationships between organisms and their environment",
+        "C) To make money",
+        "D) To build cities"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 28,
+      "question": "How do forests help in climate regulation?",
+      "options": [
+        "A) They absorb carbon dioxide and release oxygen",
+        "B) They produce heat",
+        "C) They increase pollution",
+        "D) They stop the wind"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 29,
+      "question": "What is a major cause of global biodiversity loss?",
+      "options": [
+        "A) Protecting natural areas",
+        "B) Planting more trees",
+        "C) Habitat destruction and pollution",
+        "D) Scientific research"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 30,
+      "question": "Why do some animals evolve specialized traits?",
+      "options": [
+        "A) By accident",
+        "B) To please humans",
+        "C) They don't evolve",
+        "D) To better survive in their specific environment or niche"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 31,
+      "question": "What is a 'natural disaster' sometimes linked to forest loss?",
+      "options": [
+        "A) Sunshine",
+        "B) Landslides and floods",
+        "C) Moonlight",
+        "D) Breeze"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 32,
+      "question": "How can students help in forest conservation?",
+      "options": [
+        "A) By cutting trees",
+        "B) By learning about and advocating for nature",
+        "C) By ignoring nature",
+        "D) By polluting water"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 33,
+      "question": "Which of these is NOT a natural component of a forest?",
+      "options": [
+        "A) Sunlight",
+        "B) Soil",
+        "C) Microorganisms",
+        "D) A multi-story parking lot"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 34,
+      "question": "What is meant by the 'niche' of an organism?",
+      "options": [
+        "A) Its home address",
+        "B) Its physical strength",
+        "C) The specific role or function it plays in the ecosystem",
+        "D) How much it eats"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 35,
+      "question": "Why are forests often called the 'lungs of the Earth'?",
+      "options": [
+        "A) They look like lungs",
+        "B) Because of their role in oxygen production",
+        "C) Because they are always breathing",
+        "D) Because they are made of cells"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 36,
+      "question": "What is sustainable farming?",
+      "options": [
+        "A) Farming that exhausts the soil",
+        "B) Farming that uses only chemicals",
+        "C) Farming that meets needs without compromising future resources",
+        "D) Not farming at all"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 37,
+      "question": "How can we observe 'nature in harmony'?",
+      "options": [
+        "A) In a concrete city",
+        "B) In a healthy, undisturbed ecosystem",
+        "C) In a chemical factory",
+        "D) In a shopping mall"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 38,
+      "question": "What is a consequence of soil erosion?",
+      "options": [
+        "A) More fertile land",
+        "B) Faster growth of plants",
+        "C) Loss of nutrient-rich topsoil",
+        "D) Cooler temperatures"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 39,
+      "question": "Which of these is a benefit of having trees on farms?",
+      "options": [
+        "A) They attract pests",
+        "B) They provide shade and prevent soil erosion",
+        "C) They stop crops from growing",
+        "D) They make farming harder"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 40,
+      "question": "What should be done before starting a new infrastructure project near a forest?",
+      "options": [
+        "A) Nothing",
+        "B) Environmental impact assessment",
+        "C) Burning the forest",
+        "D) Killing the animals"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 41,
+      "question": "What role do scavengers play in a forest?",
+      "options": [
+        "A) They eat fresh crops",
+        "B) They clean up dead animals",
+        "C) They grow plants",
+        "D) They have no role"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 42,
+      "question": "Why is water crucial for a forest ecosystem?",
+      "options": [
+        "A) It is not",
+        "B) It supports all living organisms and processes",
+        "C) Only to make it look nice",
+        "D) To kill plants"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 43,
+      "question": "How does biodiversity support ecosystem resilience?",
+      "options": [
+        "A) It makes the ecosystem weak",
+        "B) It allows the ecosystem to better recover from disturbances",
+        "C) It only matters for humans",
+        "D) It reduces the number of plants"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 44,
+      "question": "What is the result of long-term sustainable practices?",
+      "options": [
+        "A) Destruction of nature",
+        "B) Long-term health and stability of the environment",
+        "C) Immediate high profits",
+        "D) Loss of all species"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 45,
+      "question": "Why is public awareness about forest conservation important?",
+      "options": [
+        "A) It helps people make informed choices",
+        "B) It is a waste of time",
+        "C) It causes more pollution",
+        "D) It forces people to leave their homes"
+      ],
+      "answer": "A"
+    }
+  ]
+}

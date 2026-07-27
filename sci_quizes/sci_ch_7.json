@@ -1,0 +1,499 @@
+{
+  "chapter_7_pool": [
+    {
+      "id": 1,
+      "question": "Which of the following natural processes is primarily responsible for breaking down large mountain rocks into smaller pebbles, sand, and clay?",
+      "options": [
+        "A) Atmospheric electrostatic discharge",
+        "B) Erosion and transportation by flowing rivers",
+        "C) Magnetic core shifting inside the Earth",
+        "D) Sudden chemical expansion of industrial nitrogen"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "If you continue to crush a piece of classroom white chalk until it turns into a fine powder, what does this observation tell us about the composition of solid matter?",
+      "options": [
+        "A) Matter is a continuous, unbreakable block of solid energy",
+        "B) Matter will turn into a liquid state if crushed fast enough",
+        "C) Matter is made up of extremely small, individual particles",
+        "D) Matter loses its total mass completely when turned into powder"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "question": "What broad scientific term defines anything that has mass and occupies a distinct amount of physical space?",
+      "options": [
+        "A) Force",
+        "B) Pressure",
+        "C) Energy",
+        "D) Matter"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 4,
+      "question": "Which of the following cannot be classified as matter because it neither possesses mass nor occupies physical space?",
+      "options": [
+        "A) Sunlight or thoughts",
+        "B) Compressed oxygen gas",
+        "C) Liquid mustard oil",
+        "D) Dry grains of sand"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 5,
+      "question": "What name is given to the empty spaces or gaps present between the tiny constituent particles of any type of matter?",
+      "options": [
+        "A) Subatomic tracks",
+        "B) Interparticle spaces",
+        "C) Vacuum cells",
+        "D) Pressure gaps"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "question": "What is the name of the attractive force that keeps the tiny constituent particles of matter bound tightly to one another?",
+      "options": [
+        "A) Gravitational weight line",
+        "B) Electrostatic wind pressure",
+        "C) Interparticle force of attraction",
+        "D) Magnetic core drag"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 7,
+      "question": "When a small crystal of potassium permanganate dissolves in water, the entire solution turns pink. If we dilute this solution repeatedly with fresh water, it still retains its pink color. What does this experiment prove?",
+      "options": [
+        "A) Water molecules convert potassium into a heavy liquid dye",
+        "B) The interparticle space of a liquid is completely zero",
+        "C) Potassium crystals increase their total mass when mixed with water",
+        "D) A single tiny crystal is made of millions of incredibly small particles that spread out widely"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 8,
+      "question": "When you dissolve a spoonful of sugar completely in a beaker of water, why does the overall volume or water level not rise noticeably?",
+      "options": [
+        "A) Sugar particles fit neatly into the empty interparticle spaces between water particles",
+        "B) Sugar particles escape instantly into the air as a gas",
+        "C) Sugar particles dissolve by losing their physical mass completely",
+        "D) The liquid particles compress tightly to squeeze out excess volume"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 9,
+      "question": "What state of matter is characterized by having a completely fixed, definite shape and a rigid, definite volume?",
+      "options": [
+        "A) Liquid",
+        "B) Gas",
+        "C) Solid",
+        "D) Vapor"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 10,
+      "question": "Why do solid materials like iron rods, wooden blocks, and glass slides not change their shape easily when moved into different containers?",
+      "options": [
+        "A) Their particles are moving at the speed of wind currents",
+        "B) Their particles are packed very closely together with strong forces of attraction",
+        "C) They have massive interparticle spaces that absorb external pressure",
+        "D) They do not contain any atoms or molecules within their grid"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 11,
+      "question": "Which state of matter has a fixed, definite volume but lacks a fixed shape, allowing it to take the shape of whatever container it fills?",
+      "options": [
+        "A) Solid",
+        "B) Liquid",
+        "C) Gas",
+        "D) Plasma"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "What is the primary reason why liquids can flow easily and change their shape depending on the container?",
+      "options": [
+        "A) Their particles have absolutely zero attractive force between them",
+        "B) Their particles are completely lighter than air molecules",
+        "C) Their particles have more interparticle space and can slide past one another",
+        "D) They react chemically with the container walls to liquefy"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 13,
+      "question": "Which state of matter has neither a fixed shape nor a fixed volume, expanding completely to fill any available space it is placed in?",
+      "options": [
+        "A) Gas",
+        "B) Solid",
+        "C) Liquid",
+        "D) Crystal"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 14,
+      "question": "In which state of matter are the interparticle spaces the largest and the interparticle forces of attraction the weakest?",
+      "options": [
+        "A) Solid",
+        "B) Liquid",
+        "C) Gas",
+        "D) Gel"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 15,
+      "question": "The natural process where particles of different substances mix automatically with each other due to their continuous random motion is called:",
+      "options": [
+        "A) Compression",
+        "B) Erosion",
+        "C) Solidification",
+        "D) Diffusion"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 16,
+      "question": "Why does the fragrance of an open perfume bottle or an incense stick lit in one corner spread quickly across an entire room?",
+      "options": [
+        "A) Perfume particles are forced forward by gravitational waves",
+        "B) Gas particles move rapidly in all directions and diffuse quickly into the air",
+        "C) The air pressure in the room drops completely to zero near the bottle",
+        "D) Perfume particles melt down the solid air barriers instantly"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 17,
+      "question": "If you drop a drop of blue ink into a beaker of cold water and another drop into hot water, what distinct pattern will you observe regarding diffusion?",
+      "options": [
+        "A) The ink will diffuse much faster in the cold water beaker",
+        "B) The ink will diffuse much faster in the hot water beaker",
+        "C) The ink will not diffuse at all in hot water due to thermal shock",
+        "D) The rate of diffusion will remain exactly identical in both beakers"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 18,
+      "question": "What happens to the internal kinetic energy and speed of movement of matter particles when the temperature of the substance is raised?",
+      "options": [
+        "A) The particles slow down and freeze into static lines",
+        "B) The particles lose all their mass and convert into pressure voids",
+        "C) The particles move faster as their kinetic energy increases",
+        "D) The interparticle attraction increases to hold them frozen solid"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 19,
+      "question": "Comparing solids, liquids, and gases, which state shows the highest, most rapid rate of diffusion?",
+      "options": [
+        "A) Solids because they are highly dense",
+        "B) Liquids because they have a fixed volume template",
+        "C) All three states of matter diffuse at the exact same rate",
+        "D) Gases because their particles move rapidly with large interparticle spaces"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 20,
+      "question": "Why is it very easy to compress a large volume of gas inside a small syringe, whereas it is nearly impossible to compress water or chalk powder?",
+      "options": [
+        "A) Gases have very large interparticle spaces that can be reduced by pressure",
+        "B) Gas particles contain heavy elastic springs inside them",
+        "C) Solids and liquids have larger mass parameters than gases",
+        "D) Applying pressure converts gas particles directly into solid iron blocks"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 21,
+      "question": "What household fuel is stored inside metal cylinders by compressing a large volume of gas into a highly portable liquid form?",
+      "options": [
+        "A) Compressed Carbon Dioxide (CCD)",
+        "B) High-Resistance Nitrogen (HRN)",
+        "C) Liquefied Petroleum Gas (LPG)",
+        "D) Compressed Water Vapor (CWV)"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 22,
+      "question": "What name is given to the clean fuel used in urban public transport vehicles that is stored under very high pressure in tanks?",
+      "options": [
+        "A) Liquid Petroleum Oil",
+        "B) Compressed Natural Gas (CNG)",
+        "C) Liquefied Sulphur Vapor",
+        "D) High-Density Oxygen Fuel"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 23,
+      "question": "Why can aquatic animals like fish survive comfortably inside river and ocean water bodies?",
+      "options": [
+        "A) They synthesize their own water molecules inside their lungs",
+        "B) Liquid water transforms into pure oxygen when fish pass through it",
+        "C) Frictional forces inside water generate air bubbles automatically",
+        "D) Gases like oxygen from the atmosphere diffuse and dissolve into the water"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 24,
+      "question": "What physical state does water adopt when its temperature drops down to 0°C or lower under normal conditions?",
+      "options": [
+        "A) Gaseous water vapor",
+        "B) Solid ice",
+        "C) Liquid plasma state",
+        "D) Highly compressed gel"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 25,
+      "question": "The transition process during which a solid substance turns completely into a liquid state upon heating is known as:",
+      "options": [
+        "A) Melting (Solidification drop)",
+        "B) Evaporation",
+        "C) Condensation",
+        "D) Sublimation"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 26,
+      "question": "The constant temperature at which a solid substance turns completely into a liquid at atmospheric pressure is called its:",
+      "options": [
+        "A) Boiling point",
+        "B) Saturation point",
+        "C) Melting point",
+        "D) Diffusion metric"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 27,
+      "question": "What is the exact melting point of pure ice under normal atmospheric pressure conditions?",
+      "options": [
+        "A) 100°C",
+        "B) 0°C",
+        "C) 50°C",
+        "D) -10°C"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 28,
+      "question": "The process by which a liquid substance changes completely into a gas or vapor upon heating is called:",
+      "options": [
+        "A) Condensation",
+        "B) Melting",
+        "C) Deposition",
+        "D) Boiling (Vaporisation)"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 29,
+      "question": "The temperature at which a liquid starts boiling rapidly and turning into a gas at standard atmospheric pressure is its:",
+      "options": [
+        "A) Melting point",
+        "B) Boiling point",
+        "C) Diffusion node",
+        "D) Thermal peak"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 30,
+      "question": "What is the exact boiling point of pure liquid water at normal sea-level atmospheric pressure?",
+      "options": [
+        "A) 0°C",
+        "B) 50°C",
+        "C) 100°C",
+        "D) 212°C"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 31,
+      "question": "What process occurs when hot water vapor touches a cold glass surface, losing heat and turning back into liquid water droplets?",
+      "options": [
+        "A) Evaporation",
+        "B) Sublimation",
+        "C) Condensation",
+        "D) Melting"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 32,
+      "question": "The process by which a liquid state changes back into a rigid solid state upon losing heat energy is called:",
+      "options": [
+        "A) Vaporisation",
+        "B) Freezing (Solidification)",
+        "C) Condensation",
+        "D) Diffusion"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 33,
+      "question": "What unusual phenomenon happens to solid substances like camphor, naphthalene balls, or dry ice when they are heated?",
+      "options": [
+        "A) They turn into thick sticky liquids before vaporizing",
+        "B) They double their mass inside the container cell",
+        "C) They change directly from a solid state to a gaseous state without liquefying",
+        "D) They attract all surrounding metal pieces like electromagnets"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 34,
+      "question": "The direct transition of a substance from a solid state straight to a gaseous state without passing through the liquid phase is called:",
+      "options": [
+        "A) Sublimation",
+        "B) Vaporisation",
+        "C) Condensation",
+        "D) Melting"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 35,
+      "question": "When a gas or vapor changes directly back into a solid state upon cooling without becoming a liquid first, the process is called:",
+      "options": [
+        "A) Evaporation",
+        "B) Deposition",
+        "C) Melting",
+        "D) Diffusion"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 36,
+      "question": "The slow, natural process by which a liquid changes into its vapor state at any temperature below its official boiling point is called:",
+      "options": [
+        "A) Boiling",
+        "B) Sublimation",
+        "C) Condensation",
+        "D) Evaporation"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 37,
+      "question": "Why do wet clothes hung out on a clothesline dry up over time even on a cloudy day when water cannot reach 100°C?",
+      "options": [
+        "A) Water particles dissolve chemically into the fabric thread",
+        "B) Liquid water slowly undergoes evaporation from the surface at room temperature",
+        "C) The clothes line generates a small electrostatic field that drops mass",
+        "D) Wind pressure compresses the liquid directly into a solid state"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 38,
+      "question": "What is the primary difference between the process of boiling and the process of evaporation?",
+      "options": [
+        "A) Boiling is a slow surface phenomenon, while evaporation occurs throughout the whole bulk of the liquid",
+        "B) Boiling occurs only at a specific fixed temperature throughout the liquid bulk, while evaporation happens slowly at any temperature from the surface",
+        "C) Evaporation requires heavy industrial machinery, while boiling happens automatically",
+        "D) Boiling creates a cooling effect, while evaporation raises the temperature rapidly"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 39,
+      "question": "How does the rate of surface evaporation change when the speed of the wind blowing over the liquid increases?",
+      "options": [
+        "A) The rate of evaporation decreases significantly",
+        "B) The rate of evaporation drops immediately to zero",
+        "C) The rate of evaporation increases",
+        "D) Wind speed has absolutely no influence on evaporation patterns"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 40,
+      "question": "What happens to the rate of evaporation of water if the surrounding atmospheric humidity (moisture content in air) is very high?",
+      "options": [
+        "A) The rate of evaporation increases proportionally",
+        "B) The rate of evaporation decreases",
+        "C) Water starts boiling automatically at room temperature",
+        "D) Liquid particles transform completely into dry camphor blocks"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 41,
+      "question": "Why do we feel a refreshing, cooling sensation on our skin when a small drop of sanitizer, acetone, or spirit evaporates from our palm?",
+      "options": [
+        "A) The liquid injects cold chemical particles inside our body cells",
+        "B) Evaporating particles absorb the required latent heat from our hand, causing a cooling effect",
+        "C) Liquid acetone creates a temporary localized high-pressure air block",
+        "D) Hand tissue cells lose mass rapidly during chemical diffusion"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 42,
+      "question": "What are the fundamental, basic building blocks that make up all varieties of chemical elements present in the universe?",
+      "options": [
+        "A) Crystals and shards",
+        "B) Fibers and matrices",
+        "C) Elements and frames",
+        "D) Atoms and molecules"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 43,
+      "question": "When two or more identical atoms combine chemically to form a stable independent entity, that resultant particle is called a:",
+      "options": [
+        "A) Molecule",
+        "B) Resistor node",
+        "C) Vacuum space",
+        "D) Particulate block"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 44,
+      "question": "A single molecule of water (H₂O) is systematically made up of which specific combination of independent atoms?",
+      "options": [
+        "A) One atom of hydrogen and two atoms of oxygen",
+        "B) Two atoms of hydrogen and one atom of oxygen",
+        "C) Three atoms of hydrogen and two atoms of nitrogen",
+        "D) One atom of carbon and two atoms of sulphur"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 45,
+      "question": "The ultimate scientific purpose behind studying the particulate nature of matter across its different thermal states is to:",
+      "options": [
+        "A) Prove that matter columns cannot be compressed or measured using instruments",
+        "B) Convert chemical liquid formulas directly into heavy mechanical lifting tools",
+        "C) Fundamentally understand how the arrangement, space, and motion of tiny particles dictate the physical behavior of materials",
+        "D) Eliminate the classification of elements, forces, and pressure metrics from science"
+      ],
+      "answer": "C"
+    }
+  ]
+}

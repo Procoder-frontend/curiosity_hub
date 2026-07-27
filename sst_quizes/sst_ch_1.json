@@ -1,0 +1,274 @@
+{
+  "chapter_1_pool": [
+    {
+      "id": 1,
+      "question": "According to Christiana Figueres and Tom Rivett-Carnac, what type of economy must we move toward?",
+      "options": ["A) Linear economy", "B) Regenerative economy", "C) Industrial economy", "D) Windfall economy"],
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "Which of the natural resource is developed in millions of years deep inside the earth?",
+      "options": ["A) Trees", "B) Minerals and Petroleum", "C) Atmosphere Air", "D) Surface Water"],
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "question": "Is honey from beehives a resource?",
+      "options": ["A) Yes", "B) No", "C) Maybe", "D) It depends"],
+      "answer": "A"
+    },
+    {
+      "id": 4,
+      "question": "What is the text's definition of 'Nature' before human modification?",
+      "options": ["A) Only living plant life created by humans", "B) The totality of life and non-life forms part of the environment not created by humans", "C) Resources artificially synthesized in labs", "D) Materials used exclusively for modern industrial production"],
+      "answer": "B"
+    },
+    {
+      "id": 5,
+      "question": "Under what structural condition does an element of Nature officially become a 'resource'?",
+      "options": ["A) When it exists completely independently of humans", "B) When humans use it for sustenance or create things from it for consumption", "C) When its exploitation becomes completely restricted by global law", "D) When it remains completely hidden from human discovery"],
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is NOT one of the three baseline criteria required to define a resource?",
+      "options": ["A) Technologically accessible", "B) Economically feasible", "C) Culturally acceptable", "D) Politically centralized"],
+      "answer": "D"
+    },
+    {
+      "id": 7,
+      "question": "Why might a rich source of petroleum under the ocean fail to be considered a resource currently?",
+      "options": ["A) It lacks internal carbon chemistry", "B) We may lack technology to access it or extraction costs are too high", "C) It is banned from scientific identification", "D) It replenishes faster than human measurement scales"],
+      "answer": "B"
+    },
+    {
+      "id": 8,
+      "question": "The textbook uses the cutting of trees in 'sacred groves' as an example of an action that is:",
+      "options": ["A) Technologically impossible", "B) Economically unfeasible", "C) Culturally unacceptable", "D) Ecologically non-hazardous"],
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "question": "In the context of natural resources, what does the word 'exploitation' specifically mean?",
+      "options": ["A) Destroying ecosystems completely without cause", "B) Extraction, utilisation and consumption of natural resources", "C) Centralized corporate distribution mapping", "D) Manipulating financial markets for pricing"],
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is categorized as a the resources that don't affect us that on the earth in the text?",
+      "options": ["A) Atmosphere Air", "B) Surface Water", "C) Precious stones and metal ores", "D) Agricultural Soil"],
+      "answer": "C"
+    },
+    {
+      "id": 11,
+      "question": "What is the ecological benefit of 'gentle ploughing'?",
+      "options": ["A) Maximizes chemical decomposition rates", "B) Causes minimal disturbance to underground ecosystems and retains soil moisture", "C) Increases the complete evaporation of deep water fields", "D) Flattens the topsoil completely for mechanical wheels"],
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "What artifact serves as a textbook example that even plastic buttons on a shirt lead back to Nature?",
+      "options": ["A) Fossil fuels / Petroleum origins", "B) Synthesized crop structures", "C) High-yielding seed mutations", "D) Earthen mud composites"],
+      "answer": "A"
+    },
+    {
+      "id": 13,
+      "question": "When natural resources are categorized based on their usability?",
+      "options": ["A) Renewable and non-renewable grids", "B) Materials and sources for energy", "C) Shared rivers and closed oceans", "D) Obvious treasures and hidden ores"],
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "question": "What is defined as the process of 'returning something to its original healthy state if it has been degraded or damaged'?",
+      "options": ["A) Extraction", "B) Windfall", "C) Restoration", "D) Overexploitation"],
+      "answer": "C"
+    },
+    {
+      "id": 15,
+      "question": "How does 'regeneration' distinctively differ from simple 'restoration' in natural cycles?",
+      "options": ["A) It completely eliminates bacteria from the loop", "B) It is about Nature's ability to create new life and conditions for thriving", "C) It stops the structural cycle of decomposition", "D) It limits output to energy resources only"],
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "question": "What occurs when a fallen tree decomposes via bacteria, fungi, and insects in a balanced forest cycle?",
+      "options": ["A) It creates permanent structural waste layers", "B) It becomes a part of soil and forms humus, enriching it for growth of plants and trees", "C) It permanently traps energy away from plants", "D) It causes structural soil degradation"],
+      "answer": "B"
+    },
+    {
+      "id": 17,
+      "question": "What fundamental condition must be met for renewable resources to remain truly renewable over time?",
+      "options": ["A) They must be extracted with high-density machinery", "B) They must have an immediate commercial export trade value", "C) They must be taken at a rate that does not exceed their natural rate of replenishment", "D) They must remain completely untouched by human populations"],
+      "answer": "C"
+    },
+    {
+      "id": 18,
+      "question": "What has caused Himalayan glaciers to melt faster than precipitation can replace them?",
+      "options": ["A) Reduced overall agricultural multicropping", "B) Ancient crop preservation techniques", "C) Structural modifications to deep-water dams", "D) Rising temperatures driven by industrialisation and deforestation"],
+      "answer": "D"
+    },
+    {
+      "id": 19,
+      "question": "The melting of Himalayan glaciers directly threatens which critical aspect for plains populations?",
+      "options": ["A) Mineral bauxite reserves", "B) Water security from the 'water tower'", "C) High-yielding variety seed supply", "D) International solar project finance"],
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "question": "What specific type of commercialized fish experienced sharp population declines, triggering international control agreements?",
+      "options": ["A) Cardamom", "B) Shrimps", "C) Tuna", "D) Salmon"],
+      "answer": "C"
+    },
+    {
+      "id": 21,
+      "question": "When natural ecosystem processes directly benefit human beings, scientists refer to them as:",
+      "options": ["A) Paradox of plenty", "B) Ecosystem services", "C) Windfall benefits", "D) Factors of production"],
+      "answer": "B"
+    },
+    {
+      "id": 22,
+      "question": "A forest filtering water, preventing soil erosion, and providing animal habitats is executing:",
+      "options": ["A) Ecosystem functions", "B) Paradoxical windfalls", "C) Natural curses", "D) Centralized infrastructure planning"],
+      "answer": "A"
+    },
+    {
+      "id": 23,
+      "question": "A mature tree produces approximately how many litres of oxygen per single day?",
+      "options": ["A) 150 litres", "B) 275 litres", "C) 350 litres", "D) 500 litres"],
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "question": "On average, a human being requires approximately how many litres of oxygen every day?",
+      "options": ["A) 200 litres", "B) 275 litres", "C) 350 litres", "D) 450 litres"],
+      "answer": "C"
+    },
+    {
+      "id": 25,
+      "question": "Which of the following sets contains ONLY non-renewable resources as classified by the text?",
+      "options": ["A) Solar energy, wind energy, timber", "B) Flowing water, soil, forest trees", "C) Fossil fuels, minerals, and metals", "D) Oxygen cycles, river channels, sunlight"],
+      "answer": "C"
+    },
+    {
+      "id": 26,
+      "question": "How long are India's significant remaining coal reserves estimated to last under current growing needs?",
+      "options": ["A) 10 years", "B) 25 years", "C) 50 years", "D) 150 years"],
+      "answer": "C"
+    },
+    {
+      "id": 27,
+      "question": "What major macro-implication is driven by the uneven distribution of natural resources across the planet?",
+      "options": ["A) Complete standardization of global languages", "B) Human settlements, trade patterns, international relations, and conflicts", "C) Total elimination of industrial factory waste", "D) Uniform agricultural output across all zones"],
+      "answer": "B"
+    },
+    {
+      "id": 28,
+      "question": "What negative social cost often accompanies the extraction setup of industrial townships in resource-rich areas?",
+      "options": ["A) Sudden drop in overall energy demand", "B) Total loss of adjacent solar radiation", "C) Displacement of local people from their homes", "D) Immediate closure of transport networks"],
+      "answer": "C"
+    },
+    {
+      "id": 29,
+      "question": "Which historic, high-strength industrial material was created in India by combining natural resources with human skill?",
+      "options": ["A) Earthen Mud cement", "B) Wootz steel", "C) Sandstone laminate", "D) Neem composite"],
+      "answer": "B"
+    },
+    {
+      "id": 30,
+      "question": "The sharing of the Kaveri River water requires deft management among which states/territories?",
+      "options": ["A) Punjab, Haryana, and Chandigarh", "B) Karnataka, Tamil Nadu, Kerala, and Puducherry", "C) Rajasthan, Gujarat, and Maharashtra", "D) Sikkim, Assam, and West Bengal"],
+      "answer": "B"
+    },
+    {
+      "id": 31,
+      "question": "What economic phenomenon explains why regions with abundant natural resources can experience slower economic development?",
+      "options": ["A) Regenerative economy matrix", "B) The Natural Resource Curse or Paradox of Plenty", "C) Ecosystem Service windfall", "D) Factor centralization theory"],
+      "answer": "B"
+    },
+    {
+      "id": 32,
+      "question": "How has India historically managed to avoid the 'Natural Resource Curse'?",
+      "options": ["A) By halting all domestic mining completely", "B) By investing in the development of industries that convert resources into higher-value products", "C) By avoiding international trade agreements", "D) By relying entirely on high-yielding paddy fields"],
+      "answer": "B"
+    },
+    {
+      "id": 33,
+      "question": "What structural problem is emerging in India's major growing cities regarding water resource management?",
+      "options": ["A) Massive glacial flooding inside metro sectors", "B) Running out of groundwater due to extraction outpacing replenishment", "C) Complete transition to chemical fertilizers in household taps", "D) Rejection of traditional solar farm projects"],
+      "answer": "B"
+    },
+    {
+      "id": 34,
+      "question": "What historical agricultural shift in 1960s Punjab triggered the massive depletion of its groundwater table?",
+      "options": ["A) Shifting to high-yielding varieties of wheat and paddy that required more water", "B) Strict adherence to Surapala's ancient texts", "C) Complete abandonment of chemical pesticide use", "D) Transitioning entirely to stone and mud structures"],
+      "answer": "A"
+    },
+    {
+      "id": 35,
+      "question": "What was the reason for farmers to switch to that variety of crops?",
+      "options": ["A) High taxation on mechanical tubewells", "B)Mandatory crop rotation laws imposed by local boards", "C) The 'Green Revolution' and to ensure food security", "D) Immediate closure of adjacent industrial canals"],
+      "answer": "C"
+    },
+    {
+      "id": 36,
+      "question": "What approximate percentage of the land area of Punjab has been officially classified as 'overexploited' in water terms?",
+      "options": ["A) 35%", "B) 50%", "C) 80%", "D) 95%"],
+      "answer": "C"
+    },
+    {
+      "id": 37,
+      "question": "Why is cement production classified as one of the most structurally polluting industries?",
+      "options": ["A) It consumes 95% of domestic solar park grids", "B) It releases fine dust that damages lungs, settles on leaves decreasing crop yields, and causes soil/water pollution", "C) It completely halts the flow of the Kaveri and Brahmaputra rivers", "D) It uses organic neem and garlic composites exclusively"],
+      "answer": "B"
+    },
+    {
+      "id": 38,
+      "question": "What are the substitutes for cement in construction?",
+      "options": ["A) Imported Wootz steel frames", "B) Recycled waste plastic matrix", "C) Mud and stones", "D) High-emission chemical concrete slabs"],
+      "answer": "C"
+    },
+    {
+      "id": 39,
+      "question": "What century-old sandstone structure in Rajasthan serves as a historical benchmark for durable mud and stone construction (Hint : It is in Rajasthan)?",
+      "options": ["A) Bhadla Solar Citadel", "B) Jaisalmer Fort", "C) Mettur Dam Enclosure", "D) Raichur Complex"],
+      "answer": "B"
+    },
+    {
+      "id": 40,
+      "question": "What is Vṛikṣhāyurveda, and which text formalised it around the 10th century CE?",
+      "options": ["A) An ancient Indian metallurgical manual by Aryabhata", "B) An ancient Indian botanical science focused on care of plants; formalised in Surapala's Vṛikṣhāyurveda", "C) A modern trade policy framework launched by the IASE", "D) A Central Pollution Control Board legal guide on factory emissions"],
+      "answer": "B"
+    },
+    {
+      "id": 41,
+      "question": "In which calendar year did Sikkim achieve the global milestone of becoming a 100% certified organic state?",
+      "options": ["A) 2010", "B) 2015", "C) 2016", "D) 2022"],
+      "answer": "C"
+    },
+    {
+      "id": 42,
+      "question": "What double positive outcome occurred in Sikkim after its 5-year structural transition to completely organic farming?",
+      "options": ["A) Local industrial factories multiplied and chemical imports peaked", "B) Biodiversity flourished, tourism increased, and farmers' incomes grew by 20% on average", "C) The groundwater table fell past 30 meters universally", "D) Crop variation collapsed down to a single cardamom stream"],
+      "answer": "B"
+    },
+    {
+      "id": 43,
+      "question": "Which two countries launched the International Alliance for Solar Energy (IASE) in the year 2015?",
+      "options": ["A) India and Germany", "B) India and France", "C) France and Rajasthan", "D) India and Sikkim"],
+      "answer": "B"
+    },
+    {
+      "id": 44,
+      "question": "Which massive clean-energy infrastructure installation in Rajasthan serves as a key symbol of India's solar ambitions?",
+      "options": ["A) Auroville solar compound", "B) Bhadla Solar Park", "C) Raichur Industrial Array", "D) Mettur Grid Layer"],
+      "answer": "B"
+    },
+    {
+      "id": 45,
+      "question": "The concept of 'lokasangraha' from the Bhagavad Gītā dictates that individuals must:",
+      "options": ["A)  Transcend personal desires and act for the wellbeing of all", "B)  Focus on personal advancement at the expense of others", "C) Maximize commercial fishing quotas during spawning seasons", "D) Establish centralized corporate control over shared river waters"],
+      "answer": "A"
+    }
+  ]
+}

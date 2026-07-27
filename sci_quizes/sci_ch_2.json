@@ -1,0 +1,499 @@
+{
+  "chapter_2_pool": [
+    {
+      "id": 1,
+      "question": "Which specific instrument's invention opened up a hidden world filled with tiny living creatures that the human eye cannot see on its own?",
+      "options": [
+        "A) Telescope",
+        "B) Microscope",
+        "C) Periscope",
+        "D) Kaleidoscope"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "In 1665, which scientist published the famous book 'Micrographia' and coined the term 'cell' after observing a thin slice of cork?",
+      "options": [
+        "A) Antonie van Leeuwenhoek",
+        "B) Louis Pasteur",
+        "C) Robert Hooke",
+        "D) Robert Brown"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "question": "Who made superior lenses in the 1660s, became the first person to clearly see bacteria and blood cells, and is known as the Father of Microbiology?",
+      "options": [
+        "A) Antonie van Leeuwenhoek",
+        "B) Robert Hooke",
+        "C) Charles Darwin",
+        "D) Gregor Mendel"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 4,
+      "question": "During the laboratory preparation of an onion peel slide, which red-coloured stain is applied to give a pinkish colour to the cells?",
+      "options": [
+        "A) Methylene blue",
+        "B) Iodine solution",
+        "C) Crystal violet",
+        "D) Safranin"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 5,
+      "question": "What is the primary function of adding a drop of glycerin over the specimen slide during microscopic cell preparation?",
+      "options": [
+        "A) To completely dissolve the cell membrane",
+        "B) To prevent the cells from drying and improve clarity",
+        "C) To impart a permanent bright blue colour",
+        "D) To trap additional air bubbles under the coverslip"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "question": "When examining human cheek cells in the laboratory, which blue-coloured stain is utilized to increase contrast and improve visibility?",
+      "options": [
+        "A) Safranin",
+        "B) Acetocarmine",
+        "C) Methylene blue",
+        "D) Eosin"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following structures is uniquely present as an extra outer layer in plant cells (like onion peel cells) but is completely absent in human cheek cells?",
+      "options": [
+        "A) Cell wall",
+        "B) Nucleus",
+        "C) Cytoplasm",
+        "D) Cell membrane"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 8,
+      "question": "Which part of the cell acts as the main regulatory center, managing all activities occurring within the cell as well as regulating its growth?",
+      "options": [
+        "A) Vacuole",
+        "B) Mitochondria",
+        "C) Nucleus",
+        "D) Chloroplast"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "question": "What are the tiny green structures found in plant cells that contain chlorophyll and assist in photosynthesis?",
+      "options": [
+        "A) Large vacuoles",
+        "B) Mitochondria",
+        "C) Chloroplasts",
+        "D) Chromosomes"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 10,
+      "question": "What is the correct structural hierarchy of organization in the body of a complex multicellular living organism?",
+      "options": [
+        "A) Organism → Organ → Tissue → Cell",
+        "B) Cell → Tissue → Organ → Organ system → Organism",
+        "C) Tissue → Cell → Organ system → Organism",
+        "D) Cell → Organ → Organ system → Tissue"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 11,
+      "question": "The yolk of which animal's egg stands as a prominent single cell example, measuring about 130 mm to 170 mm in diameter?",
+      "options": [
+        "A) Hen egg",
+        "B) Ostrich egg",
+        "C) Pigeon egg",
+        "D) Duck egg"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "Which specialized, branched human cells are elongated in structure to carry and pass messages quickly throughout different parts of the body?",
+      "options": [
+        "A) Spindle-shaped muscle cells",
+        "B) Circular red blood cells",
+        "C) Nerve cells (neurons)",
+        "D) Flat inner cheek cells"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 13,
+      "question": "What term defines organisms that are made up of just one single cell, such as Amoeba or Paramecium?",
+      "options": [
+        "A) Multicellular organisms",
+        "B) Acellular organisms",
+        "C) Unicellular organisms",
+        "D) Macrofungi"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "question": "Which micro-entities are described as acellular structures that multiply exclusively after entering a living host cell?",
+      "options": [
+        "A) Viruses",
+        "B) Algae filaments",
+        "C) Protozoa cells",
+        "D) Bread moulds"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 15,
+      "question": "Which ancient Indian texts contain explicit references to the word 'Krimi', meaning different tiny visible and invisible entities?",
+      "options": [
+        "A) Shilpa Shāstras",
+        "B) Arthashastra",
+        "C) Vedas",
+        "D) Upanishads"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 16,
+      "question": "What unique, curved piece of glass discovered long ago makes small objects look larger because it is thick in the middle and thin at the edge?",
+      "options": [
+        "A) Lens",
+        "B) Prism",
+        "C) Mirror",
+        "D) Glass Slab"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 17,
+      "question": "In Activity 2.1, which household or laboratory setup filled with water acts like a magnifying glass when placed over an open book?",
+      "options": [
+        "A) Flat glass sheet",
+        "B) Square glass block",
+        "C) Round-bottom flask",
+        "D) Test tube"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 18,
+      "question": "Robert Hooke's early compound microscope was capable of making objects look how many times bigger than their original size?",
+      "options": [
+        "A) 200 to 300 times",
+        "B) 10 to 50 times",
+        "C) 1000 to 5000 times",
+        "D) 10,000 times"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 19,
+      "question": "The porous layer that encloses the cytoplasm and nucleus, allowing essential materials to enter and waste to exit, is called the:",
+      "options": [
+        "A) Cell wall",
+        "B) Nuclear wall",
+        "C) Cell membrane",
+        "D) Plastid wrapper"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 20,
+      "question": "Which jelly-like space between the cell membrane and nucleus contains carbohydrates, proteins, fats, and mineral salts where most life processes occur?",
+      "options": [
+        "A) Cytoplasm",
+        "B) Nucleoplasm",
+        "C) Vacuolar sap",
+        "D) Chloroplast matrix"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 21,
+      "question": "What is the function of the plant cell wall that makes all plant tissues look firm and closely arranged?",
+      "options": [
+        "A) Producing chlorophyll",
+        "B) Transporting blood cells",
+        "C) Providing rigidity and strength",
+        "D) Executing wave-like movements"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 22,
+      "question": "What are the tiny rod-shaped structures present in all parts of a plant that assist either in photosynthesis or storage of substances?",
+      "options": [
+        "A) Mitochondria",
+        "B) Ribosomes",
+        "C) Plastids",
+        "D) Centrosomes"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 23,
+      "question": "Which large, empty-looking space inside a plant cell helps store important substances, manage waste, and maintain cell shape?",
+      "options": [
+        "A) Nucleolus",
+        "B) Vacuole",
+        "C) Lysosome",
+        "D) Golgi body"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "question": "What is the typical shape of human muscle cells that allows them to contract and relax flexibly to push food down the food pipe?",
+      "options": [
+        "A) Branched and long",
+        "B) Perfectly circular",
+        "C) Spindle-shaped",
+        "D) Square-shaped block"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 25,
+      "question": "Which type of cells present in the inner lining of the human stomach work together to break down food chemically?",
+      "options": [
+        "A) Elongated branching nerve cells",
+        "B) Cells that produce digestive juices and acid",
+        "C) Red blood cells carrying oxygen",
+        "D) Rigid plant-like rectangular cells"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 26,
+      "question": "Which group of organisms have many cells and begin their life from a single repeatedly dividing 'egg' cell?",
+      "options": [
+        "A) Unicellular organisms",
+        "B) Multicellular organisms",
+        "C) Acellular viruses",
+        "D) Prions"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 27,
+      "question": "Which tool created by scientists offers a low-cost, foldable way to make the microscopic world accessible to many people?",
+      "options": [
+        "A) Foldable paper microscope",
+        "B) Electron microscope",
+        "C) High-powered digital telescope",
+        "D) Laser spectrometer"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 28,
+      "question": "When analyzing stagnant pond water under a microscope, which protozoan is characterized by an irregular shape and continuous movement?",
+      "options": [
+        "A) Paramecium",
+        "B) Spirogyra",
+        "C) Amoeba",
+        "D) Lactobacillus"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 29,
+      "question": "Which protozoan observed in pond water moves from one place to another with the help of specialized hair-like structures?",
+      "options": [
+        "A) Amoeba",
+        "B) Paramecium",
+        "C) Bread mould",
+        "D) Rhizobium"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 30,
+      "question": "A standard school laboratory microscope is typically capable of magnifying tiny organisms by how many times?",
+      "options": [
+        "A) 5 to 10 times",
+        "B) 10,000 to 50,000 times",
+        "C) 100 to 400 times",
+        "D) 1,00,000 times"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 31,
+      "question": "What kind of fungal growth can be observed as a powdery or cotton-like structure on rotting lemons, tomatoes, or oranges?",
+      "options": [
+        "A) Algae bloom",
+        "B) Amoebic cyst",
+        "C) Bread mould",
+        "D) Bacterial colony"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 32,
+      "question": "Which specific ancient Indian text contains comprehensive details and references regarding both beneficial and harmful 'Krimi'?",
+      "options": [
+        "A) Rigveda",
+        "B) Atharvaveda",
+        "C) Samaveda",
+        "D) Yajurveda"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 33,
+      "question": "What is the natural process called where microorganisms break down complex dead plant leaves into simpler, nutrient-rich substances?",
+      "options": [
+        "A) Photosynthesis",
+        "B) Fermentation",
+        "C) Transpiration",
+        "D) Decomposition"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 34,
+      "question": "Which group of bacteria have the unique capability to live without oxygen and break down animal dung into a fuel mixture called biogas?",
+      "options": [
+        "A) Aerobic microalgae",
+        "B) Anaerobic bacteria",
+        "C) Macrofungi mushrooms",
+        "D) Tobacco mosaic viruses"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 35,
+      "question": "What two primary gases make up the fuel mixture known as biogas, produced by the microbial breakdown of organic waste?",
+      "options": [
+        "A) Carbon dioxide and Methane",
+        "B) Oxygen and Nitrogen",
+        "C) Hydrogen and Helium",
+        "D) Chlorine and Argon"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 36,
+      "question": "In 1971, which prominent scientist developed a specialized genetically modified bacterium capable of breaking down environmental oil spills?",
+      "options": [
+        "A) Robert Hooke",
+        "B) Louis Pasteur",
+        "C) Ananda Mohan Chakrabarty",
+        "D) Antonie van Leeuwenhoek"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 37,
+      "question": "When yeast powder reacts with flour, sugar, and warm water in a closed bowl, what gas is released to make the dough soft and fluffy?",
+      "options": [
+        "A) Oxygen",
+        "B) Carbon dioxide",
+        "C) Nitrogen",
+        "D) Hydrogen gas"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 38,
+      "question": "To which specific biological category of microorganisms does common baking yeast belong?",
+      "options": [
+        "A) Protozoa",
+        "B) Microalgae",
+        "C) Fungi",
+        "D) Bacteria"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 39,
+      "question": "Which unique bacterium is responsible for fermenting the sugar lactose in lukewarm milk to transform it into sour curd?",
+      "options": [
+        "A) Lactobacillus",
+        "B) Rhizobium",
+        "C) Amoeba",
+        "D) Spirulina"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 40,
+      "question": "What chemical compound is generated by Lactobacillus bacteria during the curdling process that gives curd its characteristic sour taste?",
+      "options": [
+        "A) Alcohol",
+        "B) Acetic acid",
+        "C) Lactic acid",
+        "D) Citric acid"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 41,
+      "question": "Which bacterium forms nodules on the roots of leguminous plants like peas and beans to trap atmospheric nitrogen?",
+      "options": [
+        "A) Lactobacillus",
+        "B) Spirulina",
+        "C) Yeast",
+        "D) Rhizobium"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 42,
+      "question": "Which microscopic, aquatic plant-like organisms use sunlight to generate food and produce more than half of the Earth's oxygen supply?",
+      "options": [
+        "A) Protozoans",
+        "B) Microalgae",
+        "C) Anaerobic fungi",
+        "D) Earthworms"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 43,
+      "question": "Which microalga contains more than 60% protein by weight, acts as a rich source of Vitamin B12, and is classified as a superfood?",
+      "options": [
+        "A) Chlorella",
+        "B) Diatoms",
+        "C) Spirulina",
+        "D) Bread mould"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 44,
+      "question": "Because bacteria do not possess a well-defined nucleus or a nuclear membrane, their genetic material is concentrated in a region called the:",
+      "options": [
+        "A) Nucleolus",
+        "B) Cytoplasm core",
+        "C) Nucleoid",
+        "D) Vacuole edge"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 45,
+      "question": "Which advanced scientific tool can magnify a biological specimen up to 10,00,000 times, allowing researchers to see tiny subcellular components?",
+      "options": [
+        "A) School compound microscope",
+        "B) Electron microscope",
+        "C) Foldable paper lens",
+        "D) Simple magnifying glass"
+      ],
+      "answer": "B"
+    }
+  ]
+}

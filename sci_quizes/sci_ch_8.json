@@ -1,0 +1,124 @@
+{
+  "chapter_8_pool": [
+    {
+      "id": 1,
+      "question": "Which of the following best describes a scientific definition of a pure substance?",
+      "options": [
+        "A food item that is unadulterated and organic",
+        "A substance consisting of only one type of particle that cannot be separated by physical methods",
+        "A uniform mixture of two or more liquids",
+        "Any natural liquid found in nature like milk or fruit juice"
+      ],
+      "correct_answer": "A substance consisting of only one type of particle that cannot be separated by physical methods",
+      "explanation": "In science, a pure substance consists of the same type of particles throughout and cannot be broken down into other kinds of matter using physical separation methods."
+    },
+    {
+      "id": 2,
+      "question": "When lime water is left exposed to air, it turns milky. This reaction confirms the presence of which component in air?",
+      "options": [
+        "Oxygen gas",
+        "Water vapour",
+        "Carbon dioxide",
+        "Nitrogen gas"
+      ],
+      "correct_answer": "Carbon dioxide",
+      "explanation": "Lime water (calcium hydroxide) reacts with carbon dioxide in the air to form insoluble calcium carbonate, turning the solution milky."
+    },
+    {
+      "id": 3,
+      "question": "During the electrolysis of water (passing electric current through acidulated water), which two gases are collected, and how do they test with a burning candle?",
+      "options": [
+        "Hydrogen (makes a pop sound) and Oxygen (glows brighter)",
+        "Nitrogen (extinguishes flame) and Oxygen (makes a pop sound)",
+        "Carbon dioxide (extinguishes flame) and Hydrogen (glows brighter)",
+        "Water vapour (condenses) and Carbon monoxide (burns blue)"
+      ],
+      "correct_answer": "Hydrogen (makes a pop sound) and Oxygen (glows brighter)",
+      "explanation": "Electrolysis breaks water down into hydrogen gas (which burns with a pop sound) and oxygen gas (which causes a candle flame to glow brighter) in a 2:1 volume ratio."
+    },
+    {
+      "id": 4,
+      "question": "Which two elements are the only ones that naturally exist as liquids at room temperature?",
+      "options": [
+        "Gallium and Caesium",
+        "Mercury and Bromine",
+        "Chlorine and Fluorine",
+        "Sodium and Potassium"
+      ],
+      "correct_answer": "Mercury and Bromine",
+      "explanation": "At room temperature, Mercury (a metal) and Bromine (a non-metal) are the only two liquid elements."
+    },
+    {
+      "id": 5,
+      "question": "What happens when dry sugar is heated gently in a boiling tube until it decomposes?",
+      "options": [
+        "It melts into liquid water and releases oxygen gas",
+        "It turns brown, then chars into black charcoal (carbon) while releasing water vapour",
+        "It reacts with air to form pure sodium chloride",
+        "It sublimes directly into sugar gas without leaving any residue"
+      ],
+      "correct_answer": "It turns brown, then chars into black charcoal (carbon) while releasing water vapour",
+      "explanation": "Heating sugar causes it to decompose into carbon (black charcoal residue) and water droplets, proving sugar is a compound containing carbon, hydrogen, and oxygen."
+    },
+    {
+      "id": 6,
+      "question": "How does a mixture of iron filings and sulfur powder (unheated) differ from the product formed after strongly heating them together?",
+      "options": [
+        "The unheated mixture cannot be separated with a magnet, but the heated compound can",
+        "The unheated mixture is a chemical compound, while the heated mass is a physical mixture",
+        "Iron can be separated from the unheated mixture using a magnet, whereas the heated black compound (iron sulfide) loses its magnetic property",
+        "Both sample states react identically when tested with a magnet"
+      ],
+      "correct_answer": "Iron can be separated from the unheated mixture using a magnet, whereas the heated black compound (iron sulfide) loses its magnetic property",
+      "explanation": "In an unheated mixture, iron retains its magnetic property. Upon heating, iron and sulfur react chemically to form iron sulfide (a compound) with distinct chemical properties, losing magnetism."
+    },
+    {
+      "id": 7,
+      "question": "Bronze (Kamsya) is an alloy mentioned in ancient texts like the Charaka Samhita. What are its primary constituents?",
+      "options": [
+        "Copper and Zinc",
+        "Iron and Carbon",
+        "Copper and Tin",
+        "Aluminum and Copper"
+      ],
+      "correct_answer": "Copper and Tin",
+      "explanation": "Bronze is an alloy (Mishraloha) made by mixing Copper (Tamra) and Tin (Vanga)."
+    },
+    {
+      "id": 8,
+      "question": "Why is water classified as a compound rather than a mixture?",
+      "options": [
+        "Because water can be separated into hydrogen and oxygen using a filter paper",
+        "Because its constituent elements (hydrogen and oxygen) are chemically combined in a fixed 2:1 ratio and cannot be separated by physical methods",
+        "Because water takes the shape of any container it is poured into",
+        "Because hydrogen and water both extinguish fires in the same way"
+      ],
+      "correct_answer": "Because its constituent elements (hydrogen and oxygen) are chemically combined in a fixed 2:1 ratio and cannot be separated by physical methods",
+      "explanation": "In compounds like water, constituent elements are chemically bonded in fixed ratios, creating properties completely different from the individual elements, and cannot be separated physically."
+    },
+    {
+      "id": 9,
+      "question": "Which category of elements exhibits intermediate properties between metals and non-metals?",
+      "options": [
+        "Alloys",
+        "Metalloids",
+        "Noble gases",
+        "Compounds"
+      ],
+      "correct_answer": "Metalloids",
+      "explanation": "Elements like Silicon and Boron have properties intermediate between metals and non-metals and are known as metalloids."
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is classified as a uniform (homogeneous) mixture?",
+      "options": [
+        "Sprout salad",
+        "Sand in water",
+        "Air free of dust particles",
+        "Oil in water"
+      ],
+      "correct_answer": "Air free of dust particles",
+      "explanation": "Clean air is a uniform mixture where gases like nitrogen, oxygen, argon, and carbon dioxide are evenly distributed and cannot be distinguished individually."
+    }
+  ]
+}

@@ -1,0 +1,497 @@
+[
+  {
+    "id": 1,
+    "question": "According to the chapter, what was one of the first important steps taken after India gained Independence?",
+    "options": [
+      "A) Formation of the Election Commission",
+      "B) Drafting the Constitution of independent India",
+      "C) Adoption of the Five-Year Plans",
+      "D) Creation of State Assemblies"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "question": "Which principle of the Constitution guarantees every adult citizen the right to vote irrespective of social or economic background, gender, race or religion?",
+    "options": [
+      "A) Federalism",
+      "B) Separation of Powers",
+      "C) Universal Adult Franchise",
+      "D) Directive Principles of State Policy"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 3,
+    "question": "Who directly elects the members of the Lok Sabha?",
+    "options": [
+      "A) Members of the State Legislative Assemblies",
+      "B) The President",
+      "C) The people of India",
+      "D) The Rajya Sabha"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 4,
+    "question": "Which group forms the government at the Union level after Lok Sabha elections?",
+    "options": [
+      "A) The largest state government",
+      "B) The majority group among the elected representatives",
+      "C) The Rajya Sabha",
+      "D) The Judiciary"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "question": "According to the chapter, what is the Parliament of India?",
+    "options": [
+      "A) The highest court of the country",
+      "B) The supreme legislative body of the government",
+      "C) The executive branch of the government",
+      "D) A committee of ministers"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 6,
+    "question": "The Parliament controls and guides the work of which organ?",
+    "options": [
+      "A) The Judiciary",
+      "B) The Government",
+      "C) The Election Commission",
+      "D) The Armed Forces"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 7,
+    "question": "According to the chapter, the 18th Lok Sabha was constituted in:",
+    "options": [
+      "A) January 2024",
+      "B) June 2024",
+      "C) May 2023",
+      "D) July 2025"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 8,
+    "question": "The Parliament of India consists of:",
+    "options": [
+      "A) The President and the Lok Sabha only",
+      "B) The Lok Sabha and Rajya Sabha only",
+      "C) The President, Lok Sabha and Rajya Sabha",
+      "D) The Prime Minister and Council of Ministers"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "question": "What is a Parliament with two Houses called?",
+    "options": [
+      "A) Federal system",
+      "B) Bicameral system",
+      "C) Unicameral system",
+      "D) Presidential system"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "question": "Which House of Parliament is also known as the House of the People?",
+    "options": [
+      "A) Rajya Sabha",
+      "B) Lok Sabha",
+      "C) Vidhan Sabha",
+      "D) Vidhan Parishad"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 11,
+    "question": "Which House of Parliament is also called the Council of States?",
+    "options": [
+      "A) Lok Sabha",
+      "B) Vidhan Sabha",
+      "C) Rajya Sabha",
+      "D) Constituent Assembly"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 12,
+    "question": "According to the Constitution, what is the maximum number of members envisaged for the Lok Sabha?",
+    "options": [
+      "A) 543",
+      "B) 545",
+      "C) 550",
+      "D) 552"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "question": "Members of the Rajya Sabha are elected:",
+    "options": [
+      "A) Directly by all citizens",
+      "B) By an electoral college",
+      "C) By the President",
+      "D) By the Prime Minister"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "question": "The allocation of seats in both the Lok Sabha and Rajya Sabha is mainly based on:",
+    "options": [
+      "A) Area of each state",
+      "B) Population of each state",
+      "C) Number of districts",
+      "D) Revenue collected by the state"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "question": "According to the chapter, the Rajya Sabha was included in Parliament mainly to reflect the spirit of:",
+    "options": [
+      "A) Socialism",
+      "B) Federalism",
+      "C) Secularism",
+      "D) Judicial Review"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "question": "Who is the presiding officer of the Lok Sabha?",
+    "options": [
+      "A) President of India",
+      "B) Prime Minister",
+      "C) Speaker",
+      "D) Vice President"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 17,
+    "question": "Who presides over the Rajya Sabha?",
+    "options": [
+      "A) Prime Minister",
+      "B) President of India",
+      "C) Speaker of the Lok Sabha",
+      "D) Vice President of India"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 18,
+    "question": "One of the main responsibilities of the Speaker of the Lok Sabha is to:",
+    "options": [
+      "A) Appoint judges",
+      "B) Conduct the sessions and maintain discipline",
+      "C) Prepare the Union Budget",
+      "D) Elect the President"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "question": "According to the chapter, the Union Executive consists of:",
+    "options": [
+      "A) President, Vice President and Council of Ministers headed by the Prime Minister",
+      "B) President and Chief Ministers",
+      "C) Prime Minister and Governors",
+      "D) Lok Sabha and Rajya Sabha"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 20,
+    "question": "The Council of Ministers is chosen from among the:",
+    "options": [
+      "A) Judges of the Supreme Court",
+      "B) Members of both Houses of Parliament",
+      "C) State Governors",
+      "D) Civil Servants"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 21,
+    "question": "To which House of Parliament is the Council of Ministers collectively responsible?",
+    "options": [
+      "A) Rajya Sabha",
+      "B) Lok Sabha",
+      "C) Both Houses equally",
+      "D) The President"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 22,
+    "question": "Which of the following is a constitutional function of Parliament mentioned in the chapter?",
+    "options": [
+      "A) Conducting elections",
+      "B) Electing the President and Vice President",
+      "C) Appointing Governors",
+      "D) Controlling the Election Commission"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "question": "Which of the following is NOT listed as a broad function of Parliament in the chapter?",
+    "options": [
+      "A) Constitutional functions",
+      "B) Lawmaking",
+      "C) Executive accountability",
+      "D) Judicial appointments"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 24,
+    "question": "Which constitutional principle requires Parliament to uphold the division of authority among the Legislature, Executive and Judiciary?",
+    "options": [
+      "A) Universal Adult Suffrage",
+      "B) Separation of Powers",
+      "C) Directive Principles",
+      "D) Fundamental Duties"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 25,
+    "question": "A draft of a proposed law introduced in Parliament is called a:",
+    "options": [
+      "A) Resolution",
+      "B) Act",
+      "C) Bill",
+      "D) Gazette"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 26,
+    "question": "A bill becomes a law after receiving whose assent?",
+    "options": [
+      "A) Prime Minister",
+      "B) Chief Justice of India",
+      "C) President of India",
+      "D) Speaker of the Lok Sabha"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 27,
+    "question": "According to the chapter, the Right of Children to Free and Compulsory Education Act became an Act in:",
+    "options": [
+      "A) 2002",
+      "B) 2008",
+      "C) 2009",
+      "D) 2010"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 28,
+    "question": "Which Constitutional Amendment introduced Article 21A relating to free and compulsory education?",
+    "options": [
+      "A) 42nd Constitutional Amendment",
+      "B) 44th Constitutional Amendment",
+      "C) 73rd Constitutional Amendment",
+      "D) 86th Constitutional Amendment"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 29,
+    "question": "Which House of Parliament was the Right to Education Bill first introduced in, according to the chapter?",
+    "options": [
+      "A) Lok Sabha",
+      "B) Rajya Sabha",
+      "C) Joint Sitting of Parliament",
+      "D) State Assembly"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 30,
+    "question": "According to the lawmaking process shown in the chapter, after both Houses pass a bill, the next major step is:",
+    "options": [
+      "A) Question Hour",
+      "B) Presidential assent",
+      "C) Budget approval",
+      "D) Election of the Speaker"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 31,
+    "question": "Which parliamentary mechanism allows Members of Parliament to seek explanations from the government regarding its decisions and actions?",
+    "options": [
+      "A) Zero Hour",
+      "B) Question Hour",
+      "C) Motion of Thanks",
+      "D) Calling Attention Motion"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 32,
+    "question": "According to the chapter, Parliament generally meets how many times in a year?",
+    "options": [
+      "A) Once",
+      "B) Twice",
+      "C) Three times",
+      "D) Four times"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 33,
+    "question": "What are the three regular sessions of the Parliament mentioned in the chapter?",
+    "options": [
+      "A) Summer, Winter and Special Sessions",
+      "B) Budget, Monsoon and Winter Sessions",
+      "C) Budget, Rainy and Annual Sessions",
+      "D) Spring, Monsoon and Winter Sessions"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 34,
+    "question": "What are the individual meetings of Parliament during a session called?",
+    "options": [
+      "A) Hearings",
+      "B) Assemblies",
+      "C) Sittings",
+      "D) Conferences"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 35,
+    "question": "According to the chapter, Parliament usually sits for how many hours a day during a session?",
+    "options": [
+      "A) Four hours",
+      "B) Five hours",
+      "C) Six hours",
+      "D) Eight hours"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 36,
+    "question": "In the parliamentary context, productivity is measured by:",
+    "options": [
+      "A) The number of laws passed in a year",
+      "B) The number of MPs present",
+      "C) The number of hours Parliament actually functioned compared to its scheduled time",
+      "D) The number of committees formed"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 37,
+    "question": "According to the chapter, which of the following can reduce the productivity of Parliament?",
+    "options": [
+      "A) Constructive debates",
+      "B) Regular disruptions during proceedings",
+      "C) Committee discussions",
+      "D) Question Hour"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 38,
+    "question": "The chapter mentions that concerns have been expressed because many sessions are marked by:",
+    "options": [
+      "A) Long holidays",
+      "B) Angry or biased debates",
+      "C) Lack of ministers",
+      "D) Fewer committees"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 39,
+    "question": "According to the chapter, the media contributes to democracy mainly by:",
+    "options": [
+      "A) Making laws",
+      "B) Conducting elections",
+      "C) Communicating the concerns of the electorate",
+      "D) Appointing Members of Parliament"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 40,
+    "question": "According to the chapter, democracy becomes stronger when citizens:",
+    "options": [
+      "A) Depend only on elected representatives",
+      "B) Stay informed and engaged in public discussions",
+      "C) Avoid political discussions",
+      "D) Participate only during elections"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 41,
+    "question": "Technology, according to the chapter, is making it easier for citizens to:",
+    "options": [
+      "A) Replace Members of Parliament",
+      "B) Stay connected and involved with governance",
+      "C) Conduct elections independently",
+      "D) Prepare the Union Budget"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 42,
+    "question": "According to the chapter, future voters can strengthen democracy mainly through:",
+    "options": [
+      "A) Ignoring public issues",
+      "B) Responsible choices and active participation",
+      "C) Supporting only one political party",
+      "D) Avoiding discussions on public policies"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 43,
+    "question": "According to the chapter's summary, which institution ensures that laws follow the Constitution?",
+    "options": [
+      "A) Legislature",
+      "B) Executive",
+      "C) Judiciary",
+      "D) Election Commission"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 44,
+    "question": "The chapter states that checks and balances between institutions primarily help to:",
+    "options": [
+      "A) Increase the number of political parties",
+      "B) Protect citizens' rights and uphold democratic values",
+      "C) Reduce the powers of Parliament",
+      "D) Increase the number of parliamentary sessions"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 45,
+    "question": "According to the chapter, the functioning of Parliament needs to become more efficient and productive so that:",
+    "options": [
+      "A) More political parties can be formed",
+      "B) The country's progress is not thwarted",
+      "C) Elections can be held every year",
+      "D) Parliament can meet throughout the year"
+    ],
+    "answer": "B"
+  }
+]

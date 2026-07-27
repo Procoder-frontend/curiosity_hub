@@ -1,0 +1,478 @@
+{
+  "chapter_13_pool": [
+    {
+      "id": 1,
+      "question": "Why is Earth referred to as a 'unique life-sustaining planet'?",
+      "options": [
+        "A) Because it is the largest planet in the solar system",
+        "B) Because it is the closest planet to the Sun",
+        "C) Because it possesses the right conditions, like liquid water and an atmosphere, to support diverse life",
+        "D) Because it has more moons than any other planet"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 2,
+      "question": "What allows life on Earth to persist despite environmental changes and disasters?",
+      "options": [
+        "A) The resilience of organisms and the ability of ecosystems to adapt and recover",
+        "B) The planet stops rotating during disasters",
+        "C) The Sun provides extra energy during disasters",
+        "D) Humans manually manage all environmental systems"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is essential for sustaining life as we know it on Earth?",
+      "options": [
+        "A) An atmosphere with high levels of methane",
+        "B) A surface made entirely of molten rock",
+        "C) Intense constant solar radiation",
+        "D) Presence of liquid water, appropriate temperature, and protective atmosphere"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 4,
+      "question": "What is the primary significance of Earth Observation Satellites mentioned in the chapter?",
+      "options": [
+        "A) To mine resources from other planets",
+        "B) To capture and analyze data about Earth's surface and environmental changes",
+        "C) To serve as communication towers for deep space",
+        "D) To block harmful solar radiation"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 5,
+      "question": "What can be inferred about the Earth if it had no life on it?",
+      "options": [
+        "A) It would be exactly the same as it is now",
+        "B) It would become a star",
+        "C) It would lack the biological cycles (like oxygen-carbon balance) that define its current environment",
+        "D) Its gravity would disappear"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "question": "What is the role of scientific investigation in understanding our planet?",
+      "options": [
+        "A) To prove that science has all the answers",
+        "B) To observe, ask questions, and test ideas to understand how systems work",
+        "C) To stop people from asking questions",
+        "D) To build structures on other planets"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "question": "How does curiosity contribute to scientific discovery?",
+      "options": [
+        "A) It drives us to notice, ask questions, and explore the unknown",
+        "B) It is a distraction from serious work",
+        "C) It makes discovery impossible",
+        "D) It is only useful for young children"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 8,
+      "question": "In the context of the chapter, what does it mean to 'think like a scientist'?",
+      "options": [
+        "A) To memorize all scientific facts",
+        "B) To work only in a laboratory",
+        "C) To observe carefully, design investigations, and remain curious",
+        "D) To avoid making mistakes"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "question": "Why is it suggested that the Earth's story 'continues' into secondary school?",
+      "options": [
+        "A) Because the textbook ran out of pages",
+        "B) Because scientific understanding grows in depth and complexity as we learn more",
+        "C) Because the Earth will stop rotating after this grade",
+        "D) Because we stop asking questions after grade 8"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "What is the importance of observing small details in our surroundings, such as water droplets or bird flight patterns?",
+      "options": [
+        "A) It is merely for entertainment",
+        "B) It is a waste of time",
+        "C) These observations are the starting points for scientific investigation",
+        "D) Only professional scientists should do this"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 11,
+      "question": "Earth's diversity of landscapes includes:",
+      "options": [
+        "A) Only deserts",
+        "B) Mountains, oceans, deserts, and forests",
+        "C) Only oceans",
+        "D) Only ice caps"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "What is the 'Investigative World of Science' characterized by?",
+      "options": [
+        "A) Asking deeper questions and designing investigations",
+        "B) Knowing all answers beforehand",
+        "C) Only reading textbooks",
+        "D) Avoiding experimentation"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 13,
+      "question": "What can students do to continue their scientific journey?",
+      "options": [
+        "A) Stop asking questions",
+        "B) Rely only on existing knowledge",
+        "C) Keep wondering, experimenting, and sharing findings",
+        "D) Wait for someone else to discover new things"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "question": "How do satellites help us understand Earth?",
+      "options": [
+        "A) By pulling the Earth closer to the Sun",
+        "B) By changing the weather",
+        "C) By providing images and data to monitor the planet's status",
+        "D) By creating gravity"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 15,
+      "question": "Why is the Earth often compared to a 'mosaic' in the context of satellite images?",
+      "options": [
+        "A) It is made of small tiles",
+        "B) It is a composite of thousands of smaller images",
+        "C) It is a painting",
+        "D) It is an abstract art piece"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "question": "What is a primary requirement for plants to grow on another planet like Mars?",
+      "options": [
+        "A) Pure gold",
+        "B) Soil, water, and suitable environmental conditions",
+        "C) Just a spaceship",
+        "D) No sunlight"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 17,
+      "question": "Why do different species have different biological characteristics (like dogs vs. hens)?",
+      "options": [
+        "A) By chance",
+        "B) Because humans designed them that way",
+        "C) Due to evolutionary adaptations suited to their life cycles and environments",
+        "D) Because they don't reproduce"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 18,
+      "question": "What do 'major changes and disasters' signify for Earth's life history?",
+      "options": [
+        "A) Challenges that life has historically overcome through adaptation and resilience",
+        "B) The end of all life",
+        "C) That life is not important",
+        "D) That the Earth is stationary"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 19,
+      "question": "What is the ultimate goal of scientific curiosity?",
+      "options": [
+        "A) To gain fame",
+        "B) To create more textbooks",
+        "C) To understand the world and potentially change it for the better",
+        "D) To work for ISRO"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 20,
+      "question": "How should one approach the conclusion of a scientific book?",
+      "options": [
+        "A) As the end of all learning",
+        "B) As a reason to stop experimenting",
+        "C) As a transition to more detailed and deeper investigations",
+        "D) As a time to forget everything"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 21,
+      "question": "Which of these is a key theme of the middle stage of the science journey?",
+      "options": [
+        "A) Memorizing names of scientists",
+        "B) Understanding ecosystems and forces",
+        "C) Learning to build rockets",
+        "D) Avoiding outdoor observations"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 22,
+      "question": "How are ecosystems connected, according to the text?",
+      "options": [
+        "A) They are completely isolated",
+        "B) Through various biological and physical cycles",
+        "C) Only by human intervention",
+        "D) They are not connected"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 23,
+      "question": "What does 'Earth, a Unique Life Sustaining Planet' imply?",
+      "options": [
+        "A) That Earth is the only place in the universe with life",
+        "B) That Earth will never change",
+        "C) That the conditions on Earth are specifically conducive to supporting life",
+        "D) That humans are the only life forms"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "question": "What is the first step in scientific investigation?",
+      "options": [
+        "A) Designing a complex machine",
+        "B) Writing a research paper",
+        "C) Noticing something and asking a question about it",
+        "D) Skipping the observation phase"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 25,
+      "question": "Why is Earth's atmosphere important for life?",
+      "options": [
+        "A) It provides necessary gases like oxygen and protects from harmful radiation",
+        "B) It blocks all light",
+        "C) It is made of liquid water",
+        "D) It keeps the Earth cold"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 26,
+      "question": "How do scientific models like mosaics help us?",
+      "options": [
+        "A) They waste resources",
+        "B) They are only for artistic purposes",
+        "C) They help visualize and comprehend large, complex systems",
+        "D) They replace real observation"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 27,
+      "question": "What defines the 'secondary stage' of science education?",
+      "options": [
+        "A) Less detail and fewer challenges",
+        "B) Deeper investigations and bigger discoveries",
+        "C) No more experimentation",
+        "D) Purely theoretical work"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 28,
+      "question": "What happens if we stop wondering?",
+      "options": [
+        "A) Science continues to advance rapidly",
+        "B) The path of scientific discovery and personal growth is hindered",
+        "C) The world becomes more understandable",
+        "D) We become better scientists"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 29,
+      "question": "What can be learned by studying bird flight patterns?",
+      "options": [
+        "A) Nothing useful",
+        "B) Principles of aerodynamics and biological adaptation",
+        "C) Only how to fly a kite",
+        "D) How to make birds talk"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 30,
+      "question": "What is the role of observation in science?",
+      "options": [
+        "A) It is optional",
+        "B) It is the foundation for all scientific inquiry",
+        "C) It is only for biology",
+        "D) It is less important than guessing"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 31,
+      "question": "Why is the Earth's orbit around the Sun important for life?",
+      "options": [
+        "A) It keeps the Earth hot",
+        "B) It influences the climate and seasons necessary for life",
+        "C) It is not important",
+        "D) It makes the Earth float"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 32,
+      "question": "How can science help solve environmental challenges?",
+      "options": [
+        "A) By ignoring them",
+        "B) By understanding their causes and designing sustainable solutions",
+        "C) By moving to another planet",
+        "D) By pretending they don't exist"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 33,
+      "question": "What does the text suggest about the 'story' of science?",
+      "options": [
+        "A) It ends when you finish school",
+        "B) It has no connection to real life",
+        "C) It is a continuous, unfolding adventure",
+        "D) It is only about the past"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 34,
+      "question": "What is a 'real scientist' compared to in the text?",
+      "options": [
+        "A) Someone who knows everything",
+        "B) Someone who asks deep questions and designs investigations",
+        "C) Someone who never fails",
+        "D) Someone who doesn't need to experiment"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 35,
+      "question": "What defines the 'middle stage' of the scientific journey in this book?",
+      "options": [
+        "A) Complete scientific mastery",
+        "B) Developing foundational skills in observation and investigation",
+        "C) Stopping all experimentation",
+        "D) Working only with complex equations"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 36,
+      "question": "How does the text view failures or questions in science?",
+      "options": [
+        "A) As problems to avoid",
+        "B) As part of the process of curiosity and investigation",
+        "C) As proof that science is wrong",
+        "D) As the end of the journey"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 37,
+      "question": "What is the relationship between curiosity and the world?",
+      "options": [
+        "A) Curiosity is disconnected from the world",
+        "B) Curiosity allows us to understand and potentially change the world",
+        "C) Curiosity makes the world more confusing",
+        "D) Curiosity is a sign of ignorance"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 38,
+      "question": "Why are different bird flight patterns interesting?",
+      "options": [
+        "A) Because they are repetitive",
+        "B) Because they indicate diverse evolutionary adaptations",
+        "C) Because they are random",
+        "D) They are not interesting"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 39,
+      "question": "What is the benefit of sharing findings with friends and teachers?",
+      "options": [
+        "A) It is a waste of time",
+        "B) It fosters collaborative learning and scientific communication",
+        "C) It is only required for grades",
+        "D) It makes the findings less reliable"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 40,
+      "question": "What is the main takeaway from the scientific journey described?",
+      "options": [
+        "A) To finish the book as quickly as possible",
+        "B) To cultivate a mindset of curiosity and persistent experimentation",
+        "C) To never look at nature again",
+        "D) That science is too hard"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 41,
+      "question": "How does the Earth compare to other planets in the known universe?",
+      "options": [
+        "A) It is one of many planets known to harbor complex life",
+        "B) It is currently unique in its ability to sustain diverse life",
+        "C) It is identical to all other planets",
+        "D) It is a dead planet"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 42,
+      "question": "What is the significance of the image created from 3000 smaller images?",
+      "options": [
+        "A) It was easy to make",
+        "B) It shows that complex understanding comes from combining many individual observations",
+        "C) It is useless for science",
+        "D) It shows that the Earth is flat"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 44,
+      "question": "Why is 'designing investigations' important?",
+      "options": [
+        "A) Because it is fun",
+        "B) Because it provides a structured way to test ideas and answer questions",
+        "C) Because it is the only way to get grades",
+        "D) It is not important"
+      ],
+      "answer": "B"
+    }
+
+]
+}

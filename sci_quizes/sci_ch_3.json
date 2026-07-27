@@ -1,0 +1,499 @@
+{
+  "chapter_3_pool": [
+    {
+      "id": 1,
+      "question": "According to the World Health Organization (WHO), what is the complete definition of health?",
+      "options": [
+        "A) Merely the absolute absence of any infectious disease or physical injury",
+        "B) A state of complete physical, mental, and social well-being, and not merely the absence of disease",
+        "C) Having strong relationships with peer groups and working efficiently without getting tired",
+        "D) Following a strict daily routine and eating fresh food suited to one's body constitution"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "According to the traditional Indian system of Ayurveda, what does true health represent?",
+      "options": [
+        "A) Taking antibiotics regularly under a doctor's strict prescription",
+        "B) Eradicating all pathogens from the local neighborhood environment",
+        "C) A perfect balance of body, mind, and surroundings",
+        "D) Performing daily modern functional training exercises without rest"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "question": "What terms are used in Ayurveda to describe the required daily routine and seasonal routine to maintain overall balance?",
+      "options": [
+        "A) Prakriti and Teekedaar",
+        "B) Variolation and Krimi",
+        "C) Dinacharya and Ritucharya",
+        "D) Siddha and Unani"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "What does the Ayurvedic term 'prakriti' refer to when selecting a fresh and wholesome diet?",
+      "options": [
+        "A) An individual's unique body constitution",
+        "B) The current season of the year",
+        "C) The environmental air quality index",
+        "D) A community sanitation campaign"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 5,
+      "question": "What parameter is utilized in cities to monitor and communicate how clean or polluted the environmental air is?",
+      "options": [
+        "A) Pathogen Transmission Index (PTI)",
+        "B) Acquired Immunity Index (AII)",
+        "C) Balanced Diet Ratio (BDR)",
+        "D) Air Quality Index (AQI)"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 6,
+      "question": "When a person feels unwell, what term describes the internal sensations felt by the individual, such as pain or tiredness?",
+      "options": [
+        "A) Signs",
+        "B) Symptoms",
+        "C) Vectors",
+        "D) Pathogens"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is classified as a 'sign' of a disease because it can be objectively seen or measured by a doctor?",
+      "options": [
+        "A) Dizziness",
+        "B) Internal body ache",
+        "C) High body temperature (fever)",
+        "D) Feeling tired"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "question": "What is the general biological term used for disease-causing organisms like bacteria, viruses, fungi, worms, and protozoa?",
+      "options": [
+        "A) Pathogens",
+        "B) Vectors",
+        "C) Parasites",
+        "D) Hormones"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 9,
+      "question": "What name is given to diseases that are not caused by pathogens and do not spread from one individual to another?",
+      "options": [
+        "A) Communicable diseases",
+        "B) Acquired diseases",
+        "C) Non-communicable diseases",
+        "D) Infectious diseases"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 10,
+      "question": "Diseases like cancer, diabetes, and asthma that persist for a long time (typically more than 3 months) are referred to as:",
+      "options": [
+        "A) Acute diseases",
+        "B) Chronic diseases",
+        "C) Deficiency diseases",
+        "D) Communicable diseases"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 11,
+      "question": "Why are non-communicable diseases (NCDs) like diabetes and heart problems becoming significantly more common in India today?",
+      "options": [
+        "A) Because of a sudden increase in airborne viral pathogens across cities",
+        "B) Because of lifestyle changes, such as eating more processed food and getting less exercise",
+        "C) Because people are neglecting basic handwashing with soap and water",
+        "D) Because of contaminated drinking water supplies in major urban centers"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "What term defines insects like mosquitos and houseflies that carry and spread pathogens from an infected person to a healthy person?",
+      "options": [
+        "A) Parasites",
+        "B) Pathogens",
+        "C) Antibiotics",
+        "D) Vectors"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 13,
+      "question": "According to the bulletin board, how much percent of people in India are currently obese?",
+      "options": [
+        "A) ~50%",
+        "B) ~29%",
+        "C) 20%",
+        "D) ~35%"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "question": "According to the textbook, which aquatic plant is responsible for making more than 50% of the oxygen in the atmosphere?",
+      "options": [
+        "A) Eucalyptus",
+        "B) Coral reefs",
+        "C) Micro-algae",
+        "D) Fishes"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 15,
+      "question": "Regular handwashing with soap and clean water is documented to reduce the risk of infection by how much?",
+      "options": [
+        "A) 50%",
+        "B) 10%",
+        "C) 75%",
+        "D) 90%"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 16,
+      "question": "An increase in screen time and excessive screen watching in children is directly linked to which specific eye condition?",
+      "options": [
+        "A) Night blindness",
+        "B) Cataract",
+        "C) Color blindness",
+        "D) Dry eye disease"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 17,
+      "question": "Which of the following is an airborne communicable disease caused specifically by a virus?",
+      "options": [
+        "A) Typhoid",
+        "B) Chickenpox",
+        "C) Tuberculosis",
+        "D) Cholera"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 18,
+      "question": "Which organ of the human body serves as the primary site of infection for the disease Tuberculosis (TB)?",
+      "options": [
+        "A) Liver",
+        "B) Intestine",
+        "C) Lungs",
+        "D) Skin"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 19,
+      "question": "What type of causal agent is responsible for the intestinal infection known as Typhoid?",
+      "options": [
+        "A) Virus",
+        "B) Protozoa",
+        "C) Worm",
+        "D) Bacteria"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 20,
+      "question": "Which communicable disease targets the liver, causing symptoms like nausea, vomiting, abdominal pain, and jaundice?",
+      "options": [
+        "A) Cholera",
+        "B) Hepatitis A",
+        "C) Ascariasis",
+        "D) Influenza"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "question": "The intestinal disease Ascariasis is caused by which category of infectious organisms?",
+      "options": [
+        "A) Worms (roundworms)",
+        "B) Bacteria",
+        "C) Protozoa",
+        "D) Viruses"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 22,
+      "question": "What type of pathogen is responsible for causing Malaria, which is transmitted to humans via mosquito bites?",
+      "options": [
+        "A) Bacteria",
+        "B) Virus",
+        "C) Protozoa",
+        "D) Fungus"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 23,
+      "question": "What alternative name is commonly given to Dengue fever due to the severe muscle and joint pain it inflicts on patients?",
+      "options": [
+        "A) Night sweat fever",
+        "B) Periodic chill fever",
+        "C) Jaundice fever",
+        "D) Break bone fever"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 24,
+      "question": "Organisms that live inside or on another living being and feed directly on their nutrients are defined as:",
+      "options": [
+        "A) Vectors",
+        "B) Parasites",
+        "C) Pathogens",
+        "D) Hormones"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 25,
+      "question": "What term refers to the natural, inherent ability of our human body to resist and fight off various diseases?",
+      "options": [
+        "A) Digestion",
+        "B) Respiration",
+        "C) Immunity",
+        "D) Fermentation"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 26,
+      "question": "What biological mechanism allows a vaccine to protect an individual from serious physical infections?",
+      "options": [
+        "A) It immediately cures the disease by directly dissolving the cellular wall of the pathogen",
+        "B) It trains the immune system to recognize and attack harmful germs, providing acquired immunity",
+        "C) It replaces the damaged organs of the body with fresh, synthetic cell structures",
+        "D) It balances the digestive juices and acids inside the stomach to neutralize toxins"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 27,
+      "question": "Which pioneering researcher studied the links between hormones, viruses, and cancer, highlighting the risks of tobacco and pollution?",
+      "options": [
+        "A) Alexander Fleming",
+        "B) Edward Jenner",
+        "C) Maharaj Kishan Bhan",
+        "D) Kamal Ranadive"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 28,
+      "question": "Who discovered the very first vaccine in the late 1700s after observing that milkmaids infected with cowpox became resistant to smallpox?",
+      "options": [
+        "A) Edward Jenner",
+        "B) Alexander Fleming",
+        "C) Louis Pasteur",
+        "D) Maharaj Kishan Bhan"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 29,
+      "question": "What was the name of the traditional Indian method used long before modern vaccines to build immunity against smallpox?",
+      "options": [
+        "A) Dinacharya",
+        "B) Ritucharya",
+        "C) Variolation",
+        "D) Prakriti"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 30,
+      "question": "What was the name given to the traditional practitioners who performed the process of variolation in ancient India?",
+      "options": [
+        "A) Vaidyas",
+        "B) Hakims",
+        "C) Teekedaars",
+        "D) Krimis"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 31,
+      "question": "Which deadly global disease was completely eradicated worldwide by 1979 through an intensive mass vaccination campaign?",
+      "options": [
+        "A) Polio",
+        "B) Tetanus",
+        "C) Measles",
+        "D) Smallpox"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 32,
+      "question": "Which prominent Indian scientist played a foundational role in developing the Rotavirus vaccine to protect young children from severe diarrhoea?",
+      "options": [
+        "A) Ananda Mohan Chakrabarty",
+        "B) Maharaj Kishan Bhan",
+        "C) Yellapragada Subbarao",
+        "D) Asima Chatterjee"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 33,
+      "question": "What type of specific medical drug is prescribed by doctors to kill bacteria or stop their growth inside the body?",
+      "options": [
+        "A) Vaccines",
+        "B) Antibiotics",
+        "C) Hormones",
+        "D) Antivirals"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 34,
+      "question": "Why are standard antibiotics completely ineffective when used against viral infections like the common cold, cough, or flu?",
+      "options": [
+        "A) Because viruses grow much faster than modern antibiotics can dissolve",
+        "B) Because antibiotics specifically target parts of bacterial cells that are completely different from viruses",
+        "C) Because viral infections can only be managed by traditional herbs and mineral oils",
+        "D) Because antibiotics require massive amounts of oxygen to target a pathogen effectively"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 35,
+      "question": "Who discovered the first bacterial-fighting antibiotic, Penicillin, in 1928 after observing a green mould contamination in a petri dish?",
+      "options": [
+        "A) Edward Jenner",
+        "B) Maharaj Kishan Bhan",
+        "C) Alexander Fleming",
+        "D) Suniti Solomon"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 36,
+      "question": "What critical healthcare threat occurs when bacteria adapt, survive, and multiply despite being treated with a specific antibiotic?",
+      "options": [
+        "A) Acquired immunity decline",
+        "B) Pathogenic evolution",
+        "C) Antibiotic resistance",
+        "D) Bacterial decomposition"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 37,
+      "question": "What primary patient error directly contributes to the spread of antibiotic-resistant bacteria in a community?",
+      "options": [
+        "A) Exercising outdoors in a public park with poor air quality",
+        "B) Eating processed fast food items containing high sugar and oil content",
+        "C) Practicing daily yoga and meditation without proper clinical guidance",
+        "D) Taking antibiotics when they are not required or taking an incomplete dose"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 38,
+      "question": "What can happen to the human body if antibiotics are taken unnecessarily and indiscriminately?",
+      "options": [
+        "A) They will immediately turn into active viral strains inside the lungs",
+        "B) They kill beneficial bacteria that protect our body from infections along with the bad ones",
+        "C) They permanently stop the production of hormonal juices inside the liver",
+        "D) They directly cause structural fractures in the bones of the joints"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 39,
+      "question": "To reduce antibiotic resistance, what is the correct practice for using antibiotic medicines?",
+      "options": [
+        "A) Purchase them directly from a chemist whenever you suffer from a sore throat",
+        "B) Use them wisely only when prescribed by a doctor, in the correct dose, and for the right duration",
+        "C) Mix them with lukewarm milk or fresh fruit juice to maximize their chemical effect",
+        "D) Stop taking them as soon as your physical symptoms disappear to save the dosage"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 40,
+      "question": "Which of the following represents a non-communicable nutritional deficiency disease caused by a lack of vitamin C?",
+      "options": [
+        "A) Scurvy",
+        "B) Anaerobic Typhoid",
+        "C) Goitre",
+        "D) Measles"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 41,
+      "question": "What is the core focus of medical therapies designed for managing chronic, non-communicable diseases?",
+      "options": [
+        "A) Complete physical isolation of the patient to prevent transmission to peers",
+        "B) Prescribing heavy doses of broad-spectrum antibiotics to clear out cell pathways",
+        "C) Managing symptoms and improving quality of life through medication, lifestyle changes, and rehabilitation",
+        "D) Applying red-colored stains over the affected organs to improve visibility"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 42,
+      "question": "When a human body encounters a specific pathogen for the second time, why is the secondary immune response much stronger than the first encounter?",
+      "options": [
+        "A) Because the pathogen becomes weak and fragile over time",
+        "B) Because the immune system has been trained to recognize and launch a targeted attack against that specific germ",
+        "C) Because the body's internal temperature rises automatically to burn off the pathogens",
+        "D) Because antibiotics remain permanently active in the bloodstream for years"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 43,
+      "question": "What clinical practice involves injecting an inactivated bacterial toxin, such as a shot given immediately after an injury, to protect against bacterial infections?",
+      "options": [
+        "A) Decomposition",
+        "B) Tetanus vaccination",
+        "C) Variolation scratch",
+        "D) Antibiotic streaming"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 44,
+      "question": "What clear lesson was derived from the community-led sanitation campaign in Bhadrak district, Odisha?",
+      "options": [
+        "A) Air pollution can be managed completely by limiting digital screen time",
+        "B) Improving sanitation and reducing open defecation significantly lowers cases of diarrhoea and infections",
+        "C) Traditional medical herbs are highly effective at completely replacing modern vaccines",
+        "D) Mass vaccination campaigns are entirely dependent on urban industrial sectors"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 45,
+      "question": "What basic health mantra is promoted by the national Fit India Movement regarding daily dietary habits?",
+      "options": [
+        "A) Increase the consumption of highly processed and packed meals",
+        "B) Completely eliminate protein-rich grains from daily meals",
+        "C) Reduce the amount of oil and sugar in the diet",
+        "D) Take active bacterial supplements with every breakfast meal"
+      ],
+      "answer": "C"
+    }
+  ]
+}

@@ -1,0 +1,499 @@
+[
+  {
+    "id": 1,
+    "question": "According to the chapter, what are factors of production?",
+    "options": [
+      "A) Goods produced in factories",
+      "B) Resources used to produce goods and services",
+      "C) Taxes collected by the government",
+      "D) Methods of transporting products"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is NOT a factor of production mentioned in the chapter?",
+    "options": [
+      "A) Land",
+      "B) Labour",
+      "C) Entrepreneurship",
+      "D) Marketing"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 3,
+    "question": "Which factor of production includes all natural resources used in production?",
+    "options": [
+      "A) Labour",
+      "B) Capital",
+      "C) Land",
+      "D) Technology"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 4,
+    "question": "According to the chapter, which of the following is an example of land as a factor of production?",
+    "options": [
+      "A) Factory machines",
+      "B) Rivers, forests and minerals",
+      "C) Skilled workers",
+      "D) Bank loans"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "question": "What does the factor 'labour' refer to?",
+    "options": [
+      "A) Money invested in production",
+      "B) Human effort used in producing goods and services",
+      "C) Natural resources",
+      "D) Factory buildings"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is an example of skilled labour mentioned in the chapter?",
+    "options": [
+      "A) Engineer",
+      "B) Miner",
+      "C) Farmer's field",
+      "D) Tractor"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 7,
+    "question": "According to the chapter, what is human capital?",
+    "options": [
+      "A) Money invested by businesses",
+      "B) Machines used in production",
+      "C) The knowledge, skills, experience and abilities of people",
+      "D) Buildings and roads"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 8,
+    "question": "Human capital is improved through:",
+    "options": [
+      "A) Education and training",
+      "B) Increasing land area only",
+      "C) Purchasing more machines only",
+      "D) Exporting products"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 9,
+    "question": "Which factor of production includes tools, machinery and equipment used to produce goods and services?",
+    "options": [
+      "A) Labour",
+      "B) Capital",
+      "C) Land",
+      "D) Entrepreneurship"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is an example of physical capital?",
+    "options": [
+      "A) Teacher's knowledge",
+      "B) Factory machine",
+      "C) Fertile soil",
+      "D) Business idea"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 11,
+    "question": "According to the chapter, entrepreneurship mainly involves:",
+    "options": [
+      "A) Working as a labourer",
+      "B) Organising and managing the factors of production while taking risks",
+      "C) Supplying natural resources",
+      "D) Manufacturing machines"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 12,
+    "question": "What is one of the major responsibilities of an entrepreneur mentioned in the chapter?",
+    "options": [
+      "A) Printing currency",
+      "B) Deciding how resources should be used",
+      "C) Conducting elections",
+      "D) Collecting taxes"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 13,
+    "question": "According to the chapter, technology helps production by:",
+    "options": [
+      "A) Eliminating the need for all other factors",
+      "B) Improving efficiency and productivity",
+      "C) Replacing entrepreneurship completely",
+      "D) Increasing the amount of land"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "question": "Which Government platform mentioned in the chapter offers free online courses through MOOCs?",
+    "options": [
+      "A) DIKSHA",
+      "B) SWAYAM",
+      "C) ePathshala",
+      "D) DigiLocker"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "question": "According to the chapter, the National Career Service portal mainly helps people to:",
+    "options": [
+      "A) Apply for passports",
+      "B) Find job opportunities across different sectors",
+      "C) Purchase machinery",
+      "D) Register new businesses"
+    ],
+    "answer": "B"
+  },
+  
+  {
+    "id": 16,
+    "question": "According to the chapter, which factor of production combines land, labour, capital and technology to produce goods and services?",
+    "options": [
+      "A) Labour",
+      "B) Entrepreneurship",
+      "C) Land",
+      "D) Capital"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "question": "The proportion of different factors of production depends mainly on:",
+    "options": [
+      "A) The weather",
+      "B) The type of product being produced",
+      "C) Government taxes",
+      "D) The number of workers"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "question": "According to the chapter, agriculture, construction and handicrafts are examples of:",
+    "options": [
+      "A) Capital-intensive sectors",
+      "B) Labour-intensive sectors",
+      "C) Technology-free sectors",
+      "D) Service-intensive sectors"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "question": "Which products mentioned in the chapter require more capital and specialised machinery?",
+    "options": [
+      "A) Wheat and rice",
+      "B) Handloom fabrics",
+      "C) Semiconductor chips and satellites",
+      "D) Pottery and handicrafts"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 20,
+    "question": "According to the chapter, the factors of production are:",
+    "options": [
+      "A) Independent of one another",
+      "B) Competing with one another",
+      "C) Complementary and interconnected",
+      "D) Useful only in manufacturing"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 21,
+    "question": "What may happen if one or more factors of production are missing or misused?",
+    "options": [
+      "A) Production always increases",
+      "B) Production becomes more profitable",
+      "C) Production may become inefficient or stop",
+      "D) Only transportation is affected"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 22,
+    "question": "According to the chapter, increased use of machines in agriculture can:",
+    "options": [
+      "A) Increase dependence on labour",
+      "B) Reduce dependence on labour",
+      "C) Eliminate the need for land",
+      "D) Remove the need for entrepreneurs"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "question": "The chapter states that 3-D printing can help revive:",
+    "options": [
+      "A) Mining industries",
+      "B) The dying art forms in textiles",
+      "C) Railway transport",
+      "D) Construction work"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 24,
+    "question": "Businesses procure production inputs from different geographic locations mainly because:",
+    "options": [
+      "A) Every input is available at the same place",
+      "B) Different inputs are available in different locations",
+      "C) Local resources are never used",
+      "D) It is required by law"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 25,
+    "question": "According to the chapter, what is a supply chain?",
+    "options": [
+      "A) A railway transport system",
+      "B) A network of individuals, organisations, resources, activities and technology involved in producing and selling goods",
+      "C) A government department",
+      "D) A financial institution"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 26,
+    "question": "The chapter mentions that production activities faced severe supply chain disruptions during:",
+    "options": [
+      "A) The Green Revolution",
+      "B) The COVID-19 pandemic",
+      "C) The Industrial Revolution",
+      "D) The Digital Revolution"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 27,
+    "question": "According to the 'Don't Miss Out' section, in 2025 India became the world's:",
+    "options": [
+      "A) Largest mobile phone manufacturer",
+      "B) Second-largest mobile phone manufacturer",
+      "C) Third-largest mobile phone manufacturer",
+      "D) Largest semiconductor producer"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 28,
+    "question": "In the mobile phone manufacturing flow chart, what is the first step after 'START'?",
+    "options": [
+      "A) Acquire raw materials",
+      "B) Acquire land and set up factory",
+      "C) Assemble components",
+      "D) Test the phone"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 29,
+    "question": "According to the mobile phone manufacturing process, who conceptualises new features?",
+    "options": [
+      "A) Sales team",
+      "B) Distribution team",
+      "C) R&D team",
+      "D) Retail stores"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 30,
+    "question": "In the mobile phone manufacturing flow chart, what is done immediately before distribution to retail stores?",
+    "options": [
+      "A) Acquire raw materials",
+      "B) Test the phone for functionality, quality and performance",
+      "C) Set up the factory",
+      "D) Conceptualise new features"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 31,
+    "question": "According to the chapter, why should producers use natural resources responsibly?",
+    "options": [
+      "A) To increase imports",
+      "B) To meet present needs without making it harder for future generations to meet theirs",
+      "C) To eliminate all industries",
+      "D) To reduce the number of workers"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 32,
+    "question": "The chapter cites leather factories in which Indian state while discussing environmental responsibility?",
+    "options": [
+      "A) Karnataka",
+      "B) Tamil Nadu",
+      "C) Gujarat",
+      "D) Maharashtra"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 33,
+    "question": "According to the chapter, improper disposal of old smartphones can release which harmful substances into the environment?",
+    "options": [
+      "A) Gold and silver",
+      "B) Iron and aluminium",
+      "C) Lead and mercury",
+      "D) Copper and zinc"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 34,
+    "question": "According to the chapter, producers should try to:",
+    "options": [
+      "A) Increase waste generation",
+      "B) Avoid recycling materials",
+      "C) Reduce waste, avoid pollution and protect the environment",
+      "D) Use only imported raw materials"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 35,
+    "question": "To ensure natural resources remain available for the future, producers should adopt:",
+    "options": [
+      "A) Intensive mining only",
+      "B) Sustainable practices",
+      "C) Higher taxes",
+      "D) Faster transportation"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 36,
+    "question": "According to the chapter, employers should ensure workers receive:",
+    "options": [
+      "A) Free housing only",
+      "B) Fair compensation and safe working conditions",
+      "C) Free transportation only",
+      "D) Unlimited paid leave"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 37,
+    "question": "Why should businesses invest in skill development and training for workers?",
+    "options": [
+      "A) To reduce education levels",
+      "B) To help workers remain competitive in the labour market",
+      "C) To replace all workers with machines",
+      "D) To reduce productivity"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 38,
+    "question": "According to the chapter, workplace rights include:",
+    "options": [
+      "A) Preventing discrimination and ensuring fair treatment",
+      "B) Increasing working hours without limits",
+      "C) Eliminating employee benefits",
+      "D) Restricting skill development"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 39,
+    "question": "What does CSR stand for?",
+    "options": [
+      "A) Corporate Service Rules",
+      "B) Corporate Social Responsibility",
+      "C) Company Safety Regulations",
+      "D) Consumer Service Rights"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 40,
+    "question": "According to the chapter, Corporate Social Responsibility includes:",
+    "options": [
+      "A) Increasing pollution to maximise profits",
+      "B) Reducing polluting activities and supporting society and biodiversity",
+      "C) Replacing workers with machines",
+      "D) Limiting employee training"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 41,
+    "question": "According to the 'Don't Miss Out' section, India became the first country to introduce a mandatory CSR law in:",
+    "options": [
+      "A) 2009",
+      "B) 2012",
+      "C) 2014",
+      "D) 2018"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 42,
+    "question": "The CSR law mentioned in the chapter requires eligible companies to spend what percentage of their average profits from the previous three years on CSR activities?",
+    "options": [
+      "A) 1%",
+      "B) 2%",
+      "C) 3%",
+      "D) 5%"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 43,
+    "question": "According to the chapter summary, which factors of production complement one another and are interconnected?",
+    "options": [
+      "A) Land, labour, capital and entrepreneurship",
+      "B) Labour and technology only",
+      "C) Land and capital only",
+      "D) Entrepreneurship and technology only"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 44,
+    "question": "According to the chapter summary, human capital is influenced by all of the following EXCEPT:",
+    "options": [
+      "A) Education",
+      "B) Training",
+      "C) Health",
+      "D) Climate"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 45,
+    "question": "According to the chapter summary, the resources used in producing goods and services should be:",
+    "options": [
+      "A) Used without restrictions",
+      "B) Preserved and utilised judiciously",
+      "C) Exported immediately",
+      "D) Replaced completely by technology"
+    ],
+    "answer": "B"
+  }
+
+]

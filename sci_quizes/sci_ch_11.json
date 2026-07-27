@@ -1,0 +1,499 @@
+{
+  "chapter_11_pool": [
+    {
+      "id": 1,
+      "question": "What is the primary phenomenon that causes the Moon to change its visible shape, or 'phases', throughout the month?",
+      "options": [
+        "A) The Moon rotates on its axis at a variable speed",
+        "B) The relative positions of the Sun, Earth, and Moon change as the Moon orbits the Earth",
+        "C) Clouds constantly obscure different parts of the Moon's surface",
+        "D) The Moon moves behind the Earth's shadow (Eclipse)"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "The Moon is a spherical object that shines primarily by:",
+      "options": [
+        "A) Reflecting sunlight that strikes its surface",
+        "B) Emitting its own light via nuclear fusion",
+        "C) Absorbing light from stars and re-radiating it",
+        "D) Generating heat through volcanic activity"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 3,
+      "question": "If you were living on the Moon, how would your definition of a 'day' (a full cycle of light and darkness) differ from an Earth day?",
+      "options": [
+        "A) It would be shorter, about 12 hours",
+        "B) It would be identical, exactly 24 hours",
+        "C) It would be much longer, approximately 29.5 Earth days",
+        "D) There would be no darkness on the Moon"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "What are the periodic rise and fall of sea water levels caused by the Moon's gravitational pull called?",
+      "options": [
+        "A) Currents",
+        "B) Waves",
+        "C) Upwellings",
+        "D) Tides"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 5,
+      "question": "Why do high and low tides typically occur about 50 minutes later each day?",
+      "options": [
+        "A) Because the Moon rises about 50 minutes later each day as it orbits the Earth",
+        "B) Because the Earth slows down its rotation slightly",
+        "C) Because of the seasonal variation in ocean temperature",
+        "D) Because the Sun's gravity interferes with the Moon's pull"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 6,
+      "question": "The festival of Makar Sankranti is often associated with the transition of the Sun's path in the sky. What is the northward movement of the Sun called?",
+      "options": [
+        "A) Dakshinayaan",
+        "B) Solstice",
+        "C) Uttarayaan",
+        "D) Equinox"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 7,
+      "question": "What is an 'intercalary month' (Adhikamaasa) in a luni-solar calendar used for?",
+      "options": [
+        "A) To account for the extra weight of the Moon",
+        "B) To align the lunar calendar with the solar year",
+        "C) To celebrate the lunar eclipse",
+        "D) To account for leap seconds"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 8,
+      "question": "If the Earth had two moons instead of one, what would be the most immediate noticeable effect on the night sky?",
+      "options": [
+        "A) The night would be as bright as the day",
+        "B) The Earth would stop rotating",
+        "C) The stars would no longer be visible",
+        "D) The complexity of tidal patterns and lunar phases would increase significantly"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is true about seeing the Moon during the daytime?",
+      "options": [
+        "A) It is sometimes visible when the Moon is in the correct position relative to the Sun and Earth",
+        "B) It is impossible to see the Moon during the day",
+        "C) It only happens during a solar eclipse",
+        "D) It only happens during a lunar eclipse"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 10,
+      "question": "How did ancient observers identify the seasonal shifts in the Sun's position?",
+      "options": [
+        "A) By using advanced electronic GPS sensors",
+        "B) By calculating the speed of light from the Sun",
+        "C) By observing the shift in the position of sunrise on the horizon over many months",
+        "D) By measuring the distance to the nearest star"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 11,
+      "question": "Which celestial body is primarily responsible for the tides observed on Earth?",
+      "options": [
+        "A) The Sun",
+        "B) Venus",
+        "C) Jupiter",
+        "D) The Moon"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 12,
+      "question": "During which phase of the Moon is the side facing Earth completely illuminated?",
+      "options": [
+        "A) New Moon",
+        "B) Full Moon",
+        "C) First Quarter",
+        "D) Crescent Moon"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 13,
+      "question": "What happens to the Moon's shape during the 'waning' phase?",
+      "options": [
+        "A) It appears to get larger",
+        "B) It remains constant",
+        "C) It appears to get smaller",
+        "D) It disappears entirely"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "question": "What is the approximate time it takes for the Moon to complete one full cycle of phases?",
+      "options": [
+        "A) 7 days",
+        "B) 29.5 days",
+        "C) 365 days",
+        "D) 24 hours"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 15,
+      "question": "Which phenomenon causes the Sun to appear to move southward in the sky from June to December?",
+      "options": [
+        "A) Uttarayaan",
+        "B) Solar Eclipse",
+        "C) Dakshinayaan",
+        "D) Lunar Eclipse"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 16,
+      "question": "Why does the Moon appear to move across the sky during the night?",
+      "options": [
+        "A) Because the Moon orbits the Earth very rapidly",
+        "B) Because of the rotation of the Earth on its axis",
+        "C) Because the Moon produces its own light",
+        "D) Because of the Earth's orbit around the Sun"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 17,
+      "question": "What shape does the Earth's shadow cast on the Moon during a lunar eclipse?",
+      "options": [
+        "A) Rectangular",
+        "B) Triangular",
+        "C) Circular",
+        "D) Irregular"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 18,
+      "question": "What determines the length of a 'lunar month'?",
+      "options": [
+        "A) The Earth's rotation",
+        "B) The solar year",
+        "C) The time taken for the Moon to return to the same phase",
+        "D) The Moon's gravity"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 19,
+      "question": "Which of these is NOT a phase of the Moon?",
+      "options": [
+        "A) Gibbous",
+        "B) Zenith",
+        "C) Crescent",
+        "D) Quarter"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "question": "What is the study of the Moon's phases and positions relative to timekeeping called?",
+      "options": [
+        "A) Meteorology",
+        "B) Geology",
+        "C) Oceanography",
+        "D) Luni-solar astronomy"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 21,
+      "question": "If you observe a full moon tonight, approximately when will the next full moon occur?",
+      "options": [
+        "A) In about a week",
+        "B) In about 29.5 days",
+        "C) In 24 hours",
+        "D) In exactly one year"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 22,
+      "question": "What provides the most significant 'anchor' for lunar calendars in many cultures?",
+      "options": [
+        "A) The phases of the Moon",
+        "B) The position of Mars",
+        "C) The rotation of the Sun",
+        "D) The migration of birds"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 23,
+      "question": "How does the Moon's gravitational pull affect the Earth's oceans?",
+      "options": [
+        "A) It creates volcanic activity",
+        "B) It causes the water to evaporate faster",
+        "C) It forces the water to move towards the poles",
+        "D) It causes water to bulge, creating tides"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 24,
+      "question": "What is the primary reason the Moon does not produce light?",
+      "options": [
+        "A) It is too far from the Sun",
+        "B) It is made of rock and has no fusion reaction",
+        "C) It is made of liquid gas",
+        "D) It absorbs all light that hits it"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 25,
+      "question": "When the Moon is between the Earth and the Sun, which phase is it in?",
+      "options": [
+        "A) Full Moon",
+        "B) New Moon",
+        "C) Last Quarter",
+        "D) First Quarter"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 26,
+      "question": "Why was the observation of sunrise shifts important for ancient agriculture?",
+      "options": [
+        "A) It helped predict the weather for the next hour",
+        "B) It helped track seasons for planting and harvesting",
+        "C) It helped measure the speed of wind",
+        "D) It allowed them to track the orbit of Saturn"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 27,
+      "question": "How do tides impact marine life?",
+      "options": [
+        "A) They prevent fish from swimming",
+        "B) They cause all fish to migrate to deep water",
+        "C) They bring nutrients and create specific habitats for shore animals",
+        "D) They have no impact on marine life"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 28,
+      "question": "What is the phase called when more than half, but not all, of the Moon is visible?",
+      "options": [
+        "A) Crescent",
+        "B) Quarter",
+        "C) New",
+        "D) Gibbous"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 29,
+      "question": "Which of these factors does NOT affect the tides?",
+      "options": [
+        "A) The color of the Moon",
+        "B) The Moon's distance from Earth",
+        "C) The Moon's phase",
+        "D) The rotation of the Earth"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 30,
+      "question": "How long is the period of 'Uttarayaan'?",
+      "options": [
+        "A) Exactly one day",
+        "B) One full year",
+        "C) About six months",
+        "D) One month"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 31,
+      "question": "What effect does the Moon's orbit around Earth have on the timing of moonrise?",
+      "options": [
+        "A) It makes the moonrise time consistent every day",
+        "B) It makes the moonrise happen later each day",
+        "C) It makes the moonrise happen earlier each day",
+        "D) It prevents the Moon from rising on some days"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 32,
+      "question": "Which season is usually associated with the start of Dakshinayaan?",
+      "options": [
+        "A) Winter",
+        "B) Summer",
+        "C) Spring",
+        "D) Autumn"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 33,
+      "question": "Why does the Moon's phase change from night to night?",
+      "options": [
+        "A) Because the Moon is changing shape",
+        "B) Because the angle of sunlight hitting the Moon changes as it orbits Earth",
+        "C) Because the Earth is blocking the Sun's light in different ways",
+        "D) Because the atmosphere of the Earth changes"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 34,
+      "question": "What is a 'lunar month' measured in days?",
+      "options": [
+        "A) 24",
+        "B) 29.5",
+        "C) 30",
+        "D) 31"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 35,
+      "question": "During which part of the day is the Sun at its highest point?",
+      "options": [
+        "A) Sunrise",
+        "B) Sunset",
+        "C) Solar noon",
+        "D) Midnight"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 36,
+      "question": "What does the word 'Luni-solar' mean in calendar systems?",
+      "options": [
+        "A) Based only on the Sun",
+        "B) Based on both the Moon and the Sun",
+        "C) Based only on the stars",
+        "D) Based only on the planets"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 37,
+      "question": "Why do we rarely see the Moon perfectly full?",
+      "options": [
+        "A) Actually, we see a full moon once a month",
+        "B) Because the Sun is always setting when the Moon is full",
+        "C) Because the orbit is tilted, meaning the Earth often slightly shades the Moon",
+        "D) Because the Moon is always changing size"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 38,
+      "question": "How did ancient people use the horizon to tell time?",
+      "options": [
+        "A) By using clocks",
+        "B) By reading digital displays",
+        "C) By observing the position of the Sun/Moon against fixed landscape markers",
+        "D) By measuring the temperature"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 39,
+      "question": "Which phase of the Moon immediately follows the New Moon?",
+      "options": [
+        "A) Full Moon",
+        "B) Waning Gibbous",
+        "C) Waxing Crescent",
+        "D) Last Quarter"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 40,
+      "question": "What causes the 'phases' of the moon to look different to us?",
+      "options": [
+        "A) The actual size of the moon changing",
+        "B) The shadow of the clouds",
+        "C) The amount of the illuminated side visible from Earth",
+        "D) The distance of the moon to the Sun"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 41,
+      "question": "What is the result of the Earth's orbit around the Sun combined with its tilt?",
+      "options": [
+        "A) Tides",
+        "B) Lunar phases",
+        "C) Wind",
+        "D) Seasons"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 42,
+      "question": "How often does a New Moon occur?",
+      "options": [
+        "A) Every day",
+        "B) Once a month",
+        "C) Once a year",
+        "D) Every week"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 43,
+      "question": "What makes the Moon appear bright at night?",
+      "options": [
+        "A) It is glowing hot",
+        "B) Reflection from Earth",
+        "C) Sunlight reflected off its surface",
+        "D) Starlight hitting it"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 44,
+      "question": "Which of these best describes a lunar month?",
+      "options": [
+        "A) Time to rotate on its axis",
+        "B) Time to orbit Earth once (relative to the Sun)",
+        "C) Time to orbit the Sun once",
+        "D) Time to travel through the galaxy"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 45,
+      "question": "Why do shadows change length throughout the day?",
+      "options": [
+        "A) Because the Earth's atmosphere changes",
+        "B) Because the Sun's light gets weaker",
+        "C) Because the Sun's position changes relative to the observer",
+        "D) Because the surface of the Earth is curved"
+      ],
+      "answer": "C"
+    }
+  ]
+}

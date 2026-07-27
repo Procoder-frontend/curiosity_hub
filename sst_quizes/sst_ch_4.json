@@ -1,0 +1,502 @@
+{
+  "chapter_4_pool": [
+    {
+    "id": 1,
+    "question": "What is colonialism according to the chapter?",
+    "options": [
+      "A) The practice of one country taking control of another region and imposing its political, economic and cultural systems",
+      "B) Trade conducted between neighbouring kingdoms",
+      "C) The spread of industries within a country",
+      "D) Military alliances between kingdoms"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 2,
+    "question": "Which European powers are identified in the chapter as major colonial powers during the Age of Colonialism?",
+    "options": [
+      "A) Spain, Portugal, Britain, France and Netherlands",
+      "B) Germany, Italy, Russia and Austria",
+      "C) Greece, Egypt and Persia",
+      "D) China, Japan and Korea"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 3,
+    "question": "Which motivation for colonial expansion involved spreading Christianity?",
+    "options": [
+      "A) Scientific inquiry",
+      "B) Religious conversion",
+      "C) Agricultural development",
+      "D) Population control"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "question": "Before European colonisation, India contributed approximately what share of the world's GDP according to the chapter?",
+    "options": [
+      "A) About one-fourth",
+      "B) About one-tenth",
+      "C) About one-half",
+      "D) Less than five percent"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 5,
+    "question": "Which Portuguese explorer reached Kappad near Kozhikode in May 1498?",
+    "options": [
+      "A) Ferdinand Magellan",
+      "B) Vasco da Gama",
+      "C) Christopher Columbus",
+      "D) Bartolomeu Dias"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 6,
+    "question": "Which city became the capital of the Portuguese colony in India after its capture in 1510?",
+    "options": [
+      "A) Surat",
+      "B) Madras",
+      "C) Goa",
+      "D) Bombay"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 7,
+    "question": "What was the purpose of the Portuguese 'cartaz' system?",
+    "options": [
+      "A) To collect temple taxes",
+      "B) To regulate village administration",
+      "C) To require ships to purchase permits for navigation in the Arabian Sea",
+      "D) To recruit Indian soldiers"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 8,
+    "question": "In which year did the Portuguese establish the Inquisition at Goa?",
+    "options": [
+      "A) 1498",
+      "B) 1510",
+      "C) 1560",
+      "D) 1605"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "question": "Which ruler successfully resisted repeated Portuguese attacks on Ullal?",
+    "options": [
+      "A) Rani Durgavati",
+      "B) Rani Abbakka I",
+      "C) Ahilyabai Holkar",
+      "D) Rani Chennamma"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "question": "Which traditional dance-drama preserves the stories of Rani Abbakka?",
+    "options": [
+      "A) Kathakali",
+      "B) Bharatanatyam",
+      "C) Yakshagana",
+      "D) Manipuri"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 11,
+    "question": "Which European power mainly focused on commercial dominance rather than religious intervention in India?",
+    "options": [
+      "A) Dutch",
+      "B) Portuguese",
+      "C) Spanish",
+      "D) Danish"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "question": "The defeat of the Dutch at the Battle of Colachel took place in which year?",
+    "options": [
+      "A) 1707",
+      "B) 1741",
+      "C) 1757",
+      "D) 1764"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 13,
+    "question": "Who led Travancore's victory against the Dutch at the Battle of Colachel?",
+    "options": [
+      "A) Tipu Sultan",
+      "B) Marthanda Varma",
+      "C) Shivaji Maharaj",
+      "D) Haider Ali"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "question": "Which French Governor-General introduced European military training for Indian sepoys?",
+    "options": [
+      "A) Robert Clive",
+      "B) Dupleix",
+      "C) Lord Wellesley",
+      "D) Warren Hastings"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "question": "Which series of conflicts ended the major French colonial ambitions in India according to the chapter?",
+    "options": [
+      "A) Anglo-Mysore Wars",
+      "B) Carnatic Wars",
+      "C) Anglo-Sikh Wars",
+      "D) Anglo-Maratha Wars"
+    ],
+    "answer": "B"
+  },
+   
+  {
+    "id": 16,
+    "question": "Which English monarch granted the East India Company its royal charter?",
+    "options": [
+      "A) Queen Victoria",
+      "B) Queen Elizabeth I",
+      "C) King James II",
+      "D) King George III"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "question": "Which of the following was NOT among the special powers granted to the East India Company by its royal charter?",
+    "options": [
+      "A) Raising a private army",
+      "B) Establishing trading posts",
+      "C) Declaring India an independent nation",
+      "D) Conducting trade"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 18,
+    "question": "What appearance did the East India Company initially maintain to avoid resistance from Indian rulers?",
+    "options": [
+      "A) Religious missionaries",
+      "B) Peaceful traders",
+      "C) Military conquerors",
+      "D) Cultural reformers"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "question": "Which British strategy involved exploiting rivalries between Indian rulers for political gain?",
+    "options": [
+      "A) Forward Policy",
+      "B) Divide and Rule",
+      "C) Ring Fence Policy",
+      "D) Permanent Settlement"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "question": "Who was the Nawab of Bengal during the Battle of Plassey?",
+    "options": [
+      "A) Mir Qasim",
+      "B) Siraj-ud-daulah",
+      "C) Alivardi Khan",
+      "D) Shuja-ud-Daula"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 21,
+    "question": "Which East India Company officer conspired with Mir Jafar before the Battle of Plassey?",
+    "options": [
+      "A) Warren Hastings",
+      "B) Robert Clive",
+      "C) Lord Cornwallis",
+      "D) Lord Wellesley"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 22,
+    "question": "Who betrayed Siraj-ud-daulah during the Battle of Plassey?",
+    "options": [
+      "A) Nana Saheb",
+      "B) Mir Jafar",
+      "C) Bahadur Shah Zafar",
+      "D) Tatia Tope"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "question": "Today, the name 'Mir Jafar' is commonly used in India as a synonym for what?",
+    "options": [
+      "A) Brave soldier",
+      "B) Wise ruler",
+      "C) Traitor",
+      "D) Merchant"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 24,
+    "question": "According to the Doctrine of Lapse, when could the British annex a princely state?",
+    "options": [
+      "A) When trade declined",
+      "B) When the ruler died without a natural male heir",
+      "C) When taxes were unpaid",
+      "D) When the ruler requested British protection"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 25,
+    "question": "Which Indian tradition did the Doctrine of Lapse deliberately disregard?",
+    "options": [
+      "A) Joint family system",
+      "B) Temple worship",
+      "C) Adoption as a legitimate means of succession",
+      "D) Village self-government"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 26,
+    "question": "What was the main purpose of the Subsidiary Alliance system?",
+    "options": [
+      "A) To encourage free trade",
+      "B) To strengthen village councils",
+      "C) To bring Indian states under British control while appearing to preserve their autonomy",
+      "D) To promote Indian industries"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 27,
+    "question": "Who was among the first Indian rulers to accept the Subsidiary Alliance in 1798?",
+    "options": [
+      "A) The ruler of Hyderabad",
+      "B) The ruler of Mysore",
+      "C) The ruler of Awadh",
+      "D) The ruler of Travancore"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 28,
+    "question": "After the Battle of Plassey, the East India Company obtained the right to collect revenue in which three regions?",
+    "options": [
+      "A) Bengal, Bihar and Odisha",
+      "B) Punjab, Sindh and Kashmir",
+      "C) Gujarat, Maharashtra and Goa",
+      "D) Assam, Manipur and Tripura"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 29,
+    "question": "Which region did Robert Clive describe as 'the paradise of the earth'?",
+    "options": [
+      "A) Awadh",
+      "B) Bengal",
+      "C) Punjab",
+      "D) Mysore"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 30,
+    "question": "Approximately how many people does the chapter estimate died in the Bengal famine of 1770–1772?",
+    "options": [
+      "A) About 1 million",
+      "B) About 5 million",
+      "C) About 10 million",
+      "D) About 20 million"
+    ],
+    "answer": "C"
+  },
+  
+  {
+    "id": 31,
+    "question": "Which Indian leader explained the 'Drain of Wealth' theory in his 1901 book 'Poverty and Un-British Rule in India'?",
+    "options": [
+      "A) Bal Gangadhar Tilak",
+      "B) Dadabhai Naoroji",
+      "C) Mahatma Gandhi",
+      "D) Gopal Krishna Gokhale"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 32,
+    "question": "According to the chapter, Thomas B. Macaulay's 1835 Minute on Indian Education aimed to create a class of Indians who would be:",
+    "options": [
+      "A) Skilled farmers",
+      "B) Indian in blood and colour, but English in taste, opinions, morals and intellect",
+      "C) Independent rulers",
+      "D) Military commanders"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 33,
+    "question": "Before British rule, India was especially famous worldwide for manufacturing which products?",
+    "options": [
+      "A) Glassware",
+      "B) Textiles",
+      "C) Automobiles",
+      "D) Machinery"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 34,
+    "question": "According to Governor-General William Bentinck, whose bones were 'bleaching the plains of India'?",
+    "options": [
+      "A) Indigo farmers",
+      "B) Cotton weavers",
+      "C) Railway workers",
+      "D) Soldiers"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 35,
+    "question": "According to the chapter, the British railway network in India was mainly designed to:",
+    "options": [
+      "A) Promote tourism",
+      "B) Connect pilgrimage centres",
+      "C) Transport raw materials to ports and distribute British manufactured goods",
+      "D) Encourage village trade"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 36,
+    "question": "Which early resistance movement began in Bengal after the terrible famine of 1770?",
+    "options": [
+      "A) Indigo Revolt",
+      "B) Sannyasi-Fakir Rebellion",
+      "C) Kol Uprising",
+      "D) Santhal Rebellion"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 37,
+    "question": "Who led the Santhal Rebellion of 1855–1856 according to the chapter?",
+    "options": [
+      "A) Birsa Munda and Tilka Manjhi",
+      "B) Sidhu and Kanhu Murmu",
+      "C) Alluri Sitarama Raju and Komaram Bheem",
+      "D) Tantia Tope and Nana Saheb"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 38,
+    "question": "European planters forced peasants in Bengal to cultivate which cash crop, leading to the Indigo Revolt?",
+    "options": [
+      "A) Tea",
+      "B) Cotton",
+      "C) Indigo",
+      "D) Jute"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 39,
+    "question": "Which earlier military uprising of Indian sepoys took place in 1806?",
+    "options": [
+      "A) Barrackpore Revolt",
+      "B) Meerut Revolt",
+      "C) Vellore Mutiny",
+      "D) Kol Uprising"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 40,
+    "question": "Which rumour immediately triggered the Great Rebellion of 1857 according to the chapter?",
+    "options": [
+      "A) Reduction of soldiers' salaries",
+      "B) Rifle cartridges were greased with cow and pig fat",
+      "C) New railway taxes",
+      "D) Ban on Indian festivals"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 41,
+    "question": "Which sepoy attacked British officers at Barrackpore before the Great Rebellion spread?",
+    "options": [
+      "A) Tantia Tope",
+      "B) Mangal Pandey",
+      "C) Nana Saheb",
+      "D) Kunwar Singh"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 42,
+    "question": "Whom did the rebels proclaim as their leader after reaching Delhi in 1857?",
+    "options": [
+      "A) Bahadur Shah Zafar",
+      "B) Mir Jafar",
+      "C) Wajid Ali Shah",
+      "D) Tipu Sultan"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 43,
+    "question": "Which queen captured Gwalior Fort during the Great Rebellion before being killed in battle in 1858?",
+    "options": [
+      "A) Rani Abbakka II",
+      "B) Rani Lakshmibai",
+      "C) Begum Hazrat Mahal",
+      "D) Rani Durgavati"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 44,
+    "question": "Which leader defended Lucknow during the Great Rebellion and later took refuge in Nepal?",
+    "options": [
+      "A) Begum Hazrat Mahal",
+      "B) Sarojini Naidu",
+      "C) Annie Besant",
+      "D) Kasturba Gandhi"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 45,
+    "question": "According to the chapter, what happened after the Great Rebellion of 1857?",
+    "options": [
+      "A) The Portuguese regained control of India",
+      "B) The East India Company became more powerful",
+      "C) The British Crown took direct control of India, beginning the British Raj",
+      "D) India immediately became independent"
+    ],
+    "answer": "C"
+  }
+  ]
+}
+

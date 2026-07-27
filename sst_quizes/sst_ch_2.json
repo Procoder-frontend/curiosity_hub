@@ -1,0 +1,274 @@
+{
+  "chapter_2_pool": [
+    {
+      "id": 1,
+      "question": "What specific timeframe defines the Indian 'medieval period'?",
+      "options": ["A) 5th to 10th centuries", "B) 11th to 17th centuries", "C) 13th to 19th centuries", "D) 8th to 15th centuries"],
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "The term 'medieval' was originally applied to European history to denote the period between which two historical landmarks?",
+      "options": ["A) Fall of the Roman Empire and the Renaissance", "B) Rise of Alexander and the Crusades", "C) Discovery of America and the Industrial Revolution", "D) Trojan War and the fall of Constantinople"],
+      "answer": "A"
+    },
+    {
+      "id": 3,
+      "question": "In what year was the Delhi Sultanate officially established as an independent power node?",
+      "options": ["A) 1192 CE", "B) 1206 CE", "C) 1326 CE", "D) 1336 CE"],
+      "answer": "B"
+    },
+    {
+      "id": 4,
+      "question": "According to the textbook , which political entity was a rival to the Vijayanagara Empire?",
+      "options": ["A) Vijayanagara Empire", "B) Bahmani Sultanate", "C) Mewar Kingdom", "D) Sikh Empire"],
+      "answer": "B"
+    },
+    {
+      "id": 5,
+      "question": "Which central asian ruler launched a devastating assault directly on the city of Delhi in 1398? (Hint: He was a ancestor of the Mughal dynasty?)",
+      "options": ["A) Babur", "B) Timur", "C) Malik Kafur", "D) Sher Shah Suri"],
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "question": "Most invaders entering India from the early 11th century onward came through which specific geographic barrier?",
+      "options": ["A) The Karakoram Range", "B) The Hindu Kush mountains", "C) The Arakan Yoma", "D) The Bolan Pass coastal flats"],
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "question": "Which regional powers in the south and east successfully resisted the early territorial advances of the Delhi Sultanate?",
+      "options": ["A) Marathas and Sikhs", "B) Hoysalas and Eastern Gangas", "C) Ahoms and Rajputs of Mewar", "D) Cholas and Cheras"],
+      "answer": "B"
+    },
+    {
+      "id": 8,
+      "question": "Construction of the Quwwat-ul-Islam mosque in Delhi's Qutub Minar complex began during the reign of which sultan?",
+      "options": ["A) Iltutmish", "B) Qutub-ud-din Aibak", "C) Ala-ud-din Khilji", "D) Muhammad bin Tughlaq"],
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "question": "An inscription in the Qutub Minar complex states that materials from how many destroyed Hindu and Jain temples were used to build the mosque?",
+      "options": ["A) 12 temples", "B) 21 temples", "C) 27 temples", "D) 35 temples"],
+      "answer": "C"
+    },
+    {
+      "id": 10,
+      "question": "The initial formation of the Delhi Sultanate occurred following the military defeat of which Indian king in 1192?",
+      "options": ["A) King Krishnadevaraya", "B) King Prithviraj Chauhan", "C) Rana Kumbha", "D) Hemchandra Vikramaditya"],
+      "answer": "B"
+    },
+    {
+      "id": 11,
+      "question": "What are the names of the five successive foreign dynasties that ruled the Delhi Sultanate in exact chronological order?",
+      "options": ["A) Mamluks, Tughlaqs, Khiljis, Lodis, Sayyids", "B) Mamluks, Khiljis, Tughlaqs, Sayyids, Lodis", "C) Lodis, Sayyids, Tughlaqs, Khiljis, Mamluks", "D) Khiljis, Tughlaqs, Mamluks, Lodis, Sayyids"],
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "What structural statistics does the text provide to show the extreme political instability regarding successions in the Delhi Sultanate?",
+      "options": ["A) Every single sultan was replaced within two years by legal elections", "B) Almost two sultans out of three seized power by eliminating their predecessor", "C) Dynasties changed peacefully via marital contracts 90% of the time", "D) Foreign caliphs appointed rulers directly without internal domestic interference"],
+      "answer": "B"
+    },
+    {
+      "id": 13,
+      "question": "What is the average duration of a sultan's reign during the Delhi Sultanate period?",
+      "options": ["A) 4 years", "B) 9 years", "C) 15 years", "D) 27 years"],
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "question": "Which coin, bearing the self-proclaimed title 'Sikander Sani' (the second Alexander) in Persian, was minted by which ruler?",
+      "options": ["A) Muhammad bin Tughlaq", "B) Ala-ud-din Khilji", "C) Ibrahim Lodi", "D) Akbar"],
+      "answer": "B"
+    },
+    {
+      "id": 15,
+      "question": "Who was the slave-general who successfully led Ala-ud-din Khilji's military expansion into southern India?",
+      "options": ["A) Abul Fazl", "B) Malik Kafur", "C) Ramaraya", "D) Sher Shah Suri"],
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "question": "Which of the following southern religious centres was NOT mentioned as a target of Malik Kafur's southern campaigns?",
+      "options": ["A) Srirangam", "B) Tirupati", "C) Madurai", "D) Chidambaram"],
+      "answer": "B"
+    },
+    {
+      "id": 17,
+      "question": "Muhammad bin Tughlaq forced his capital's population to march over 1,000 kilometres to relocate to which city?",
+      "options": ["A) Warangal", "B) Daulatabad", "C) Hampi", "D) Fatehpur Sikri"],
+      "answer": "B"
+    },
+    {
+      "id": 18,
+      "question": "Why did Muhammad bin Tughlaq's progressive economic reform of introducing copper 'token currency' completely misfire?",
+      "options": ["A) Copper was scarcer than gold in central India", "B) It encouraged massive widespread counterfeiting of copper coins, causing economic decline", "C) Foreign traders refused to accept any currency minted in Delhi", "D) The coins dissolved rapidly during the heavy monsoon seasons"],
+      "answer": "B"
+    },
+    {
+      "id": 19,
+      "question": "How does the textbook explain the neutral linguistic utility of using the English word 'image' over terms like 'idol' or 'icon'?",
+      "options": ["A) 'Idol' and 'icon' are considered pejorative in orthodox monotheistic Abrahamic traditions", "B) Classical Indian texts strictly used Romanized script definitions", "C) 'Image' corresponds exactly to the phonetic Sanskrit translation of 'jizya'", "D) All alternative English words were legally banned by medieval royal edicts"],
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "question": "What classical Indian terms were used in ancient texts to designate physical representations used for worship in temples or homes?",
+      "options": ["A) Sulh-i kul and Farman", "B) Images", "C) Jizya and Tanka", "D) Mūrti, vigraha, pratimā, and rūpa"],
+      "answer": "D"
+    },
+    {
+      "id": 21,
+      "question": "What was the structural purpose and direct social consequence of the 'jizya' tax imposed by some sultans?",
+      "options": ["A) It was a universal land tax that funded agricultural dams equally", "B) It was a discriminatory tax on non-Muslim subjects that acted as a financial burden and social incentive to convert", "C) It exempted foreign horses from border customs duties inside port cities", "D) It completely replaced the token currency system to stabilize trade networks"],
+      "answer": "B"
+    },
+    {
+      "id": 22,
+      "question": "What two-fold objective did Timur explicitly record in his personal memoirs for invading northwest India and attacking Delhi?",
+      "options": ["A) To study Indian classical architecture and translate Sanskrit poetry", "B) To wage war with the infidels and gain something by plundering their wealth", "C) To establish marriage alliances and abolish discriminatory pilgrim taxes", "D) To build a joint solar alliance matrix with the governors of Bengal"],
+      "answer": "B"
+    },
+    {
+      "id": 23,
+      "question": "Which dynamic ruler of Kalinga in the mid-13th century defeated the Delhi Sultanate's governor of Bengal and built the famed Surya temple at Konark?",
+      "options": ["A) Harihara I", "B) Narasimhadeva I", "C) Krishnadevaraya", "D) Rana Kumbha"],
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "question": "Around 1330-1336, the Musunuri Nayakas formed a massive confederacy of how many regional chieftains to expel the Tughlaq forces from Warangal?",
+      "options": ["A) 27 chieftains", "B) 50 chieftains", "C) 75 chieftains", "D) 100 chieftains"],
+      "answer": "C"
+    },
+    {
+      "id": 25,
+      "question": "According to Kannada folklore, how did the Hoysala dynasty originally receive its unique name?",
+      "options": ["A) From a specific tax code created to measure local gold mines", "B) From a young man named Sala who fought a lion to save his guru, following the command 'Hoy!'", "C) From a large monolithic musical pillar structure found near Belur", "D) From the title given to naval commanders who managed spice fleets"],
+      "answer": "B"
+    },
+    {
+      "id": 26,
+      "question": "Which prominent 15th-century Mewar king built the massive Kumbhalgarh Fort, famous for its 36-kilometre-long continuous defensive wall?",
+      "options": ["A) Maharana Pratap", "B) Rana Kumbha", "C) Rana Sanga", "D) Raja Man Singh"],
+      "answer": "B"
+    },
+    {
+      "id": 27,
+      "question": "Who were the two brothers who rejected Delhi's authority to found the independent political setup that grew into the Vijayanagara Empire?",
+      "options": ["A) Bukka and Ramaraya", "B) Harihara and Bukka", "C) Harihara and Krishnadevaraya", "D) Akbar and Jahangir"],
+      "answer": "B"
+    },
+    {
+      "id": 28,
+      "question": "The fragmentation of the rival Bahmani Sultanate produced five independent political units collectively known as the:",
+      "options": ["A) Musunuri Confederacies", "B) Deccan Sultanates", "C) Rajput Strongholds", "D) Tarafdar Autonomies"],
+      "answer": "B"
+    },
+    {
+      "id": 29,
+      "question": "Match the dynamic titles 'Narapati', 'Ashwapati', and 'Chhatrapati' with their respective historical ruling groups:",
+      "options": ["A) Marathas, Bahmani Sultanate, Vijayanagara Kings", "B) Vijayanagara Kings, Bahmani Sultanate, Maratha Rulers", "C) Bahmani Sultanate, Vijayanagara Kings, Maratha Rulers", "D) Vijayanagara Kings, Maratha Rulers, Bahmani Sultanate"],
+      "answer": "B"
+    },
+    {
+      "id": 30,
+      "question": "What is unique about the monolithic stone pillars inside the mahāmandapa of the Vitthala temple at Hampi?",
+      "options": ["A) They change colour dynamically during the morning solar arc", "B) When struck, their smaller columns give out different musical notes", "C) They contain the entire translated script of the Baburnama", "D) They are constructed entirely from imported European Wootz steel"],
+      "answer": "B"
+    },
+    {
+      "id": 31,
+      "question": "What is the title of the Telugu epic poem composed by King Krishnadevaraya that contains a section dedicated to royal policy (Rājanīti)?",
+      "options": ["A) Razmnama", "B) Sulh-i-kul", "C) Baburnama", "D) Āmuktamālyada"],
+      "answer": "D"
+    },
+    {
+      "id": 32,
+      "question": "Why did the rulers of Vijayanagara treat Portuguese traders with exceptional hospitality?",
+      "options": ["A) The Portuguese brought advanced copper minting tokens", "B) They were important trade partners, and the king did not want them to go to the enemy kingdoms", "C) They offered to translate Sanskrit texts into western scripts free of charge", "D) They possessed the maritime military technology to secure the Kaveri delta"],
+      "answer": "B"
+    },
+    {
+      "id": 33,
+      "question": "Which foreign traveller left a detailed log comparing the scale and beauty of the Vijayanagara capital directly to ancient Rome?",
+      "options": ["A) Francois Bernier", "B) Domingo Paes", "C) Ibn Battuta", "D) Marco Polo"],
+      "answer": "B"
+    },
+    {
+      "id": 34,
+      "question": "In 1565, the coordinated coalition of Deccan Sultanates defeated the forces of Vijayanagara at which historic battle?",
+      "options": ["A) Battle of Haldighati", "B) Battle of Talikota", "C) First Battle of Panipat", "D) Battle of Saraighat"],
+      "answer": "B"
+    },
+    {
+      "id": 35,
+      "question": "Who led the Vijayanagara military forces as commander and son-in-law of Krishnadevaraya during the fatal 1565 clash?",
+      "options": ["A) Harihara II", "B) Vidyaranya", "C) Bukka II", "D) Ramaraya"],
+      "answer": "B"
+    },
+    {
+      "id": 36,
+      "question": "At the First Battle of Panipat in 1526, what technological innovations allowed Babur to decisively dismantle Ibrahim Lodi's defense?",
+      "options": ["A) Monolithic musical pillars and iron longswords", "B) Gunpowder, field artillery, and matchlock guns", "C) Heavy cavalry shockarmor and composite longbows", "D) Subterranean dynamic mines and biological toxin vectors"],
+      "answer": "B"
+    },
+    {
+      "id": 37,
+      "question": "What dual personality paradox of Babur is explicitly highlighted through his personal memoirs, the Baburnama?",
+      "options": ["A) He was illiterate but founded a massive house of translations at Agra", "B) He was cultured and intellectually curious about nature, yet was a brutal conqueror who built 'towers of skulls'", "C) He hated the climate of India but completely refused to exploit its gold or silver resources", "D) He rejected Islamic orthodox rituals but enforced the jizya stringently on his own sons"],
+      "answer": "B"
+    },
+    {
+      "id": 38,
+      "question": "Which powerful Afghan leader established the short-lived Sur Empire, drove Humayun into exile, and introduced lasting administrative reforms?",
+      "options": ["A) Sher Shah Suri", "B) Hemu", "C) Ibrahim Lodi", "D) Timur"],
+      "answer": "A"
+    },
+    {
+      "id": 39,
+      "question": "Who was the chief minister ('wazir') who briefly seized the Delhi throne under the royal name of Hemchandra Vikramaditya?",
+      "options": ["A) Abul Fazl", "B) Malik Kafur", "C) Himu (or Hemu)", "D) Ramaraya"],
+      "answer": "C"
+    },
+    {
+      "id": 40,
+      "question": "What brutal action did the 25-year-old Akbar order after breaking the determined Rajput resistance at the Chittorgarh Fort?",
+      "options": ["A) The massacre of 30,000 civilians and the enslavement of surviving women and children", "B) A universal declaration of sulh-i kul across the region", "C) The construction of an engineering earth institute built of mud", "D) The immediate translation of the epic poem Amuktamalyada into Persian"],
+      "answer": "A"
+    },
+    {
+      "id": 41,
+      "question": "What do the historical practices of 'jauhar' signify in the context of medieval Rajput military history?",
+      "options": ["A) A strategic marriage alliance designed to preserve trade routes", "B) A specialized form of guerrilla warfare practiced in the steep Aravalli hills", "C) Rajput women jumping into mass fires to preserve honour and avoid capture/abuse by invading armies", "D) A religious pilgrimage ritual performed prior to crossing the Hindu Kush"],
+      "answer": "C"
+    },
+    {
+      "id": 42,
+      "question": "What structural shifts did Akbar implement during his middle reign to consolidate, stabilize, and expand his empire's political base?",
+      "options": ["A) He introduced copper token coins and banned the translation of texts", "B) He used marriage alliances, appointed Hindu officials, and promoted the doctrine of 'sulh-i kul'", "C) He executed all Rajput leaders and built towers of skulls across Delhi", "D) He established a strict five-tier jizya tax system on all agricultural products"],
+      "answer": "B"
+    },
+    {
+      "id": 43,
+      "question": "The Persian translation of the epic Mahābhārata, created at Akbar's 'house of translation' in Fatehpur Sikri, is titled:",
+      "options": ["A) Baburnama", "B) Razmnama", "C) Amuktamalyada", "D) Sulh-i kul"],
+      "answer": "B"
+    },
+    {
+      "id": 44,
+      "question": "What is the statistical average duration of a Mughal emperor's reign from Babur up to Aurangzeb?",
+      "options": ["A) 9 years", "B) 16 years", "C) 27 years", "D) 49 years"],
+      "answer": "C"
+    },
+    {
+      "id": 45,
+      "question": "In 1669, which Mughal emperor issued an explicit farman ordering provincial governors to 'demolish schools and temples of the infidels'?",
+      "options": ["A) Akbar", "B) Jahangir", "C) Shah Jahan", "D) Aurangzeb"],
+      "answer": "D"
+    }
+  ]
+}

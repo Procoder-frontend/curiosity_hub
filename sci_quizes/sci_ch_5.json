@@ -1,0 +1,499 @@
+{
+  "chapter_5_pool": [
+    {
+      "id": 1,
+      "question": "Which two friends went cycling together on a windy day right at the beginning of their summer vacation?",
+      "options": [
+        "A) Mohini and Aakarsh",
+        "B) Sonali and Ragini",
+        "C) Sumana and Sonali",
+        "D) Ragini and Mohini"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "What basic physical parameter did the two girls pump into their bicycle tyres to prepare them before setting off on their ride?",
+      "options": [
+        "A) Liquid oil",
+        "B) Water vapor",
+        "C) Atmospheric air",
+        "D) Nitrogen fluid"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "question": "In the science of mechanics, a push or a pull exerted by one object on another object is fundamentally defined as a:",
+      "options": [
+        "A) Speed",
+        "B) Mass",
+        "C) Energy",
+        "D) Force"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 4,
+      "question": "What is the standard, internationally recognized unit used by scientists to measure the magnitude of a force?",
+      "options": [
+        "A) Joule",
+        "B) Newton",
+        "C) Kilogram",
+        "D) Meter"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 5,
+      "question": "What is the letter symbol used to denote the standard unit of force, named in honor of Sir Isaac Newton?",
+      "options": [
+        "A) F",
+        "B) J",
+        "C) N",
+        "D) kg"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "question": "Forces that come into play only when two interacting objects are physically touching each other are classified as:",
+      "options": [
+        "A) Non-contact forces",
+        "B) Magnetic forces",
+        "C) Contact forces",
+        "D) Electrostatic forces"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is a prime example of a contact force experienced when muscles push or pull an object?",
+      "options": [
+        "A) Muscular force",
+        "B) Gravitational force",
+        "C) Electrostatic force",
+        "D) Magnetic force"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 8,
+      "question": "What contact force always acts between two solid surfaces in contact and opposes their relative motion?",
+      "options": [
+        "A) Gravitational force",
+        "B) Electrostatic pull",
+        "C) Magnetic repulsion",
+        "D) Friction"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 9,
+      "question": "The resistive force exerted by air or water that opposes the movement of an object through it is known as:",
+      "options": [
+        "A) Muscular thrust",
+        "B) Drag (fluid friction)",
+        "C) Electrostatic field",
+        "D) Gravitational slip"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "Forces that can act between two objects even when they are separated by a distance and not touching are called:",
+      "options": [
+        "A) Non-contact forces",
+        "B) Contact forces",
+        "C) Muscular forces",
+        "D) Frictional forces"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 11,
+      "question": "Which non-contact attractive force pulls all physical objects down toward the center of the Earth?",
+      "options": [
+        "A) Friction",
+        "B) Electrostatic force",
+        "C) Gravitational force",
+        "D) Magnetic force"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 12,
+      "question": "The attractive or repulsive force exerted by two electrically charged objects on one another is called:",
+      "options": [
+        "A) Magnetic force",
+        "B) Gravitational force",
+        "C) Frictional drag",
+        "D) Electrostatic force"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 13,
+      "question": "What material can be rubbed against a dry silk cloth or paper to gather electric charges and pick up tiny bits of paper?",
+      "options": [
+        "A) An iron rod",
+        "B) A plastic ruler or straw",
+        "C) A copper wire",
+        "D) A wet sponge piece"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "question": "What type of non-contact force is exerted between two magnets or a magnet and a piece of iron scrap?",
+      "options": [
+        "A) Electrostatic force",
+        "B) Muscular force",
+        "C) Magnetic force",
+        "D) Frictional force"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 15,
+      "question": "When two forces act on an object in the exact same direction, how is the total net force calculated?",
+      "options": [
+        "A) By subtracting the smaller force from the larger force",
+        "B) By multiplying the two forces together",
+        "C) By adding the magnitudes of both forces together",
+        "D) The net force automatically becomes zero"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 16,
+      "question": "If two equal forces act on a wooden block in opposite directions, what is the value of the resulting net force?",
+      "options": [
+        "A) It doubles the input force",
+        "B) It turns into fluid drag",
+        "C) It equals the mass of the block",
+        "D) It is exactly zero"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 17,
+      "question": "When the net force acting on an object is zero because the opposing forces cancel each other out, the forces are said to be:",
+      "options": [
+        "A) Unbalanced forces",
+        "B) Non-contact fields",
+        "C) Balanced forces",
+        "D) Frictional metrics"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 18,
+      "question": "What type of forces must act on a stationary object to change its state of rest and cause it to start moving?",
+      "options": [
+        "A) Balanced forces",
+        "B) Zero net forces",
+        "C) Unbalanced forces",
+        "D) Frictional assets alone"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 19,
+      "question": "Which of the following changes can be caused by applying an unbalanced force to a moving object?",
+      "options": [
+        "A) Only changing its mass and chemical composition",
+        "B) Changing its speed, its direction of motion, or its shape",
+        "C) Keeping its velocity permanently frozen",
+        "D) Eliminating its gravitational field entirely"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "question": "When a clay ball is pressed hard between two hands, what specific change does the applied muscular force bring about?",
+      "options": [
+        "A) A change in its state of motion",
+        "B) A change in its total mass value",
+        "C) A change in its chemical properties",
+        "D) A change in its physical shape"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 21,
+      "question": "The total amount of matter contained within a physical object, which remains constant everywhere in the universe, is called its:",
+      "options": [
+        "A) Mass",
+        "B) Weight",
+        "C) Volume",
+        "D) Friction"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 22,
+      "question": "The gravitational force with which an object is pulled toward the Earth or any other celestial body is defined as its:",
+      "options": [
+        "A) Mass",
+        "B) Weight",
+        "C) Density",
+        "D) Elasticity"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 23,
+      "question": "What standard laboratory instrument is explicitly used to measure the weight of an object by utilizing a stretching metal coil?",
+      "options": [
+        "A) Electronic balance pan",
+        "B) Laboratory thermometer",
+        "C) Spring balance",
+        "D) Glass electroscope jar"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "question": "Why would an astronaut weigh significantly less on the Moon than on the Earth, even though their body mass stays exactly the same?",
+      "options": [
+        "A) The Moon has a much thicker atmosphere that creates extreme drag",
+        "B) The astronaut loses matter inside a spaceship",
+        "C) The Moon's gravitational pull is weaker than the Earth's pull",
+        "D) Frictional forces disappear completely on the Moon"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 25,
+      "question": "What basic mathematical ratio defines the physical concept of pressure exerted on a surface?",
+      "options": [
+        "A) Force divided by Area",
+        "B) Mass divided by Volume",
+        "C) Distance divided by Time",
+        "D) Weight multiplied by Area"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 26,
+      "question": "What is the standard SI unit of pressure, equivalent to one newton per square meter (N/m²)?",
+      "options": [
+        "A) Joule",
+        "B) Watt",
+        "C) Pascal",
+        "D) Ohm"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 27,
+      "question": "If the same amount of force is applied to a smaller surface area, what happens to the resulting pressure?",
+      "options": [
+        "A) The pressure decreases",
+        "B) The pressure drops to zero",
+        "C) The pressure increases",
+        "D) The pressure remains completely unchanged"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 28,
+      "question": "Why do heavy school bags have wide straps instead of thin strings to carry them over the shoulders?",
+      "options": [
+        "A) To maximize the frictional drag against the uniform cloth",
+        "B) To distribute the weight over a larger area and reduce pressure on the shoulder",
+        "C) To increase the gravitational pull acting on the bag contents",
+        "D) To generate an electrostatic field that lifts the bag automatically"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 29,
+      "question": "Why is the cutting edge of a kitchen knife made extremely thin and sharp?",
+      "options": [
+        "A) To decrease the area of contact and create high pressure with little force",
+        "B) To reduce the total mass of the steel blade",
+        "C) To minimize the magnetic attraction to vegetables",
+        "D) To prevent fluids from exerting atmospheric drag"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 30,
+      "question": "The thick layer of air surrounding our planet that extends many kilometers upward is known as the:",
+      "options": [
+        "A) Hydrosphere",
+        "B) Lithosphere",
+        "C) Magnetosphere",
+        "D) Atmosphere"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 31,
+      "question": "The pressure exerted on all objects by the immense weight of the column of air above them is called:",
+      "options": [
+        "A) Atmospheric pressure",
+        "B) Hydrostatic pressure",
+        "C) Contact pressure",
+        "D) Electrostatic tension"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 32,
+      "question": "Why are our human bodies not crushed by the heavy atmospheric pressure pushing down on us from all sides?",
+      "options": [
+        "A) Our skin is completely thick enough to repel air molecules",
+        "B) Gravitational force does not act on living human tissues",
+        "C) The pressure inside our bodies is equal to the atmospheric pressure outside",
+        "D) Frictional forces from our clothes counteract the air column weight"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 33,
+      "question": "When a rubber suction cup is pressed firmly against a smooth flat glass surface, why does it stick tightly?",
+      "options": [
+        "A) The rubber melts and forms a chemical bond with glass",
+        "B) A powerful magnetic field is generated between rubber and glass",
+        "C) The mass of the suction cup increases by 100 times",
+        "D) Air is pushed out, and external atmospheric pressure presses it tightly"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 34,
+      "question": "Which of the following properties is true about the pressure exerted by liquids stored inside a container?",
+      "options": [
+        "A) Liquids only exert pressure downwards on the base",
+        "B) Liquids exert pressure on the bottom and walls of the container",
+        "C) Liquid pressure decreases as the depth increases",
+        "D) Liquids do not show any measurable contact force properties"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 35,
+      "question": "How does the pressure inside a water tank change as you move deeper from the surface toward the bottom?",
+      "options": [
+        "A) The pressure decreases steadily",
+        "B) The pressure becomes exactly zero at the bottom",
+        "C) The pressure increases with depth",
+        "D) The pressure fluctuates randomly regardless of depth"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 36,
+      "question": "If a plastic bottle filled with water has three small holes drilled at the exact same height around its base, what will you observe?",
+      "options": [
+        "A) Water will spout with different forces from each hole",
+        "B) Water will spout out with the same force from all holes",
+        "C) Water will only flow out of the hole facing north",
+        "D) No water will come out due to balanced internal forces"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 37,
+      "question": "What scientific instrument can be constructed in class using a glass jar, copper wire, straw, and aluminium foil to check if an object is electrically charged?",
+      "options": [
+        "A) Barometer",
+        "B) Spring balance",
+        "C) Electroscope",
+        "D) Microscope"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 38,
+      "question": "What happens to the two small strips of aluminium foil inside a homemade electroscope when a charged plastic straw touches the copper wire?",
+      "options": [
+        "A) They attract each other and stick tightly",
+        "B) They turn into a miniature electromagnet coil",
+        "C) They repel each other and open wide",
+        "D) They dissolve completely into the jar base"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 39,
+      "question": "What common physical phenomenon experienced during a stormy sky is a massive, natural example of an electrostatic discharge?",
+      "options": [
+        "A) Wind currents",
+        "B) Tidal waves",
+        "C) Rainbow formation",
+        "D) Lightning"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 40,
+      "question": "Why is it difficult to walk or pedal a bicycle smoothly on a rough, muddy mountain track compared to a paved concrete road?",
+      "options": [
+        "A) The rough track increases the gravitational force acting on the tires",
+        "B) Paved roads increase the atmospheric pressure column",
+        "C) The rough track produces much higher frictional resistance",
+        "D) Mud completely removes the mass of the bicycle frame"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 41,
+      "question": "When a heavy wooden box is pushed across the floor, what gives rise to the contact force of friction between the box and the floor?",
+      "options": [
+        "A) The interlocking of microscopic roughness and irregularities on both surfaces",
+        "B) The magnetic alignment of wood and stone atoms",
+        "C) The electrostatic charge built up by standing air columns",
+        "D) The uniform expansion of mass inside the solid block"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following is an example where friction acts as a helpful necessity in our daily life tasks?",
+      "options": [
+        "A) Wearing down the soles of our favorite shoes over time",
+        "B) Allowing us to hold a glass cup, walk safely, and write with a pen",
+        "C) Generating unwanted heat inside a high-speed machine motor",
+        "D) Making it harder to slide heavy boxes across a factory warehouse floor"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 43,
+      "question": "What happens to the state of motion of a moving toy car when the net external force acting on it becomes zero after the push stops?",
+      "options": [
+        "A) It accelerates instantly to match the speed of sound",
+        "B) It turns around and moves in the backward direction automatically",
+        "C) It is gradually slowed down and stopped by the opposing force of friction",
+        "D) It floats up into the atmosphere due to balanced gravity"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 44,
+      "question": "The unit of pressure, the Pascal, is named in honor of which prominent historical mathematician and physicist?",
+      "options": [
+        "A) Isaac Newton",
+        "B) Hans Christian Oersted",
+        "C) Robert Hooke",
+        "D) Blaise Pascal"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 45,
+      "question": "The ultimate scientific purpose of characterizing interactions into contact and non-contact categories is to:",
+      "options": [
+        "A) Eliminate the use of math formulas in school laboratory tests",
+        "B) Systematically understand how forces influence the motion, shape, and stability of objects",
+        "C) Convert all physical matter parameters directly into working capital nodes",
+        "D) Prove that atmospheric air columns cannot exert any actual pressure metrics"
+      ],
+      "answer": "B"
+    }
+  ]
+}

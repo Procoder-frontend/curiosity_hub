@@ -1,0 +1,499 @@
+{
+  "chapter_10_pool": [
+    {
+      "id": 1,
+      "question": "Which specific science venue did Meena and her family visit during their summer holidays at the very beginning of Chapter 10?",
+      "options": [
+        "A) National Botanical Garden",
+        "B) Space Launch Observatory",
+        "C) Science Centre",
+        "D) Historical Marine Museum"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 2,
+      "question": "What type of unusual mirrors first puzzled Meena because they made her face look unusually large and her brother look upside down?",
+      "options": [
+        "A) Spherical mirrors",
+        "B) High-transmission plane mirrors",
+        "C) Semi-transparent silver prisms",
+        "D) Electrostatic glass panels"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 3,
+      "question": "A spherical mirror whose reflecting surface is curved inward, resembling the hollow inner bowl of a shiny spoon, is a:",
+      "options": [
+        "A) Convex mirror",
+        "B) Plano-convex lens",
+        "C) Concave mirror",
+        "D) Cylindrical prism"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "A spherical mirror whose reflecting surface is curved outward, resembling the bulging back surface of a shiny spoon, is a:",
+      "options": [
+        "A) Concave mirror",
+        "B) Converging lens",
+        "C) Convex mirror",
+        "D) Doublet slit matrix"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 5,
+      "question": "What is the geometric center point of the reflecting surface of a spherical mirror officially called?",
+      "options": [
+        "A) Focus",
+        "B) Pole",
+        "C) Center of curvature",
+        "D) Optical node"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "question": "The center of the hollow glass sphere of which the spherical mirror's reflecting surface forms a part is known as the:",
+      "options": [
+        "A) Principal focus",
+        "B) Focal baseline",
+        "C) Center of curvature",
+        "D) Aperture core"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 7,
+      "question": "What imaginary straight line passes directly through both the pole and the center of curvature of a spherical mirror?",
+      "options": [
+        "A) Principal axis",
+        "B) Focal chord",
+        "C) Equatorial track",
+        "D) Radius normal"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 8,
+      "question": "When parallel rays of light hit a concave mirror, they bounce off and converge at a single distinct point on the principal axis. This point is the:",
+      "options": [
+        "A) Center of curvature",
+        "B) Pole point",
+        "C) Principal focus",
+        "D) Optical center"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "question": "What is the distance between the pole of a spherical mirror and its principal focus explicitly called?",
+      "options": [
+        "A) Radius of curvature",
+        "B) Focal length",
+        "C) Aperture diameter",
+        "D) Axial shift"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "What happens to parallel rays of light when they strike the reflecting surface of a convex mirror?",
+      "options": [
+        "A) They pass straight through without bending",
+        "B) They cross each other exactly at the pole surface",
+        "C) They turn into a high-intensity electrostatic charge",
+        "D) They diverge (spread out) and appear to come from a focus behind the mirror"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 11,
+      "question": "An image that can be successfully captured and projected onto a screen placed in its path is defined as a:",
+      "options": [
+        "A) Virtual image",
+        "B) Fake projection",
+        "C) Real image",
+        "D) Sublimated silhouette"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 12,
+      "question": "An image that cannot be formed or caught on a physical screen because the light rays only appear to meet behind the mirror is a:",
+      "options": [
+        "A) Real image",
+        "B) Virtual image",
+        "C) Divergent matrix",
+        "D) Concentrated footprint"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 13,
+      "question": "What type of image does a standard plane mirror always form of a real object placed in front of it?",
+      "options": [
+        "A) Real and inverted",
+        "B) Diminished and real",
+        "C) Virtual and erect",
+        "D) Upside-down and virtual"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "question": "If an object is placed very close to a concave mirror (well within its focal length), what are the features of the image formed?",
+      "options": [
+        "A) Real, inverted, and highly diminished",
+        "B) Virtual, erect, and magnified (enlarged)",
+        "C) Real, erect, and identical in size",
+        "D) Virtual, inverted, and smaller"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 15,
+      "question": "Why do dentists use specialized concave mirrors to examine the teeth of their patients?",
+      "options": [
+        "A) To see a small, inverted view of deep cavities",
+        "B) To project a real image onto the opposite clinic wall",
+        "C) To block external light rays from hitting the gums",
+        "D) To obtain an erect, magnified view of the teeth when held close"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 16,
+      "question": "Which type of spherical mirror is widely used as a reflector in torches, vehicle headlights, and searchlights to produce powerful parallel beams of light?",
+      "options": [
+        "A) Convex mirror",
+        "B) Concave mirror",
+        "C) Plano-convex grid",
+        "D) Cylindrical slice"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 17,
+      "question": "What type of spherical mirror is universally installed as a side rear-view mirror in automobiles like cars and motorcycles?",
+      "options": [
+        "A) Concave mirror",
+        "B) Double concave lens",
+        "C) Convex mirror",
+        "D) Plane mirror strip"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 18,
+      "question": "Why are convex mirrors preferred for side-view mirrors in vehicles over standard plane mirrors?",
+      "options": [
+        "A) They form large, magnified real images of distant objects",
+        "B) They convert all incoming light rays into dark shadows",
+        "C) They always form erect, diminished images, providing a much wider field of view of traffic",
+        "D) They help drivers measure the weight of background vehicles"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 19,
+      "question": "What basic law of light states that the angle of incidence is always equal to the angle of reflection?",
+      "options": [
+        "A) Law of Refraction",
+        "B) Law of Dispersion",
+        "C) Law of Reflection",
+        "D) Law of Conservation of Mass"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 20,
+      "question": "A transparent optical component bounded by two curved surfaces, which can bend passing light rays, is classified as a:",
+      "options": [
+        "A) Spherical mirror",
+        "B) Opaque block",
+        "C) Matte filter",
+        "D) Lens"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 21,
+      "question": "A lens that is noticeably thicker in the middle than at its outer edges is structurally defined as a:",
+      "options": [
+        "A) Concave lens",
+        "B) Convex lens",
+        "C) Cylindrical pane",
+        "D) Diverging glass"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 22,
+      "question": "A lens that is noticeably thinner in the middle and thicker at its outer bounding edges is a:",
+      "options": [
+        "A) Concave lens",
+        "B) Convex lens",
+        "C) Magnifying lens",
+        "D) Prism column"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 23,
+      "question": "What happens to parallel rays of light when they pass completely through a convex lens?",
+      "options": [
+        "A) They spread out wide in all directions away from the axis",
+        "B) They reverse their direction and bounce back to the source",
+        "C) They converge (meet) at a single point called the focus",
+        "D) They lose their entire velocity and turn into heat instantly"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "question": "Because of its ability to bring parallel light rays together at a single point, a convex lens is also known as a:",
+      "options": [
+        "A) Diverging lens",
+        "B) Sublimated lens",
+        "C) Converging lens",
+        "D) Refractory filter"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 25,
+      "question": "What happens to parallel rays of light when they pass through a concave lens?",
+      "options": [
+        "A) They travel in a perfectly straight line without any bending",
+        "B) They gather at the center of curvature point",
+        "C) They diverge (spread out) away from the principal axis",
+        "D) They instantly accelerate past the standard speed of light"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 26,
+      "question": "Because of its structural property to scatter passing light rays outward, a concave lens is also called a:",
+      "options": [
+        "A) Converging lens",
+        "B) Biconvex master pane",
+        "C) Diverging lens",
+        "D) Focal concentrator"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 27,
+      "question": "What is the exact geometric center point of a transparent lens called?",
+      "options": [
+        "A) Principal focus",
+        "B) Pole node",
+        "C) Optical center",
+        "D) Curvature base"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 28,
+      "question": "When a small, simple convex lens is held close over fine printed text in a book, what type of image does it provide to the reader?",
+      "options": [
+        "A) Inverted, tiny, and real",
+        "B) Upside-down, enlarged, and real",
+        "C) Erect, magnified, and virtual",
+        "D) Erect, diminished, and virtual"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 29,
+      "question": "What type of lens is commonly used as a simple magnifying glass to inspect small insects or intricate machine parts?",
+      "options": [
+        "A) Concave lens",
+        "B) Convex lens",
+        "C) Plano-concave sheet",
+        "D) Cylindrical slit pane"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 30,
+      "question": "What type of image is always formed by a standalone concave lens, regardless of where the object is positioned in front of it?",
+      "options": [
+        "A) Real, inverted, and magnified",
+        "B) Virtual, erect, and diminished",
+        "C) Virtual, inverted, and identical size",
+        "D) Real, erect, and highly enlarged"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 31,
+      "question": "If you use a convex lens to focus a bright, sharp image of the sun onto a sheet of dry paper and hold it steady, what will eventually happen?",
+      "options": [
+        "A) The paper will turn into a clear glass lens mirror",
+        "B) The paper will gain an intense negative electrostatic charge",
+        "C) The paper will expand its surface mass metrics uniformly",
+        "D) The paper will begin to smoke and catch fire due to concentrated heat energy"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 32,
+      "question": "What optical device uses a clever combination of lenses to help astronomers observe highly distant celestial bodies like stars, planets, and moons?",
+      "options": [
+        "A) Microscope",
+        "B) Telescope",
+        "C) Kaleidoscope",
+        "D) Periscope"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 33,
+      "question": "What laboratory tool utilizes multiple lenses in a series to make invisible, tiny objects like cells and microorganisms clearly visible to scientists?",
+      "options": [
+        "A) Telescope",
+        "B) Barometer",
+        "C) Microscope",
+        "D) Anemometer"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 34,
+      "question": "The warning 'Objects in mirror are closer than they appear' is a direct consequence of what image characteristic of convex mirrors?",
+      "options": [
+        "A) The images are inverted and distorted",
+        "B) The images are diminished, making objects look farther away than their actual distance",
+        "C) The images are magnified, creating an illusion of proximity",
+        "D) The mirror surface blocks all standard reflection angles"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 35,
+      "question": "What historical details are shared about the great Indian mathematician Bhāskara II regarding the practical use of light reflection?",
+      "options": [
+        "A) He engineered the first modern glass concave lens array",
+        "B) He constructed heavy high-power electronic telescopes in Rohini",
+        "C) Astronomers during his time used shallow bowls of water to observe positions of stars and planets via reflection",
+        "D) He proved that light waves do not follow any geometric paths"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 36,
+      "question": "If a real object is placed exactly at the center of curvature of a concave mirror, where will its image form and what will be its size?",
+      "options": [
+        "A) At the focus, highly diminished",
+        "B) Behind the mirror, virtual and magnified",
+        "C) At the center of curvature, real, inverted, and of the exact same size",
+        "D) At the optical center, erect and twice the size"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 37,
+      "question": "When light travels from one transparent medium into another and undergoes a change in its path or direction, this phenomenon is called:",
+      "options": [
+        "A) Reflection",
+        "B) Dispersion",
+        "C) Refraction",
+        "D) Sublimation"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 38,
+      "question": "What type of eyeglasses would a person wear if their prescription requires a curved line or corrective design to treat specific vision variations?",
+      "options": [
+        "A) Safety goggles with plane glass windows",
+        "B) Corrective spectacles containing specific lenses",
+        "C) Dark polarized sheets that absorb 100% of light",
+        "D) Electronic screens running Streamlit frameworks"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 39,
+      "question": "If you look closely at a shiny metal spoon, which part acts as a real-world approximation of a convex mirror?",
+      "options": [
+        "A) The inner hollow bowl area",
+        "B) The thin edge along the handle tip",
+        "C) The flat base connecting the spoon grid",
+        "D) The outer bulging back surface"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 40,
+      "question": "What type of image is produced by a convex lens when an object is kept at a very large, infinite distance from it?",
+      "options": [
+        "A) Real, inverted, and highly diminished at the principal focus",
+        "B) Virtual, erect, and highly magnified at the center",
+        "C) Virtual, inverted, and identical in scale at the lens boundary",
+        "D) Real, erect, and stretched out across the container wall"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 41,
+      "question": "The focal length of a spherical mirror is mathematically related to its radius of curvature (R) by which standard structural pattern?",
+      "options": [
+        "A) Focal length is exactly double the radius of curvature",
+        "B) Focal length is completely independent of the radius metric",
+        "C) Focal length is exactly half of the radius of curvature",
+        "D) Focal length is equal to the square of the radius line"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following optical setups can generate a true, magnified real image on a screen?",
+      "options": [
+        "A) A convex mirror holding a distant object",
+        "B) A concave mirror or a convex lens when the object is placed beyond the focus",
+        "C) A standard plane mirror under high voltage",
+        "D) A standalone concave lens cell layout"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 43,
+      "question": "What geometric feature explains why light rays passing directly through the optical center of any lens do not experience any net deviation?",
+      "options": [
+        "A) They hit a region with high electrostatic magnetic blocking",
+        "B) The optical center drops the speed of light entirely to zero",
+        "C) The bounding surfaces behave effectively like a thin parallel glass plate at that point",
+        "D) The principal axis reflects them backward to the object frame"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 44,
+      "question": "Why are spherical mirrors given that name by optical engineers and physicists?",
+      "options": [
+        "A) Because their reflecting surfaces form a real part of a hollow sphere",
+        "B) Because they can only track spherical objects like planet models",
+        "C) Because they always focus light into a spherical plasma ball",
+        "D) Because they change their shape dynamically into spheres when heated"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 45,
+      "question": "The ultimate scientific purpose behind mastering the behavior of light across different mirrors and lenses is to:",
+      "options": [
+        "A) Discard the laws of reflection from high school handbooks",
+        "B) Systematically understand, predict, and control how light traces paths to design life-enhancing technologies like spectacles, microscopes, and telescopes",
+        "C) Prove that images cannot be caught on physical laboratory screen sheets",
+        "D) Convert glass lenses directly into permanent heavy lifting mechanical cranes"
+      ],
+      "answer": "B"
+    }
+  ]
+}

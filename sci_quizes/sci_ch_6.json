@@ -1,0 +1,274 @@
+{
+  "chapter_6_pool": [
+    {
+      "id": 1,
+      "question": "What is a force?",
+      "options": ["A) A push or pull that acts on an object", "B) The weight of an object", "C) The speed of an object", "D) The direction of an object"],
+      "answer": "A"
+    },
+    {
+      "id": 2,
+      "question": "Why did Pawan look uncomfortable adjusting his bag during the picnic walk compared to his sister Megha?",
+      "options": ["A) His bag had thin strings for straps, creating high pressure on his shoulders", "B) His bag had a significantly larger mass of books inside", "C) His bag was experiencing much higher gravitational pull from the ground", "D) His bag built up an uncomfortable static electrostatic charge"],
+      "answer": "A"
+    },
+    {
+      "id": 3,
+      "question": "What primary phenomenon causes fallen leaves on the ground to swirl and window panes to rattle when a strong wind blows?",
+      "options": ["A) Electrostatic tension", "B) Hydrostatic suction", "C) Wind pressure", "D) Magnetic repulsion"],
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "What happens to the air pressure in a specific region when the speed of the wind in that area increases significantly?",
+      "options": ["A) The air pressure increases proportionally", "B) The air pressure immediately drops to absolute zero", "C) The air pressure remains completely unaffected", "D) The air pressure decreases"],
+      "answer": "D"
+    },
+    {
+      "id": 5,
+      "question": "In the laboratory activity where air is blown over a thin strip of paper, why does the paper lift upwards?",
+      "options": ["A) The blowing air heats the paper and makes it float", "B) Fast-moving air over the paper creates a region of low pressure", "C) The friction between breath and paper generates an upward push", "D) The paper strip accumulates a negative electrostatic charge"],
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "question": "When you blow air forcefully into the space between two inflated balloons hung close to each other, what do you observe?",
+      "options": ["A) The balloons move toward each other due to reduced pressure between them", "B) The balloons move away from each other rapidly", "C) The balloons instantly burst due to high hydrostatic forces", "D) The balloons start spinning in a clockwise circle"],
+      "answer": "A"
+    },
+    {
+      "id": 7,
+      "question": "What basic directional rule governs the natural movement of air across different regions of the Earth?",
+      "options": ["A) Air always flows from a region of low pressure to high pressure", "B) Air only flows horizontally from west to east due to gravity", "C) Air always flows from a region of high pressure to low pressure", "D) Air flows from cold solid surfaces to hot liquid surfaces exclusively"],
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "question": "What determines how fast the wind will blow between two distinct geographical locations?",
+      "options": ["A) The difference in mass between the two air blocks", "B) The total thickness of the ozone layer above them", "C) The electrostatic charge variance of the cloud grids", "D) The difference in air pressure between the two regions"],
+      "answer": "D"
+    },
+    {
+      "id": 9,
+      "question": "What underlying natural phenomenon is the primary driver behind the creation of air pressure differences on Earth?",
+      "options": ["A) The uniform cooling of deep ocean currents", "B) The uneven heating of different regions by the Sun", "C) The periodic changes in the Earth's magnetic core poles", "D) The accumulation of industrial greenhouse gases in cities"],
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "What happens to a volume of air when it gets heated by solar radiation or a laboratory flame?",
+      "options": ["A) It contracts and its density increases significantly", "B) It expands and becomes lighter, causing it to rise upward", "C) It turns into liquid droplets due to pressure changes", "D) It sinks downward immediately to form a high-pressure zone"],
+      "answer": "B"
+    },
+    {
+      "id": 11,
+      "question": "In the classroom activity with two identical paper bags hung upside down on a wooden stick, what happens when a burning candle is placed under one bag?",
+      "options": ["A) The stick remains perfectly balanced as air mass stays uniform", "B) The bag above the candle catches fire instantly due to vacuum creation", "C) The bag above the candle rises because warm air pushes it up", "D) The opposite bag drops down because it loses all its weight"],
+      "answer": "C"
+    },
+    {
+      "id": 12,
+      "question": "Because warm air expands and rises upward, what type of pressure zone is naturally created on the ground surface below it?",
+      "options": ["A) High-pressure region", "B) Low-pressure region", "C) Equilibrium neutral zone", "D) Hydrostatic compression node"],
+      "answer": "B"
+    },
+    {
+      "id": 13,
+      "question": "When warm air rises from a heated region, what happens to the surrounding cooler air from adjacent areas?",
+      "options": ["A) It rushes in to fill the low-pressure space, generating wind", "B) It compresses and freezes into thin moisture crystals", "C) It rises even higher into the upper layers of the atmosphere", "D) It turns around and flows toward the polar ice sheets"],
+      "answer": "A"
+    },
+    {
+      "id": 14,
+      "question": "Why are ventilation holes and exhaust fans in houses always placed near the ceiling rather than close to the floor?",
+      "options": ["A) To prevent cold atmospheric wind from entering the rooms directly", "B) To maximize the structural strength of the concrete walls", "C) To match the high-pressure columns outside the building grid", "D) Because warm, stale air is lighter and rises to the top of the room"],
+      "answer": "D"
+    },
+    {
+      "id": 15,
+      "question": "Why are small holes intentionally made in large outdoor fabric banners and commercial hoarding boards?",
+      "options": ["A) To reduce the total mass of fabric used during industrial production", "B) To let powerful winds pass through safely, preventing high pressure from tearing them down", "C) To create artistic light patterns when sunlight hits the display", "D) To eliminate the build-up of electrostatic charges on stormy days"],
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "question": "During the hot summer months, which geographical region of India heats up much faster, creating a massive low-pressure zone?",
+      "options": ["A) The deep water channels of the Indian Ocean", "B) The snow-capped peaks of the northern Himalayas", "C) The vast landmass of the Indian subcontinent", "D) The coastal island groups of Lakshadweep"],
+      "answer": "C"
+    },
+    {
+      "id": 17,
+      "question": "What name is given to the moisture-laden winds that blow from the ocean toward the land during the summer, bringing heavy rainfall?",
+      "options": ["A) Monsoon winds", "B) Westerly wind grids", "C) Polar air streams", "D) Cyclonic draft cells"],
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "question": "The word 'Monsoon' is derived from the Arabic word 'Mausim'. What does 'Mausim' fundamentally translate to?",
+      "options": ["A) Rain cloud", "B) Season", "C) Ocean current", "D) Stormy wind"],
+      "answer": "B"
+    },
+    {
+      "id": 19,
+      "question": "During the winter season, in which direction do the primary wind currents blow across the Indian subcontinent?",
+      "options": ["A) From the warm Indian Ocean toward the freezing northern plains", "B) Vertically upward from the deserts to the upper troposphere", "C) From the western seas directly toward the eastern hills", "D) From the cold landmass toward the relatively warmer oceans"],
+      "answer": "D"
+    },
+    {
+      "id": 20,
+      "question": "A dark, violent weather event accompanied by heavy rain, thunder, and lightning that develops frequently in hot, humid tropical areas is a:",
+      "options": ["A) Tsunami", "B) Polar blizzard", "C) Thunderstorm", "D) Sand dune drift"],
+      "answer": "C"
+    },
+    {
+      "id": 21,
+      "question": "What atmospheric action leads directly to the loud clattering sound known as thunder during a severe storm?",
+      "options": ["A) The rapid heating and sudden expansion of air surrounding a lightning bolt", "B) The friction between fast-flying birds and heavy rain droplets", "C) The crashing of solid ice crystals against the dry ground surface", "D) The mechanical breakdown of high-voltage transmission lines"],
+      "answer": "A"
+    },
+    {
+      "id": 22,
+      "question": "What is the primary safety recommendation regarding electrical appliances during an active thunderstorm?",
+      "options": ["A) Keep them switched on to stabilize the incoming line voltage", "B) Unplug TV sets, computers, and other sensitive electrical items", "C) Wrap the connecting wires tightly with wet linen cloth sheets", "D) Turn on all room heaters to clear out internal humidity"],
+      "answer": "B"
+    },
+    {
+      "id": 23,
+      "question": "If you are caught outdoors in an open field during a lightning storm, what is the safest physical posture to adopt?",
+      "options": ["A) Stand tall under a large, isolated tree to block the rain path", "B) Lie completely flat on your back on the open muddy ground", "C) Squat low on the ground with your hands on your knees and head tucked between them", "D) Hold up a large metal-tipped umbrella to repel electric discharges"],
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "question": "Why is it strictly advised not to take shelter inside a small metallic shed or under an isolated tall tree during lightning?",
+      "options": ["A) They absorb all the moisture from the air, causing suffocation", "B) Lightning tends to strike tall objects and metallic structures easily", "C) They completely reverse the local atmospheric pressure columns", "D) Frictional drag increases to dangerous levels underneath them"],
+      "answer": "B"
+    },
+    {
+      "id": 25,
+      "question": "What massive, rotating weather system forms over warm ocean waters, characterized by a calm center and extremely powerful swirling winds?",
+      "options": ["A) Cyclone", "B) Thunderstorm cell", "C) Sandstorm column", "D) Local monsoon breeze"],
+      "answer": "A"
+    },
+    {
+      "id": 26,
+      "question": "What is the calm, cloudless, and low-pressure central area of a fully developed tropical cyclone called?",
+      "options": ["A) Core node", "B) Wall ring", "C) Suction vortex", "D) Eye of the cyclone"],
+      "answer": "D"
+    },
+    {
+      "id": 27,
+      "question": "What is the typical diameter of the calm 'eye' region situated right at the heart of a spinning cyclone?",
+      "options": ["A) 1 to 2 kilometers", "B) 10 to 30 kilometers", "C) 500 to 1000 kilometers", "D) 50 to 80 meters"],
+      "answer": "B"
+    },
+    {
+      "id": 28,
+      "question": "Directly surrounding the calm eye of a cyclone is a thick ring of clouds filled with torrential rain and high-speed winds. This ring is the:",
+      "options": ["A) Shear zone", "B) Outer boundary tail", "C) Eye wall", "D) Low-pressure baseline"],
+      "answer": "C"
+    },
+    {
+      "id": 29,
+      "question": "What happens to a cyclone's energy source when the spinning system leaves the warm ocean surface and moves deep over solid land?",
+      "options": ["A) It increases dramatically because of land friction", "B) It gradually cuts off and weakens because it loses the supply of warm, moist vapor", "C) It turns into a series of localized high-pressure winter blizzards", "D) It locks permanently into a stationary electrostatic column"],
+      "answer": "B"
+    },
+    {
+      "id": 30,
+      "question": "What term is used for a tropical cyclone in the American continent, particularly around the Atlantic Ocean?",
+      "options": ["A) Hurricane", "B) Typhoon", "C) Willy-Willy", "D) Tornado"],
+      "answer": "A"
+    },
+    {
+      "id": 31,
+      "question": "In the western Pacific region, including Japan and the Philippines, tropical cyclones are locally referred to as:",
+      "options": ["A) Hurricanes", "B) Twisters", "C) Typhoons", "D) Monsoons"],
+      "answer": "C"
+    },
+    {
+      "id": 32,
+      "question": "What primary factor causes a cyclone to push huge walls of ocean water toward the coast, causing severe flooding in low-lying areas?",
+      "options": ["A) The gravitational pull of the Moon during the storm cycle", "B) The sudden chemical expansion of ocean salts in low pressure", "C) The electrostatic repulsion from the base of stormy clouds", "D) The relentless push of extremely high-speed winds on the water surface"],
+      "answer": "D"
+    },
+    {
+      "id": 33,
+      "question": "What specific instrument is installed at weather stations to continuously measure and record the speed of the wind?",
+      "options": ["A) Barometer", "B) Anemometer", "C) Thermometer", "D) Rain gauge"],
+      "answer": "B"
+    },
+    {
+      "id": 34,
+      "question": "What key government department in India is officially responsible for tracking storms and issuing timely cyclone warnings and alerts?",
+      "options": ["A) Indian Council of Medical Research (ICMR)", "B) India Meteorological Department (IMD)", "C) Indian Space Research Organisation (ISRO)", "D) Bureau of Indian Standards (BIS)"],
+      "answer": "B"
+    },
+    {
+      "id": 35,
+      "question": "How far in advance does the IMD typically issue a 'Cyclone Watch' notice to alert coastal communities about a potential storm threat?",
+      "options": ["A) 48 hours in advance", "B) 12 hours in advance", "C) 10 days in advance", "D) Exactly 1 hour in advance"],
+      "answer": "A"
+    },
+    {
+      "id": 36,
+      "question": "A formal 'Cyclone Warning' indicating that destructive winds are expected to hit a coastal zone is issued at least how many hours ahead of landfall?",
+      "options": ["A) 6 hours", "B) 72 hours", "C) 24 hours", "D) 96 hours"],
+      "answer": "C"
+    },
+    {
+      "id": 37,
+      "question": "What modern space-based technologies allow meteorologists to track the birth and movement of cyclones across vast oceans with extreme precision?",
+      "options": ["A) High-power optical microscopes", "B) Satellites and Radars", "C) Deep-sea sonar arrays", "D) Anemometers connected in series"],
+      "answer": "B"
+    },
+    {
+      "id": 38,
+      "question": "Which of the following actions should be completely avoided if you are residing in a cyclone-hit zone after the storm passes?",
+      "options": ["A) Drinking stored safe water or boiling water before use", "B) Cooperating carefully with rescue and relief operations teams", "C) Keeping emergency contact numbers ready on a paper slip", "D) Entering flooded areas or touching loose, fallen electrical wires"],
+      "answer": "D"
+    },
+    {
+      "id": 39,
+      "question": "What type of local pressure pattern develops at the coast during a hot sunny day, causing a cool breeze to blow from the sea toward the land?",
+      "options": ["A) High land pressure and low sea pressure", "B) Low land pressure and high sea pressure", "C) Uniform hydrostatic equilibrium across both zones", "D) High electrostatic charge buildup on the sand particles"],
+      "answer": "B"
+    },
+    {
+      "id": 40,
+      "question": "What is the name of the cool air movement that occurs at night when the land cools down faster than the ocean water?",
+      "options": ["A) Sea breeze", "B) Cyclonic updraft", "C) Land breeze", "D) Monsoon front"],
+      "answer": "C"
+    },
+    {
+      "id": 41,
+      "question": "When a column of air moves upward rapidly, what happens to its temperature as it reaches higher altitudes in the atmosphere?",
+      "options": ["A) It increases steadily because it gets closer to the Sun", "B) It cools down, causing the water vapor inside it to condense", "C) It remains locked at its original ground surface temperature", "D) It triggers a massive chemical decomposition of nitrogen gas"],
+      "answer": "B"
+    },
+    {
+      "id": 42,
+      "question": "What basic physical property of air explains why an open empty plastic bottle becomes harder to squeeze when it is tightly capped?",
+      "options": ["A) The trapped air inside exerts pressure outward on the bottle walls", "B) The plastic material gains mass over time", "C) The external atmospheric pressure columns drop completely to zero", "D) The inner air molecules lose all their kinetic frictional properties"],
+      "answer": "A"
+    },
+    {
+      "id": 43,
+      "question": "Which specific coastal region of India is statistically documented to be highly vulnerable and prone to frequent, intense cyclonic storms?",
+      "options": ["A) The rocky western coast along the Arabian Sea", "B) The eastern coast along the Bay of Bengal", "C) The high-altitude valleys of the western Ghats", "D) The desert borders of the far western states"],
+      "answer": "B"
+    },
+    {
+      "id": 44,
+      "question": "What happens to the structure of a house roof if a massive, high-speed cyclonic wind blows violently over it?",
+      "options": ["A) High pressure above the roof presses it down into the rooms", "B) The roof material magnetizes and sticks tighter to the concrete pillars", "C) Low pressure created above the roof creates an upward lift that can blow it away", "D) The atmospheric pressure inside the rooms drops down to absolute zero"],
+      "answer": "C"
+    },
+    {
+      "id": 45,
+      "question": "The ultimate lesson behind understanding the science of air pressure, winds, and cyclonic systems is to:",
+      "options": ["A) Learn how to stop natural weather patterns using industrial fans", "B) Eliminate the use of satellites and anemometers in weather stations", "C) Prove that uneven heating of the Earth has no effect on wind speed", "D) Develop effective safety plans, tracking mechanisms, and minimize loss of life"],
+      "answer": "D"
+    }
+  ]
+}

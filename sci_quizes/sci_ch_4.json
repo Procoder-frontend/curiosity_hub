@@ -1,0 +1,499 @@
+{
+  "chapter_4_pool": [
+    {
+      "id": 1,
+      "question": "Which student displayed the working model of a lifting electromagnet that fascinated Mohini and Aakarsh at the science exhibition?",
+      "options": [
+        "A) Hans Christian Oersted",
+        "B) Aakarsh",
+        "C) Sumana",
+        "D) Mohini"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 2,
+      "question": "What happens to the iron clips attached to Sumana's lifting electromagnet model when she opens the circuit?",
+      "options": [
+        "A) They stick permanently",
+        "B) They begin to melt",
+        "C) They reverse their poles",
+        "D) They immediately fall off"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 3,
+      "question": "In a standard electric circuit diagram, how is a single electric cell symbolically represented?",
+      "options": [
+        "A) Two parallel lines of unequal lengths",
+        "B) A single circle with an 'X' mark inside",
+        "C) Two squares connected by a dotted lane",
+        "D) A thick zigzag line with sharp corners"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 4,
+      "question": "What does the longer vertical line represent in the standard symbol of an electric cell?",
+      "options": [
+        "A) The neutral resistance node",
+        "B) The negative terminal",
+        "C) The positive terminal",
+        "D) The broken wire path"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 5,
+      "question": "What does the shorter, thicker vertical line represent in the symbol of an electric cell?",
+      "options": [
+        "A) The closed switch position",
+        "B) The negative terminal",
+        "C) The safety fuse node",
+        "D) The positive terminal"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "question": "When two or more electric cells are connected together in a row such that the positive terminal of one touches the negative terminal of the next, it forms a:",
+      "options": [
+        "A) Resistor",
+        "B) Fuse link",
+        "C) Magnet wire",
+        "D) Battery"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 7,
+      "question": "Which symbol represents a device in an electrical circuit that can be intentionally set to either an 'ON' position or an 'OFF' position?",
+      "options": [
+        "A) Electric bulb",
+        "B) Connecting wire",
+        "C) Switch",
+        "D) Electromagnet"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "question": "When an electric current flows through a wire, what happens to a magnetic compass needle placed close to that wire?",
+      "options": [
+        "A) It deflects from its normal north-south position",
+        "B) It completely stops moving permanently",
+        "C) It turns a bright neon green color",
+        "D) It breaks down into tiny iron fragments"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 9,
+      "question": "Which famous scientist was the first to notice the deflection of a compass needle when an electric current passed through a nearby wire?",
+      "options": [
+        "A) Michael Faraday",
+        "B) Thomas Edison",
+        "C) Hans Christian Oersted",
+        "D) Alexander Fleming"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 10,
+      "question": "A coil of insulated wire wound tightly around a piece of magnetic material like soft iron behaves like a magnet when current flows through it. This is called an:",
+      "options": [
+        "A) Electric heater",
+        "B) Electromagnet",
+        "C) Insulated resistor",
+        "D) Electric fuse"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 11,
+      "question": "Why is an electromagnet classified as a temporary magnet rather than a permanent magnet?",
+      "options": [
+        "A) It breaks apart if it drops on the laboratory floor",
+        "B) It loses its magnetic properties as soon as the current is turned off",
+        "C) It only works inside extremely cold environments",
+        "D) It can only pick up plastic materials over time"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "What happens to the strength of an electromagnet when the number of turns of the insulated wire coil around the iron nail is increased?",
+      "options": [
+        "A) The magnetic strength drops completely to zero",
+        "B) The magnetic strength decreases rapidly",
+        "C) The magnetic strength increases",
+        "D) The magnetic properties switch to electric insulation"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 13,
+      "question": "Which of the following household devices works directly on the practical application of an electromagnet?",
+      "options": [
+        "A) Electric toaster",
+        "B) Electric geyser",
+        "C) Electric room heater",
+        "D) Electric bell"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 14,
+      "question": "What is the name of the small iron piece inside an electric bell that strikes the gong when attracted by the electromagnet?",
+      "options": [
+        "A) Interrupter",
+        "B) Contact screw",
+        "C) Armature",
+        "D) Metal coil"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 15,
+      "question": "When the armature of an electric bell moves toward the electromagnet to strike the gong, what happens to the internal circuit?",
+      "options": [
+        "A) It breaks at the contact screw point, cutting off the current",
+        "B) It becomes a permanently short-circuited lane",
+        "C) It doubles the incoming voltage from the battery cell",
+        "D) It catches fire due to excessive heating effects"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 16,
+      "question": "What primary phenomenon occurs when an electric current passes through a high-resistance wire, causing it to become hot over time?",
+      "options": [
+        "A) Magnetic effect of current",
+        "B) Chemical breakdown of current",
+        "C) Heating effect of current",
+        "D) Static electric discharge"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 17,
+      "question": "What is the tightly wound coil of high-resistance wire inside heating appliances like electric irons and room heaters called?",
+      "options": [
+        "A) Fuse wire",
+        "B) Armature",
+        "C) Terminal rod",
+        "D) Element"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 18,
+      "question": "Which material is widely used as a heating element in appliances because it has high resistance and doesn't melt easily when hot?",
+      "options": [
+        "A) Copper",
+        "B) Aluminium",
+        "C) Nichrome",
+        "D) Soft iron"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 19,
+      "question": "Why is copper wire not used to make the heating elements of room heaters or electric irons?",
+      "options": [
+        "A) It has a very high electrical resistance",
+        "B) It has low electrical resistance and does not heat up easily",
+        "C) It turns into an electromagnet when heated",
+        "D) It is an insulator that completely blocks current"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "question": "The amount of heat generated in a wire due to an electric current depends primarily on which of the following parameters?",
+      "options": [
+        "A) The color of the outer insulation plastic",
+        "B) The physical location of the science laboratory",
+        "C) The material, thickness, and length of the wire",
+        "D) The atmospheric air quality index rating"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 21,
+      "question": "What thin, high-resistance wire inside an old-fashioned electric bulb glows brightly and produces light when heated by current?",
+      "options": [
+        "A) Filament",
+        "B) Element coil",
+        "C) Lead wire",
+        "D) Armature bar"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 22,
+      "question": "Which metal, known for its extremely high melting point, is used to make the thin filaments inside incandescent light bulbs?",
+      "options": [
+        "A) Copper",
+        "B) Iron",
+        "C) Lead",
+        "D) Tungsten"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 23,
+      "question": "What safety device is placed in household circuits to prevent damage from excessive current by melting and breaking the circuit?",
+      "options": [
+        "A) Electromagnet crane",
+        "B) Armature switch",
+        "C) Electric fuse",
+        "D) Nichrome element"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "question": "What is the primary characteristic of a wire used to make an electric fuse?",
+      "options": [
+        "A) It must have a very high melting point and never break",
+        "B) It acts as a powerful temporary magnet block",
+        "C) It glows with bright yellow light continuously",
+        "D) It melts quickly when a large current passes through it"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 25,
+      "question": "What dangerous event occurs when the live wire and neutral wire touch directly due to damaged insulation, causing an abrupt rise in current?",
+      "options": [
+        "A) Open circuit",
+        "B) Electromagnetic deflection",
+        "C) Short circuit",
+        "D) Battery recharge cycle"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 26,
+      "question": "Connecting too many electrical appliances to a single wall socket simultaneously leads to a hazard known as:",
+      "options": [
+        "A) Overloading",
+        "B) Low-voltage drop",
+        "C) Temporary magnetism",
+        "D) Element insulation"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 27,
+      "question": "What modern automatic safety switch turns off by itself if the current exceeds safe limits, replacing traditional fuses?",
+      "options": [
+        "A) LED indicator",
+        "B) Tungsten filament",
+        "C) Nichrome relay",
+        "D) Miniature Circuit Breaker (MCB)"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 28,
+      "question": "What mark should you look for on electrical appliances to ensure they meet standard safety guidelines in India?",
+      "options": [
+        "A) WHO mark",
+        "B) ICMR mark",
+        "C) ISI mark",
+        "D) CSR mark"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 29,
+      "question": "Why are standard incandescent light bulbs being replaced by energy-efficient alternatives like Compact Fluorescent Lamps (CFLs) and LEDs?",
+      "options": [
+        "A) Incandescent bulbs waste a large amount of electricity as heat",
+        "B) CFLs and LEDs operate on magnetic fields without any current",
+        "C) Incandescent bulbs contain highly valuable lithium cells",
+        "D) CFLs and LEDs produce more heat than visible light lines"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 30,
+      "question": "What toxic element is present inside CFL bulbs, requiring them to be disposed of safely and carefully?",
+      "options": [
+        "A) Cadmium",
+        "B) Mercury",
+        "C) Lithium",
+        "D) Lead"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 31,
+      "question": "Which of the following metals is a good conductor of electricity and commonly used to make connecting wires for circuits?",
+      "options": [
+        "A) Plastic",
+        "B) Wood",
+        "C) Copper",
+        "D) Rubber"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 32,
+      "question": "In an electric circuit activity, if the connecting wire is wrapped around a plastic pen instead of an iron nail, what happens to its magnetic effect?",
+      "options": [
+        "A) It becomes 10 times stronger",
+        "B) It melts the plastic pen instantly",
+        "C) It converts the pen into a permanent magnet",
+        "D) It does not show any noticeable magnetic effect"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 33,
+      "question": "What can be used in place of a standard factory-made switch in a simple school laboratory circuit project?",
+      "options": [
+        "A) An iron nail wrapped with copper paper",
+        "B) A metal safety pin or paper clip",
+        "C) A thick piece of rubber band",
+        "D) A glass slide covered with glycerin"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 34,
+      "question": "Why is it strictly advised never to touch an electrical switch or appliance with wet hands?",
+      "options": [
+        "A) Water blocks the flow of current entirely",
+        "B) Water with impurities conducts electricity and can cause a severe shock",
+        "C) It causes the appliance to demagnetize instantly",
+        "D) It dissolves the tungsten filament within the unit"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 35,
+      "question": "When a battery cell is completely used up and stops working, what valuable or hazardous materials does it still contain?",
+      "options": [
+        "A) Pure liquid oxygen and methane gas",
+        "B) High-resistance nichrome elements",
+        "C) Acids and heavy metals like lead, cadmium, or lithium",
+        "D) Edible organic sugars and starches"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 36,
+      "question": "Where should used, dead electrical batteries be disposed of to prevent environmental contamination?",
+      "options": [
+        "A) Regular household green garbage bins",
+        "B) Local open compost pits",
+        "C) Running water bodies like rivers",
+        "D) Special e-waste recycling facilities"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 37,
+      "question": "What basic phenomenon explains why a simple electric hair dryer blows out hot air when turned on?",
+      "options": [
+        "A) Heating effect of electric current on its element",
+        "B) Magnetic deflection of compass needles",
+        "C) Chemical decomposition of copper connections",
+        "D) Static friction of high-speed air grids"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 38,
+      "question": "In the laboratory activity with two different nichrome wires, which wire will heat up more when connected to the same cell for 30 seconds?",
+      "options": [
+        "A) The thicker wire",
+        "B) Both wires will remain at room temperature",
+        "C) The thinner wire because it has higher resistance",
+        "D) Neither wire, because nichrome blocks heat generation"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 39,
+      "question": "What kind of crane mechanism is used in scrapyards to lift and separate large chunks of iron scrap from other waste material?",
+      "options": [
+        "A) Hydraulic pressure crane",
+        "B) Electromagnet-based crane",
+        "C) Permanent bar-magnet loader",
+        "D) Pneumatic suction loader"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 40,
+      "question": "When an MCB trips and turns off the household electrical supply due to an overload, what must you do before resetting it to the 'ON' position?",
+      "options": [
+        "A) Replace the entire internal wiring layout",
+        "B) Find and fix the fault or remove the extra appliances",
+        "C) Wash the circuit board with water",
+        "D) Wrap the switch tightly with plastic tape"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 41,
+      "question": "What does a broken or gap-filled line in a schematic circuit diagram indicate?",
+      "options": [
+        "A) A closed circuit path where current flows",
+        "B) A parallel battery cell installation",
+        "C) An active high-powered electromagnet link",
+        "D) An open circuit where the switch is in the OFF position"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 42,
+      "question": "Why is the safety fuse wire always connected in series with the main circuit line rather than parallel?",
+      "options": [
+        "A) To maximize the magnetic field deflection",
+        "B) To ensure all current passes through it so it can break the path during a fault",
+        "C) To keep the tungsten filament cool during surges",
+        "D) To save the operational life of the battery cell"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 43,
+      "question": "What will happen to the remaining bulbs in a household circuit if one bulb blows out, assuming they are connected properly in a parallel network?",
+      "options": [
+        "A) All other bulbs will turn off instantly",
+        "B) Their filaments will melt down within a second",
+        "C) The other bulbs will continue to glow normally",
+        "D) They will start blinking red and yellow"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 44,
+      "question": "Which component acts as the source of electrical energy in a portable handheld flashlight?",
+      "options": [
+        "A) A miniature circuit breaker",
+        "B) Electric cells (or battery)",
+        "C) A nichrome element coil",
+        "D) A magnetic compass needle"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 45,
+      "question": "What type of energy conversion takes place when an electric bulb is switched on in a closed circuit?",
+      "options": [
+        "A) Magnetic energy converts to chemical energy",
+        "B) Light energy converts to static mechanical force",
+        "C) Electrical energy converts to heat and light energy",
+        "D) Chemical energy converts directly to magnetic fields"
+      ],
+      "answer": "C"
+    }
+  ]
+}

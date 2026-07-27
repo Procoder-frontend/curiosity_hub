@@ -1,0 +1,499 @@
+{
+  "chapter_9_pool": [
+    {
+      "id": 1,
+      "question": "Which specific medical solution, designed to treat dehydration by keeping the body hydrated, is introduced at the very beginning of Chapter 9?",
+      "options": [
+        "A) Concentrated Glucose Drip",
+        "B) Copper Sulfate Solution",
+        "C) Oral Rehydration Solution (ORS)",
+        "D) Calcium Hydroxide Tonic"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 2,
+      "question": "Why does every single sip of a properly prepared Oral Rehydration Solution (ORS) taste completely identical, whether from the top or the bottom?",
+      "options": [
+        "A) The salt and sugar particles float only on the top surface layer",
+        "B) The chemical interaction turns the water into a single new liquid element",
+        "C) The atmospheric pressure forces the flavor molecules to settle at the corners",
+        "D) The dissolved sugar and salt components are evenly distributed throughout the water"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 3,
+      "question": "A uniform, homogeneous mixture formed by thoroughly dissolving one or more substances into another substance is scientifically defined as a:",
+      "options": [
+        "A) Solution",
+        "B) Heterogeneous suspension",
+        "C) Sublimated alloy",
+        "D) Saturated precipitate"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 4,
+      "question": "What is the specific scientific name given to the component of a solution that gets dissolved, and is typically present in a smaller quantity?",
+      "options": [
+        "A) Solvent",
+        "B) Filtrate",
+        "C) Solute",
+        "D) Residue"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 5,
+      "question": "What is the specific name given to the component of a solution that does the dissolving, and is typically present in a larger quantity?",
+      "options": [
+        "A) Solute",
+        "B) Precipitate",
+        "C) Sieve matrix",
+        "D) Solvent"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 6,
+      "question": "When you prepare a clear solution by dissolving copper sulfate crystals in water, what acts as the solute and solvent respectively?",
+      "options": [
+        "A) Water is the solute, and copper sulfate is the solvent",
+        "B) Both substances act simultaneously as mutual solvents",
+        "C) Copper sulfate is the solute, and water is the solvent",
+        "D) There is no solute because the crystals undergo sublimation"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following common household mixtures cannot be classified as a true solution because it forms a non-uniform, cloudy suspension?",
+      "options": [
+        "A) Sugar dissolved completely in warm milk",
+        "B) Common salt dissolved completely in fresh water",
+        "C) Chalk powder mixed vigorously in water",
+        "D) Tincture of iodine liquid mixture"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "question": "What primary visual characteristic distinguishes a true solution from a basic heterogeneous suspension like mud in water?",
+      "options": [
+        "A) True solutions always exhibit separate, distinct solid layers at the top",
+        "B) True solutions are completely clear and stable, and their solute particles do not settle down over time",
+        "C) True solutions can only exist when heated above 100°C",
+        "D) The solute particles in a true solution can be easily separated by a kitchen strainer"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "question": "Because of its unique ability to dissolve a vast variety of different solid, liquid, and gaseous substances, water is widely known as the:",
+      "options": [
+        "A) Saturated medium",
+        "B) Sublimating agent",
+        "C) Particulate elemental fluid",
+        "D) Universal solvent"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 10,
+      "question": "What happens to the visibility of individual solute particles, like sugar molecules, once they are completely dissolved to form a true solution?",
+      "options": [
+        "A) They expand into large visible clusters that float on the top surface",
+        "B) They become so small and scattered that they cannot be seen even under an ordinary light microscope",
+        "C) They turn into tiny magnetic metallic bubbles that change color",
+        "D) They lose their mass entirely and leave the container cell"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 11,
+      "question": "A solution that contains a relatively small amount of dissolved solute compared to the maximum capacity of the solvent is termed as a:",
+      "options": [
+        "A) Dilute solution",
+        "B) Concentrated solution",
+        "C) Saturated solution",
+        "D) Precipitated matrix"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 12,
+      "question": "A solution that contains a large, heavy amount of dissolved solute in a given volume of solvent is termed as a:",
+      "options": [
+        "A) Dilute solution",
+        "B) Homogeneous gas block",
+        "C) Concentrated solution",
+        "D) Sublimating mixture"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 13,
+      "question": "A solution in which no more solute can be dissolved at that specific, fixed temperature is defined as a:",
+      "options": [
+        "A) Dilute solution",
+        "B) Unsaturated solution",
+        "C) Ideal solution",
+        "D) Saturated solution"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 14,
+      "question": "What is the maximum amount of a solute that can be completely dissolved in 100 grams of a solvent at a specific temperature called?",
+      "options": [
+        "A) Concentration ratio",
+        "B) Saturation index",
+        "C) Solubility",
+        "D) Diffusion metric"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 15,
+      "question": "What usually happens to the solubility of a solid solute, like sugar or salt, in water when the temperature of the water is increased?",
+      "options": [
+        "A) The solubility decreases rapidly",
+        "B) The solubility increases, allowing more solute to dissolve",
+        "C) The solubility immediately drops down to absolute zero",
+        "D) Temperature has absolutely no influence on solubility limits"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "question": "If a hot, saturated solution of sugar in water is left to cool down slowly to room temperature, what changes will you observe?",
+      "options": [
+        "A) The water will turn into a gaseous vapor instantly",
+        "B) The solution will become highly dilute automatically",
+        "C) Solid crystals of sugar will begin to separate and settle down",
+        "D) The total volume of the liquid will double in size"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 17,
+      "question": "What term is used to describe the ratio of the mass of solute present to the total mass or volume of the given solution?",
+      "options": [
+        "A) Concentration of a solution",
+        "B) Solubility parameter",
+        "C) Saturation density",
+        "D) Diffusion gradient"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "question": "What basic mathematical formula is used to calculate the concentration percentage by mass of a solution?",
+      "options": [
+        "A) (Mass of Solvent / Mass of Solute) × 100",
+        "B) (Mass of Solute × Mass of Solvent) / 100",
+        "C) (Mass of Solute / Total Mass of Solution) × 100",
+        "D) (Total Mass of Solution / Mass of Solute) × 100"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 19,
+      "question": "If 20 grams of common salt is dissolved completely in 180 grams of water, what is the total mass of the resulting solution?",
+      "options": [
+        "A) 160 grams",
+        "B) 180 grams",
+        "C) 3600 grams",
+        "D) 200 grams"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 20,
+      "question": "If you add more solute to an unsaturated solution at a constant temperature without adding any solvent, the solution becomes:",
+      "options": [
+        "A) More dilute",
+        "B) More concentrated",
+        "C) Completely gaseous",
+        "D) An alloy state"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "question": "Can solutions form between states of matter other than solids and liquids? What is a prime example of a gaseous solution?",
+      "options": [
+        "A) Distilled pure water",
+        "B) Solid brass plates",
+        "C) Atmospheric air",
+        "D) Muddy river water"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 22,
+      "question": "Carbonated soft drinks contain dissolved carbon dioxide gas in water under pressure. Here, what state of matter is acting as the solute?",
+      "options": [
+        "A) Liquid",
+        "B) Solid",
+        "C) Plasma",
+        "D) Gas"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 23,
+      "question": "Why do bubbles of gas escape rapidly from a bottle of soda or soft drink immediately after you open its cap?",
+      "options": [
+        "A) The temperature of the liquid drops down to 0°C instantly",
+        "B) Open air builds up an extreme electrostatic charge in the liquid",
+        "C) The sudden decrease in pressure reduces the solubility of the gas, causing it to escape",
+        "D) Frictional forces from the plastic cap convert the liquid into gas"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "question": "What term describes the clear solution formed when a solute is dissolved in a solvent other than water, such as iodine dissolved in alcohol?",
+      "options": [
+        "A) Aqueous solution",
+        "B) Saturated bulk",
+        "C) Non-aqueous solution",
+        "D) Heterogeneous matrix"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 25,
+      "question": "A solution that uses water as the dissolving medium or solvent is explicitly classified as an:",
+      "options": [
+        "A) Non-aqueous solution",
+        "B) Organic concentrate",
+        "C) Sublimated fluid",
+        "D) Aqueous solution"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 26,
+      "question": "What historical and cultural site in Manipur's Thoubal district is highlighted in Chapter 9 for producing salt using traditional wells?",
+      "options": [
+        "A) Ningel village",
+        "B) Imphal valley",
+        "C) Loktak lake basin",
+        "D) Ukhrul hills"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 27,
+      "question": "How do the traditional salt-makers of Ningel village separate and collect salt crystals from the underground well water?",
+      "options": [
+        "A) By filtering the well water through multiple cotton sheets",
+        "B) By using high-power electromagnetic pulling cranes",
+        "C) By boiling the salty solution in large metal pans over firewood kilns until the water evaporates",
+        "D) By adding chemical enzymes that convert the liquid into solid camphor blocks"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 28,
+      "question": "What traditional material is used by the women of Ningel village to shape their finished salt products into round 'salt cakes'?",
+      "options": [
+        "A) Plastic molds",
+        "B) Polished iron grids",
+        "C) Copper wire sheets",
+        "D) Banana leaves and handmade tools"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 29,
+      "question": "What is the traditional Manipuri cloth name used to wrap and protect the completed round salt cakes?",
+      "options": [
+        "A) Saree",
+        "B) Phanek",
+        "C) Dhoti",
+        "D) Shawl"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 30,
+      "question": "When a small amount of solid salt is mixed into water, why do the salt crystals disappear completely from plain view?",
+      "options": [
+        "A) They break down into independent atoms that burn up in water",
+        "B) They float up into the upper atmosphere as a colorless gas",
+        "C) They separate into tiny individual particles that distribute evenly within the interparticle spaces of water",
+        "D) They double the physical mass of the water container walls"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 31,
+      "question": "If you take three beakers containing equal amounts of water at 20°C, 40°C, and 80°C, in which beaker will a spoonful of sugar dissolve the fastest?",
+      "options": [
+        "A) The beaker at 20°C",
+        "B) The beaker at 40°C",
+        "C) It will dissolve at the exact same rate across all three beakers",
+        "D) The beaker at 80°C due to higher thermal energy and faster particle motion"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 32,
+      "question": "What name is given to a solution that can still dissolve more solute at a given, stable temperature?",
+      "options": [
+        "A) Unsaturated solution",
+        "B) Saturated solution",
+        "C) Concentrated matrix",
+        "D) Precipitated layout"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 33,
+      "question": "Which of the following processes can be used to recover both the solute and the solvent safely from a salt-water solution?",
+      "options": [
+        "A) Simple open-pan evaporation",
+        "B) Manual filtration with paper",
+        "C) Distillation (using a condenser to trap vapor)",
+        "D) Magnetic extraction techniques"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 34,
+      "question": "What happens to the total mass of a system when 10 grams of sugar is completely dissolved in 90 grams of pure water inside a closed flask?",
+      "options": [
+        "A) The total mass becomes less than 100 grams due to diffusion loss",
+        "B) The total mass increases to 110 grams because of solution compaction",
+        "C) The total mass drops down to zero because sugar particles become invisible",
+        "D) The total mass remains exactly 100 grams, obeying the conservation of mass"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 35,
+      "question": "If you add a tiny crystal of copper sulfate to a large beaker of water and it dissolves completely to give a faint blue color throughout, this tells us that:",
+      "options": [
+        "A) Liquid water molecules change their chemical element type under stress",
+        "B) Copper sulfate has zero attractive force between its internal atoms",
+        "C) The solute crystal is made of an immense number of microscopic particles that spread out widely",
+        "D) The solution is highly saturated and unsafe to handle"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 36,
+      "question": "What specific term describes a solution where the solvent is pure ethyl alcohol or acetone instead of water?",
+      "options": [
+        "A) Saturated aqua",
+        "B) Non-aqueous solution",
+        "C) Hydrostatic concentrate",
+        "D) Dilute emulsion"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 37,
+      "question": "Why is it important to continuously stir a solution while adding solute particles to dissolve them quickly?",
+      "options": [
+        "A) Stirring increases the chemical mass value of the solute atoms",
+        "B) Stirring builds up a powerful electrostatic charge that melts the crystals",
+        "C) Stirring helps distribute the solute particles quickly, bringing fresh solvent into contact with the solid",
+        "D) Stirring increases the atmospheric pressure columns inside the beaker"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 38,
+      "question": "Tincture of iodine is a well-known medical antiseptic solution. What are its solute and solvent components respectively?",
+      "options": [
+        "A) Iodine is the solute, and alcohol is the solvent",
+        "B) Alcohol is the solute, and iodine is the solvent",
+        "C) Water is the solute, and iodine is the solvent",
+        "D) Iodine is the solute, and water is the solvent"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 39,
+      "question": "If a solution is prepared by mixing two liquids together, like alcohol and water, the liquid present in the larger volume is designated as the:",
+      "options": [
+        "A) Solute",
+        "B) Solvent",
+        "C) Filtrate",
+        "D) Alloy"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 40,
+      "question": "When a student reports that a solution has reached its saturation point at room temperature, it implies that:",
+      "options": [
+        "A) The solvent has completely evaporated from the container",
+        "B) The solution has started boiling vigorously without any external flame",
+        "C) An equilibrium state is reached where no more solute can dissolve at that temperature",
+        "D) The solute particles have turned into a gaseous state automatically"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 41,
+      "question": "What basic physical property explains why a true solution passes completely through a standard laboratory filter paper without leaving any residue?",
+      "options": [
+        "A) The solute particles react chemically to dissolve the paper pores",
+        "B) The filter paper only stops liquid molecules from passing through",
+        "C) The individual dissolved solute particles are smaller than the pore size of the filter paper",
+        "D) The solution loses its entire particulate weight during the filtration flow"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following parameters must always be specified when stating the exact solubility value of a substance?",
+      "options": [
+        "A) Wind speed across the room",
+        "B) Temperature",
+        "C) The shape of the storage container",
+        "D) The structural mass of the stirring rod"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 43,
+      "question": "If you mix a small amount of honey completely in a glass of warm water until it is perfectly uniform, the resulting mixture is a:",
+      "options": [
+        "A) Heterogeneous suspension",
+        "B) Homogeneous solution",
+        "C) Sublimated element block",
+        "D) Immiscible alloy matrix"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 44,
+      "question": "What mathematical relationship exists between the concentration of a solution and the amount of solute present in a fixed volume of solvent?",
+      "options": [
+        "A) Concentration decreases as the amount of solute increases",
+        "B) Concentration increases directly as the amount of solute increases",
+        "C) Concentration is completely independent of the solute mass value",
+        "D) Concentration drops to zero if the solute mass exceeds 50 grams"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 45,
+      "question": "The ultimate scientific purpose behind studying solutes, solvents, and solution concentrations is to:",
+      "options": [
+        "A) Eliminate the classification of elements and mixtures from school handbooks",
+        "B) Fundamentally understand how substances mix, interact, and dissolve uniformly to harness solutions precisely in medicine, heritage crafts, and daily life",
+        "C) Prove that water cannot dissolve gaseous elements under pressure",
+        "D) Convert liquid chemical solutions directly into permanent heavy magnets"
+      ],
+      "answer": "B"
+    }
+  ]
+}
