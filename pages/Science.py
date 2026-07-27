@@ -177,7 +177,7 @@ subjects = {
 # ==========================================
 for subject, tab in subjects.items():
 
-    folder = os.path.join("science", subject)
+    folder = os.path.join("science", subject.lower())
 
     with tab:
 
