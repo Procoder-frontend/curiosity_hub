@@ -3,6 +3,10 @@ import os
 import re
 import json
 import random
+from supabase import create_client
+SUPABASE_URL = "https://kmukvcojgcxegsadqotp.supabase.co"
+SUPABASE_KEY = "sb_publishable_RfACVy9SYRvD41V_kOsxlg_v-0rLdsS"
+supbase = create_client(SUPABASE_URL, SUPABASE_KEY)
 def count_files(root_folder, extension):
     total = 0
 
@@ -158,8 +162,10 @@ def create_user_profile(name):
     }
 
     # Save profile
-    with open(f"users/{user_id}.json", "w") as file:
-        json.dump(profile, file, indent=4)
+    supbase.table("users").insert({
+    "id": user_id,
+    "profile": profile
+    }).execute()
 
     # Remember who logged in
     st.session_state["user_id"] = user_id
@@ -247,17 +253,20 @@ with st.sidebar:
             if not os.path.exists("users"):
                 os.mkdir("users")
 
+            response = (
+    supbase
+    .table("users")
+    .select("profile")
+    .execute()
+            )
+
             matches = []
 
-            for file in os.listdir("users"):
+            for row in response.data:
+                data = row["profile"]
 
-                if file.endswith(".json"):
-
-                    with open(os.path.join("users", file), "r") as f:
-                        data = json.load(f)
-
-                    if data["name"].lower() == name.lower():
-                        matches.append(data)
+            if data["name"].lower() == name.lower():
+                matches.append(data)
 
             # New user
             if len(matches) == 0:
@@ -337,13 +346,17 @@ You will need it whenever you log in.
 
         if st.button("Login", use_container_width=True):
 
-            path = f"users/{entered_id}.json"
+            response = (
+    supbase
+    .table("users")
+    .select("profile")
+    .eq("id", entered_id)
+    .execute()
+            )
 
-            if os.path.exists(path):
+            if len(response.data) > 0:
 
-                with open(path, "r") as f:
-                    profile = json.load(f)
-
+                profile = response.data[0]["profile"]
                 if profile["name"].lower() == st.session_state["pending_name"].lower():
 
                     st.session_state["user_id"] = profile["id"]
@@ -395,10 +408,15 @@ if "user_id" not in st.session_state:
     st.error("No user logged in.")
     st.stop()
 
-USER_PATH = f'users/{st.session_state["user_id"]}.json'
+response = (
+    supbase
+    .table("users")
+    .select("profile")
+    .eq("id", st.session_state["user_id"])
+    .execute()
+)
 
-with open(USER_PATH, "r") as file:
-    profile = json.load(file)
+profile = response.data[0]["profile"]
 science_progress = int(
     len(profile["science_notes"])
     / TOTAL_SCIENCE_NOTES
