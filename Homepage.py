@@ -162,10 +162,17 @@ def create_user_profile(name):
     }
 
     # Save profile
-    supbase.table("users").insert({
-    "id": user_id,
-    "profile": profile
-    }).execute()
+    response = (
+    supbase
+    .table("users")
+    .insert({
+        "id": user_id,
+        "profile": profile
+    })
+    .execute()
+    )
+
+    st.write(response)
 
     # Remember who logged in
     st.session_state["user_id"] = user_id
@@ -265,8 +272,8 @@ with st.sidebar:
             for row in response.data:
                 data = row["profile"]
 
-            if data["name"].lower() == name.lower():
-                matches.append(data)
+                if data["name"].lower() == name.lower():
+                    matches.append(data)
 
             # New user
             if len(matches) == 0:
