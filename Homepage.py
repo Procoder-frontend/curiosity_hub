@@ -5,7 +5,7 @@ import json
 import random
 from supabase import create_client
 SUPABASE_URL = "https://kmukvcojgcxegsadqotp.supabase.co"
-SUPABASE_KEY = "sb_publishable_RfACVy9SYRvD41V_kOsxlg_v-0rLdsS"
+SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImttdWt2Y29qZ2N4ZWdzYWRxb3RwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODYxMTA3NjUsImV4cCI6MjEwMTY4Njc2NX0._0H5j6hr8c07XZk_xKUGB_qMDVu0LlrE4MNJJeHdomc"
 supbase = create_client(SUPABASE_URL, SUPABASE_KEY)
 def count_files(root_folder, extension):
     total = 0
