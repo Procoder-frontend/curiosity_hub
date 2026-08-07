@@ -163,7 +163,8 @@ def create_user_profile(name):
     }
 
     # Save profile
-    response = (
+    try :
+        response = (
     supbase
     .table("users")
     .insert({
@@ -171,14 +172,16 @@ def create_user_profile(name):
         "profile": profile
     })
     .execute()
-    )
+        )
 
-    st.write(response.data)
-    st.write(dir(response))
+        st.write(response.data)
+        st.write(dir(response))
     # Remember who logged in
-    st.session_state["user_id"] = user_id
+        st.session_state["user_id"] = user_id
 
-    return profile
+        return profile
+    except Exception as e:
+        st.error(e)
 
 TOTAL_SCIENCE_NOTES = count_files("science", ".pdf")
 TOTAL_SST_NOTES = count_files("sst", ".pdf")
