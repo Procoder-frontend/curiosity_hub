@@ -2,6 +2,11 @@ import streamlit as st
 from PIL import Image
 import os
 import json
+from supabase import create_client
+SUPABASE_URL = "https://kmukvcojgcxegsadqotp.supabase.co"
+SUPABASE_KEY ="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImttdWt2Y29qZ2N4ZWdzYWRxb3RwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODYxMTA3NjUsImV4cCI6MjEwMTY4Njc2NX0._0H5j6hr8c07XZk_xKUGB_qMDVu0LlrE4MNJJeHdomc"
+
+supbase = create_client(SUPABASE_URL, SUPABASE_KEY)
 # ==========================================
 # 1. PAGE CONFIG
 # ==========================================
@@ -160,10 +165,19 @@ if "user_id" not in st.session_state:
     st.error("Please log in first.")
     st.stop()
 
-USER_PATH = f'users/{st.session_state["user_id"]}.json'
+response = (
+    supbase
+    .table("users")
+    .select("profile")
+    .eq("id", st.session_state["user_id"])
+    .execute()
+)
 
-with open(USER_PATH, "r") as file:
-    profile = json.load(file)
+if not response.data:
+    st.error("User profile not found.")
+    st.stop()
+
+profile = response.data[0]["profile"]
 # ==========================================
 tab1, tab2, tab3 = st.tabs([
     "📜 History",
@@ -241,11 +255,13 @@ with tab1:
 
                             profile["sst_notes"].append(note_name)
 
-                            with open(USER_PATH, "w") as file:
-                                json.dump(profile, file, indent=4)
+                            supbase.table("users").update(
+                            {"profile": profile}
+                            ).eq(
+                            "id", st.session_state["user_id"]
+                            ).execute()
 
                             st.success("Progress updated!")
-
                     st.write("")
 
         else:
@@ -316,8 +332,11 @@ with tab2:
 
                             profile["sst_notes"].append(note_name)
 
-                            with open(USER_PATH, "w") as file:
-                                json.dump(profile, file, indent=4)
+                            supbase.table("users").update(
+                                {"profile": profile}
+                                ).eq(
+                                "id", st.session_state["user_id"]
+                            ).execute()
 
                             st.success("Progress updated!")
 
@@ -395,16 +414,19 @@ with tab3:
 
                         note_name = filename.replace(".pdf", "")
 
-                        if note_name not in profile["civics_notes"]:
+                        if note_name not in profile["sst_notes"]:
 
-                            profile["civics_notes"].append(note_name)
+                            profile["sst_notes"].append(note_name)
 
-                        with open(USER_PATH, "w") as file:
-                            json.dump(profile, file, indent=4)
+                            supbase.table("users").update(
+                                {"profile": profile}
+                                ).eq(
+                                "id", st.session_state["user_id"]
+                            ).execute()
 
-                        st.success("Progress updated!")
+                            st.success("Progress updated!")
 
-                        st.write("")
+                    st.write("")
 
         else:
             st.info("No Civics notes available.")
