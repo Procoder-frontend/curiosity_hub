@@ -7,7 +7,7 @@ from supabase import create_client
 SUPABASE_URL = "https://kmukvcojgcxegsadqotp.supabase.co"
 SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImttdWt2Y29qZ2N4ZWdzYWRxb3RwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODYxMTA3NjUsImV4cCI6MjEwMTY4Njc2NX0._0H5j6hr8c07XZk_xKUGB_qMDVu0LlrE4MNJJeHdomc"
 supbase = create_client(SUPABASE_URL, SUPABASE_KEY)
-st.write(supbase)
+
 def count_files(root_folder, extension):
     total = 0
 
@@ -174,8 +174,6 @@ def create_user_profile(name):
     .execute()
         )
 
-        st.write(response.data)
-        st.write(dir(response))
     # Remember who logged in
         st.session_state["user_id"] = user_id
 
