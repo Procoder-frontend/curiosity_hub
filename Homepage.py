@@ -174,7 +174,8 @@ def create_user_profile(name):
     .execute()
         )
 
-        
+        st.write(response.data)
+        st.write(dir(response))
     # Remember who logged in
         st.session_state["user_id"] = user_id
 
