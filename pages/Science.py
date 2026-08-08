@@ -2,6 +2,11 @@ import streamlit as st
 import os
 import re
 import json
+from supabase import create_client
+SUPABASE_URL = st.secrets["SUPABASE_URL"]
+SUPABASE_KEY = st.secrets["SUPABASE_KEY"]
+
+supbase = create_client(SUPABASE_URL, SUPABASE_KEY)
 # ==========================================
 # 1. PAGE CONFIG
 # ==========================================
@@ -124,10 +129,19 @@ if "user_id" not in st.session_state:
     st.error("Please log in first.")
     st.stop()
 
-USER_PATH = f'users/{st.session_state["user_id"]}.json'
+response = (
+    supbase
+    .table("users")
+    .select("profile")
+    .eq("id", st.session_state["user_id"])
+    .execute()
+)
 
-with open(USER_PATH, "r") as file:
-    profile = json.load(file)
+if not response.data:
+    st.error("User profile not found.")
+    st.stop()
+
+profile = response.data[0]["profile"]
 # ==========================================
 col1, col2, col3 = st.columns(3)
 
@@ -232,9 +246,13 @@ for subject, tab in subjects.items():
 
                             profile["science_notes"].append(note_name)
 
-                        with open(USER_PATH, "w") as file:
-                            json.dump(profile, file, indent=4)
-
+                            response = (
+                                supbase
+                                .table("users")
+                                .update({"profile": profile})
+                                .eq("id", st.session_state["user_id"])
+                                .execute()
+                            )
                         st.success("Progress updated!")
 
                         st.write("")
