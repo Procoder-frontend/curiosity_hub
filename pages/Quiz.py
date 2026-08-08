@@ -3,7 +3,12 @@ import json
 import os
 import random
 import re
+from supabase import create_client
+SUPABASE_URL = "https://kmukvcojgcxegsadqotp.supabase.co"
+SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImttdWt2Y29qZ2N4ZWdzYWRxb3RwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODYxMTA3NjUsImV4cCI6MjEwMTY4Njc2NX0._0H5j6hr8c07XZk_xKUGB_qMDVu0LlrE4MNJJeHdomc"
 
+supbase = create_client(SUPABASE_URL, SUPABASE_KEY)
+# ==========================================
 # ==========================================
 # 1. BASE CONFIGURATION
 # ==========================================
@@ -198,11 +203,19 @@ if "user_id" not in st.session_state:
     st.error("Please log in first.")
     st.stop()
 
-USER_PATH = f'users/{st.session_state["user_id"]}.json'
+response = (
+    supbase
+    .table("users")
+    .select("profile")
+    .eq("id", st.session_state["user_id"])
+    .execute()
+)
 
-with open(USER_PATH, "r") as file:
-    profile = json.load(file)
+if not response.data:
+    st.error("User profile not found.")
+    st.stop()
 
+profile = response.data[0]["profile"]
 if "active_quiz_id" not in st.session_state:
     st.session_state.active_quiz_id = None
 
@@ -374,6 +387,7 @@ def run_quiz_engine(quiz_title, json_filename):
                 # Corrected logic boundaries inside the action block:
                 if accuracy >= 80:
                     quiz_name = os.path.basename(json_filename).replace(".json", "")
+
                     if "Science" in quiz_title:
                         if quiz_name not in profile["science_quizzes"]:
                             profile["science_quizzes"].append(quiz_name)
@@ -381,9 +395,11 @@ def run_quiz_engine(quiz_title, json_filename):
                         if quiz_name not in profile["sst_quizzes"]:
                             profile["sst_quizzes"].append(quiz_name)
 
-                    with open(USER_PATH, "w") as file:
-                        json.dump(profile, file, indent=4)
-
+                    supbase.table("users").update(
+                    {"profile": profile}
+                    ).eq(
+                    "id", st.session_state["user_id"]
+                    ).execute()
                 st.session_state.quiz_finished = True
                 st.rerun()
 
