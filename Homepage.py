@@ -264,7 +264,7 @@ with st.sidebar:
             for row in response.data:
                 data = row["profile"]
 
-                if data["name"].strip().lower() == name.split().lower():
+                if data["name"].strip().lower() == name.strip().lower():
                     matches.append(data)
 
             # New user
