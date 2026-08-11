@@ -144,6 +144,7 @@ def create_user_profile(name):
     # Create users folder automatically if missing
     if not os.path.exists("users"):
         os.mkdir("users")
+    username = name.strip().replace(" ", "_")
 
     # Generate unique ID
     user_id = f"{name}_{random.randint(1000,9999)}"
