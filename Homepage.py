@@ -150,20 +150,6 @@ def create_user_profile(name):
     # Generate unique ID
     user_id = f"{username}_{random.randint(1000,9999)}"
 
-    # Prevent duplicate IDs
-    while True:
-        response = (
-        supbase
-        .table("users")
-        .select("id")
-        .eq("id", user_id)
-        .execute()
-    )
-    
-        if len(response.data) == 0:
-            break
-
-        user_id = f"{username}_{random.randint(1000,9999)}"
     # User profile structure
     profile = {
         "name": name,
