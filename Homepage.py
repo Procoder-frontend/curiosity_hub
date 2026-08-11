@@ -144,15 +144,26 @@ def create_user_profile(name):
     # Create users folder automatically if missing
     if not os.path.exists("users"):
         os.mkdir("users")
+
     username = name.strip().replace(" ", "_")
 
     # Generate unique ID
-    user_id = f"{name}_{random.randint(1000,9999)}"
+    user_id = f"{username}_{random.randint(1000,9999)}"
 
     # Prevent duplicate IDs
-    while os.path.exists(f"users/{user_id}.json"):
-        user_id = f"{name}_{random.randint(1000,9999)}"
+    while True:
+        response = (
+        supbase
+        .table("users")
+        .select("id")
+        .eq("id", user_id)
+        .execute()
+    )
+    
+        if len(response.data) == 0:
+            break
 
+        user_id = f"{username}_{random.randint(1000,9999)}"
     # User profile structure
     profile = {
         "name": name,
