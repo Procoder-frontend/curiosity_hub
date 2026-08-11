@@ -220,14 +220,6 @@ with st.sidebar:
 
     st.write("---")
 
-    # ==========================
-    # ACCOUNT SECTION
-    # ==========================
-
-        # ==========================
-    # ACCOUNT SECTION
-    # ==========================
-
 # ==========================
 # ACCOUNT SECTION
 # ==========================
@@ -272,7 +264,7 @@ with st.sidebar:
             for row in response.data:
                 data = row["profile"]
 
-                if data["name"].lower() == name.lower():
+                if data["name"].strip().lower() == name.split().lower():
                     matches.append(data)
 
             # New user
