@@ -92,7 +92,7 @@ with st.sidebar:
         st.switch_page("pages/Quiz.py")
     # About Us Page Button
     if st.button("ℹ️ About Us", use_container_width=True):
-        st.switch_page("pages/About_Us.py")
+        st.switch_page("pages/About_us.py")
     # Structural border line separating brand identity from upcoming custom navigation
     st.write("---") 
     # General brand greeting section in the sidebar
