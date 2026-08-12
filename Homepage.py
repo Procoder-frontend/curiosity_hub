@@ -246,6 +246,8 @@ with st.sidebar:
 
         if name.strip() == "":
             st.warning("Please enter your name.")
+            st.session_state["login_mode"] = False
+            st.session_state["choose_action"] = False
 
         else:
 
