@@ -52,6 +52,12 @@ h1,h2,h3,h4,h5,h6 {
     font-weight: 600 !important;
 }
 
+/* PROGRESS BAR */
+div[data-testid="stProgress"] > div > div {
+    background-color: #864df7 !important;
+}
+
+
 .note-card {
     background-color: #161B22;
     padding: 20px;
