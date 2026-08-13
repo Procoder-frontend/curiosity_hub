@@ -51,17 +51,15 @@ h1,h2,h3,h4,h5,h6 {
     font-size: 20px !important;
     font-weight: 600 !important;
 }
-
-/* Progress track */
-div[data-testid="stProgress"] div[role="progressbar"] {
-    background-color: transparent !important;
+/* Progress bar background */
+div[data-testid="stProgress"] > div > div {
+    background-color: #30363D !important;
 }
 
-/* Progress fill */
-div[data-testid="stProgress"] div[role="progressbar"] > div {
+/* Actual progress fill */
+div[data-testid="stProgress"] > div > div > div {
     background-color: #4bd439 !important;
 }
-
 .note-card {
     background-color: #161B22;
     padding: 20px;
