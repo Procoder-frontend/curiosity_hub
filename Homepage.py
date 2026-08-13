@@ -52,6 +52,15 @@ h1,h2,h3,h4,h5,h6 {
     font-weight: 600 !important;
 }
 
+/* Progress track */
+div[data-testid="stProgress"] div[role="progressbar"] {
+    background-color: transparent !important;
+}
+
+/* Progress fill */
+div[data-testid="stProgress"] div[role="progressbar"] > div {
+    background-color: #4bd439 !important;
+}
 
 .note-card {
     background-color: #161B22;
