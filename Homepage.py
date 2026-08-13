@@ -152,7 +152,7 @@ def create_user_profile(name):
 
     # User profile structure
     profile = {
-        "name": name,
+        "name": username,
         "id": user_id,
         "science_notes": [],
         "sst_notes": [],
