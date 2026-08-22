@@ -424,6 +424,10 @@ response = (
     .eq("id", st.session_state["user_id"])
     .execute()
 )
+if not response.data:
+    st.warning("Your session has expired. Please log in again.")
+    st.session_state.pop("user_id", None)
+    st.rerun()
 
 profile = response.data[0]["profile"]
 science_progress = int(
