@@ -95,6 +95,9 @@ with st.sidebar:
     if st.button("ℹ️ About Us", use_container_width=True):
         st.switch_page("pages/About_us.py")
 
+    if st.button("📝 Review", use_container_width=True):
+        st.switch_page("pages/Review.py")
+        
     st.write("---")
 
 # ==========================================
