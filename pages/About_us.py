@@ -115,7 +115,10 @@ st.markdown("<h2 style='color:#FF9F43;'>Quality Ensured 🛡️</h2>", unsafe_al
 st.markdown("<h3 >Every resource you see on this app is carefully designed and checked for accuracy and relevance before being made available to users.</h3>", unsafe_allow_html=True)
 
 # Operational Personnel Directory (The Core Workspace Leads)
-st.markdown("<h2 style='color:#6C5CE7;'>Lead Contributors 📝</h2>", unsafe_allow_html=True)
+st.markdown("<h2 style='color:#6C5CE7;'>Founding Partners 📝</h2>", unsafe_allow_html=True)
 st.markdown("<h3>1. Keshav Gupta (Tech & Engineering Lead)</h3>", unsafe_allow_html=True)
 st.markdown("<h3>2. Devanshi Panwar (Core Content & Research Lead)</h3>", unsafe_allow_html=True)
 st.markdown("<h3>3. Yashvi Bhardwaj (UI & Creative Design Lead)</h3>", unsafe_allow_html=True)
+st.write("")
+st.markdown("<h2 style='color:#FFB721;'>Leading Contributors 📝</h2>", unsafe_allow_html=True)
+st.markdown("<h3>1. Yognya Jaiswal (Content Development)</h3>", unsafe_allow_html=True)
